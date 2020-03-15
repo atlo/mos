@@ -1,0 +1,379 @@
+2018/10/30 14:04:25 Setting default language to user
+2018/10/30 14:09:25 Setting default language to user
+2018/10/30 14:14:25 Setting default language to user
+2018/10/30 14:14:39 Setting default language to user
+2018/10/30 14:14:39 Layout prepend running
+2018/10/30 14:14:39 Adding css /assets/css/main.css
+2018/10/30 14:14:39 SELECT * FROM media_type ORDER BY id
+2018/10/30 14:14:39 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/30 14:14:39 Anyone is allowed
+2018/10/30 14:14:39 Render layout frontend
+2018/10/30 14:14:40 Layout prepend running
+2018/10/30 14:14:40 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/30 14:14:40 Anyone is allowed
+2018/10/30 14:14:40 Render layout frontend
+2018/10/30 14:14:40 Layout prepend running
+2018/10/30 14:14:40 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/30 14:14:40 Anyone is allowed
+2018/10/30 14:14:40 Render layout frontend
+2018/10/30 14:14:40 Layout prepend running
+2018/10/30 14:14:40 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/30 14:14:40 Anyone is allowed
+2018/10/30 14:14:40 Render layout frontend
+2018/10/30 14:14:40 Layout prepend running
+2018/10/30 14:14:40 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/30 14:14:40 Anyone is allowed
+2018/10/30 14:14:40 Render layout frontend
+2018/10/30 14:14:40 Layout prepend running
+2018/10/30 14:14:40 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/30 14:14:40 Anyone is allowed
+2018/10/30 14:14:40 Render layout frontend
+2018/10/30 14:17:43 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false} 0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[youtube: spotify: facebook: instagram: linkedin:] Language:{Allowed:[hu en]}}
+2018/10/30 14:17:43 Initializing translator
+2018/10/30 14:17:43 Translator initialization done
+2018/10/30 14:17:43 Ininialize connection
+2018/10/30 14:18:05 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:true} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[spotify: facebook: instagram: linkedin: youtube:] Language:{Allowed:[hu en]}}
+2018/10/30 14:18:05 Initializing translator
+2018/10/30 14:18:05 Translator initialization done
+2018/10/30 14:18:05 Ininialize connection
+2018/10/30 14:18:06 SET OPERATOR TIMELINE BACKWARD...
+2018/10/30 14:18:06 Parsing file Data/merge_kicsi.csv
+
+2018/10/30 14:18:06 Start importing media data...
+2018/10/30 14:18:06 Parsing file Data/media_allando_attributumai_1998_2009.csv
+
+2018/10/30 14:18:06 Parsing file Data/Medium_allando_attributumai_hirmedium_2017.csv
+
+2018/10/30 14:18:08 Done importing media data...
+2018/10/30 14:18:08 Start importing owner data...
+2018/10/30 14:18:08 Parsing file Data/Tulajdonosok_allando_attributumai.csv
+
+2018/10/30 14:18:09 Parsing file Data/Vegtulajdonos_allando_attributumai_2017is.csv
+
+2018/10/30 14:18:10 Done importing owner data...
+2018/10/30 14:18:10 Start importing operator data...
+2018/10/30 14:18:10 Parsing file Data/Uzemelteto_allando_attributumai_alapitasiev.csv
+
+2018/10/30 14:18:19 Parsing file Data/uzemelteto_allando_attributumai_alapitas_eve_1998_2009.csv
+
+2018/10/30 14:18:19 Parsing file Data/Uzemelteto_allando_attributumai_alapitasiev_2017is.csv
+
+2018/10/30 14:18:20 Done importing operator data...
+2018/10/30 14:18:20 Start importing media owner data...
+2018/10/30 14:18:20 Parsing file Data/Halozati_tablak_kesz_1998.csv
+
+2018/10/30 14:18:21 Parsing file Data/Halozati_tablak_kesz_1999.csv
+
+2018/10/30 14:18:21 Parsing file Data/Halozati_tablak_kesz_2000.csv
+
+2018/10/30 14:18:22 Parsing file Data/Halozati_tablak_kesz_2001.csv
+
+2018/10/30 14:18:23 Parsing file Data/Halozati_tablak_kesz_2002.csv
+
+2018/10/30 14:18:24 Parsing file Data/Halozati_tablak_kesz_2003.csv
+
+2018/10/30 14:18:25 Parsing file Data/Halozati_tablak_kesz_2004.csv
+
+2018/10/30 14:18:26 Parsing file Data/Halozati_tablak_kesz_2005.csv
+
+2018/10/30 14:18:26 Parsing file Data/Halozati_tablak_kesz_2006.csv
+
+2018/10/30 14:18:27 Parsing file Data/Halozati_tablak_kesz_2007.csv
+
+2018/10/30 14:18:28 Parsing file Data/Halozati_tablak_kesz_2008.csv
+
+2018/10/30 14:18:29 Parsing file Data/Halozati_tablak_kesz_2009.csv
+
+2018/10/30 14:18:30 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2010.csv
+
+2018/10/30 14:18:33 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2011.csv
+
+2018/10/30 14:18:35 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2012.csv
+
+2018/10/30 14:18:37 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2013.csv
+
+2018/10/30 14:18:40 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2014.csv
+
+2018/10/30 14:18:43 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2015.csv
+
+2018/10/30 14:18:47 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2016.csv
+
+2018/10/30 14:18:52 Parsing file Data/Halozati_tablak_vegtulajjal_2017.csv
+
+2018/10/30 14:18:57 243 missing media found, skipped
+2018/10/30 14:18:57 Done importing media owner data...
+2018/10/30 14:18:57 Start importing media operator data...
+2018/10/30 14:18:57 Parsing file Data/Halozati_tablak_kesz_1998.csv
+
+2018/10/30 14:18:57 Parsing file Data/Halozati_tablak_kesz_1999.csv
+
+2018/10/30 14:18:58 Parsing file Data/Halozati_tablak_kesz_2000.csv
+
+2018/10/30 14:18:59 Parsing file Data/Halozati_tablak_kesz_2001.csv
+
+2018/10/30 14:18:59 Parsing file Data/Halozati_tablak_kesz_2002.csv
+
+2018/10/30 14:19:00 Parsing file Data/Halozati_tablak_kesz_2003.csv
+
+2018/10/30 14:19:00 Parsing file Data/Halozati_tablak_kesz_2004.csv
+
+2018/10/30 14:19:01 Parsing file Data/Halozati_tablak_kesz_2005.csv
+
+2018/10/30 14:19:02 Parsing file Data/Halozati_tablak_kesz_2006.csv
+
+2018/10/30 14:19:03 Parsing file Data/Halozati_tablak_kesz_2007.csv
+
+2018/10/30 14:19:03 Parsing file Data/Halozati_tablak_kesz_2008.csv
+
+2018/10/30 14:19:04 Parsing file Data/Halozati_tablak_kesz_2009.csv
+
+2018/10/30 14:19:05 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2010.csv
+
+2018/10/30 14:19:07 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2011.csv
+
+2018/10/30 14:19:09 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2012.csv
+
+2018/10/30 14:19:11 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2013.csv
+
+2018/10/30 14:19:13 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2014.csv
+
+2018/10/30 14:19:16 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2015.csv
+
+2018/10/30 14:19:19 Parsing file Data/Halozati_tablak_evente_vegtulaj_ID_3_2016.csv
+
+2018/10/30 14:19:22 Parsing file Data/Halozati_tablak_vegtulajjal_2017.csv
+
+2018/10/30 14:19:25 767 `Egyéb` operator has been skipped
+
+2018/10/30 14:19:25 Missing media and skip row: 925
+
+2018/10/30 14:19:25 Missing operator and skip row: 9
+
+2018/10/30 14:19:25 Done importing media operator data...
+2018/10/30 14:19:25 Start importing operator year address data...
+2018/10/30 14:19:25 Parsing file Data/uzemelteto_cim_idosoros_1998_2009.csv
+
+2018/10/30 14:19:25 Setting default language to user
+2018/10/30 14:20:29 Layout prepend running
+2018/10/30 14:20:29 Adding css /assets/css/main.css
+2018/10/30 14:20:29 SELECT * FROM media_type ORDER BY id
+2018/10/30 14:20:29 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/30 14:20:29 Anyone is allowed
+2018/10/30 14:20:29 Render layout frontend
+2018/10/30 14:20:30 Layout prepend running
+2018/10/30 14:20:30 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/30 14:20:30 Anyone is allowed
+2018/10/30 14:20:30 Layout prepend running
+2018/10/30 14:20:30 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/30 14:20:30 Anyone is allowed
+2018/10/30 14:20:30 Render layout frontend
+2018/10/30 14:20:30 Layout prepend running
+2018/10/30 14:20:30 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/30 14:20:30 Anyone is allowed
+2018/10/30 14:20:30 Layout prepend running
+2018/10/30 14:20:30 Layout prepend running
+2018/10/30 14:20:30 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/30 14:20:30 Anyone is allowed
+2018/10/30 14:20:30 Render layout frontend
+2018/10/30 14:20:30 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/30 14:20:30 Anyone is allowed
+2018/10/30 14:20:30 Render layout frontend
+2018/10/30 14:21:59 Layout prepend running
+2018/10/30 14:21:59 Adding css /assets/css/main.css
+2018/10/30 14:21:59 SELECT * FROM media_type ORDER BY id
+2018/10/30 14:21:59 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/30 14:21:59 Anyone is allowed
+2018/10/30 14:21:59 Render layout frontend
+2018/10/30 14:22:00 Layout prepend running
+2018/10/30 14:22:00 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/30 14:22:00 Anyone is allowed
+2018/10/30 14:22:00 Render layout frontend
+2018/10/30 14:22:00 Layout prepend running
+2018/10/30 14:22:00 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/30 14:22:00 Anyone is allowed
+2018/10/30 14:22:00 Render layout frontend
+2018/10/30 14:22:00 Layout prepend running
+2018/10/30 14:22:00 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/30 14:22:00 Anyone is allowed
+2018/10/30 14:22:00 Render layout frontend
+2018/10/30 14:22:00 Layout prepend running
+2018/10/30 14:22:00 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/30 14:22:00 Anyone is allowed
+2018/10/30 14:22:00 Render layout frontend
+2018/10/30 14:22:00 Layout prepend running
+2018/10/30 14:22:00 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/30 14:22:00 Anyone is allowed
+2018/10/30 14:22:00 Render layout frontend
+2018/10/30 14:22:29 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[facebook: instagram: linkedin: youtube: spotify:] Language:{Allowed:[hu en]}}
+2018/10/30 14:22:29 Initializing translator
+2018/10/30 14:22:29 Translator initialization done
+2018/10/30 14:22:29 Ininialize connection
+2018/10/30 14:22:36 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[instagram: linkedin: youtube: spotify: facebook:] Language:{Allowed:[hu en]}}
+2018/10/30 14:22:36 Initializing translator
+2018/10/30 14:22:36 Translator initialization done
+2018/10/30 14:22:36 Ininialize connection
+2018/10/30 14:22:53 Layout prepend running
+2018/10/30 14:22:53 Adding css /assets/css/main.css
+2018/10/30 14:22:53 SELECT * FROM media_type ORDER BY id
+2018/10/30 14:22:53 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/30 14:22:53 Anyone is allowed
+2018/10/30 14:22:53 Render layout frontend
+2018/10/30 14:22:54 Layout prepend running
+2018/10/30 14:22:54 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/30 14:22:54 Anyone is allowed
+2018/10/30 14:22:54 Render layout frontend
+2018/10/30 14:22:54 Layout prepend running
+2018/10/30 14:22:54 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/30 14:22:54 Anyone is allowed
+2018/10/30 14:22:54 Layout prepend running
+2018/10/30 14:22:54 Layout prepend running
+2018/10/30 14:22:54 Layout prepend running
+2018/10/30 14:22:54 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/30 14:22:54 Anyone is allowed
+2018/10/30 14:22:54 Render layout frontend
+2018/10/30 14:23:37 Layout prepend running
+2018/10/30 14:23:37 Adding css /assets/css/main.css
+2018/10/30 14:23:37 SELECT * FROM media_type ORDER BY id
+2018/10/30 14:23:37 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/30 14:23:37 Anyone is allowed
+2018/10/30 14:23:37 Render layout frontend
+2018/10/30 14:23:37 Layout prepend running
+2018/10/30 14:23:37 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/30 14:23:37 Anyone is allowed
+2018/10/30 14:23:37 Render layout frontend
+2018/10/30 14:23:37 Layout prepend running
+2018/10/30 14:23:37 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/30 14:23:37 Anyone is allowed
+2018/10/30 14:23:37 Render layout frontend
+2018/10/30 14:23:37 Layout prepend running
+2018/10/30 14:23:37 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/30 14:23:37 Anyone is allowed
+2018/10/30 14:23:37 Render layout frontend
+2018/10/30 14:23:37 Layout prepend running
+2018/10/30 14:23:37 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/30 14:23:37 Anyone is allowed
+2018/10/30 14:23:37 Render layout frontend
+2018/10/30 14:23:37 Layout prepend running
+2018/10/30 14:23:37 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/30 14:23:37 Anyone is allowed
+2018/10/30 14:23:37 Render layout frontend
+2018/10/30 14:24:25 Setting default language to user
+2018/10/30 14:25:31 Layout prepend running
+2018/10/30 14:25:31 Adding css /assets/css/main.css
+2018/10/30 14:25:31 SELECT * FROM media_type ORDER BY id
+2018/10/30 14:25:31 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/30 14:25:31 Anyone is allowed
+2018/10/30 14:25:31 Render layout frontend
+2018/10/30 14:25:32 Layout prepend running
+2018/10/30 14:25:32 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/30 14:25:32 Anyone is allowed
+2018/10/30 14:25:32 Render layout frontend
+2018/10/30 14:25:32 Layout prepend running
+2018/10/30 14:25:32 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/30 14:25:32 Anyone is allowed
+2018/10/30 14:25:32 Render layout frontend
+2018/10/30 14:25:32 Layout prepend running
+2018/10/30 14:25:32 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/30 14:25:32 Anyone is allowed
+2018/10/30 14:25:32 Render layout frontend
+2018/10/30 14:25:32 Layout prepend running
+2018/10/30 14:25:32 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/30 14:25:32 Anyone is allowed
+2018/10/30 14:25:32 Render layout frontend
+2018/10/30 14:25:32 Layout prepend running
+2018/10/30 14:25:32 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/30 14:25:32 Anyone is allowed
+2018/10/30 14:25:32 Render layout frontend
+2018/10/30 14:29:25 Setting default language to user
+2018/10/30 14:34:25 Setting default language to user
+2018/10/30 14:39:25 Setting default language to user
+2018/10/30 14:40:54 Setting default language to user
+2018/10/30 14:40:54 Layout prepend running
+2018/10/30 14:40:54 template scope is admin
+2018/10/30 14:40:54 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/30 14:40:54 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/30 14:40:54 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/30 14:40:54 Adding css /vendor/morrisjs/morris.css
+2018/10/30 14:40:54 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/30 14:40:54 Adding css /assets/summernote/summernote.css
+2018/10/30 14:40:54 Adding css /assets/css/admin.css
+2018/10/30 14:40:54 Logged out user allowed
+2018/10/30 14:40:54 Anyone is allowed
+2018/10/30 14:40:54 Loggedin user is allowed (admin users)
+2018/10/30 14:40:54 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/30 14:40:54 Redirecting to /admin/user/welcome
+2018/10/30 14:40:54 No render /admin/block/index -> redirect
+2018/10/30 14:40:54 Setting default language to user
+2018/10/30 14:40:54 Layout prepend running
+2018/10/30 14:40:54 template scope is admin
+2018/10/30 14:40:54 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/30 14:40:54 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/30 14:40:54 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/30 14:40:54 Adding css /vendor/morrisjs/morris.css
+2018/10/30 14:40:54 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/30 14:40:54 Adding css /assets/summernote/summernote.css
+2018/10/30 14:40:54 Adding css /assets/css/admin.css
+2018/10/30 14:40:54 Logged out user allowed
+2018/10/30 14:40:54 Anyone is allowed
+2018/10/30 14:40:54 Loggedin user is allowed (admin users)
+2018/10/30 14:40:54 REGEXP FOUND: "^/admin/user/welcome$" in path "/admin/user/welcome"
+
+2018/10/30 14:40:54 Loggedin user is allowed (admin users)
+2018/10/30 14:40:54 Redirecting to /admin/user/login
+2018/10/30 14:40:54 No render /admin/user/welcome -> redirect
+2018/10/30 14:40:54 Setting default language to user
+2018/10/30 14:40:54 Layout prepend running
+2018/10/30 14:40:54 template scope is admin
+2018/10/30 14:40:54 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/30 14:40:54 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/30 14:40:54 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/30 14:40:54 Adding css /vendor/morrisjs/morris.css
+2018/10/30 14:40:54 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/30 14:40:54 Adding css /assets/summernote/summernote.css
+2018/10/30 14:40:54 Adding css /assets/css/admin.css
+2018/10/30 14:40:54 Logged out user allowed
+2018/10/30 14:40:54 Anyone is allowed
+2018/10/30 14:40:54 Loggedin user is allowed (admin users)
+2018/10/30 14:40:54 REGEXP FOUND: "^/admin/user/login$" in path "/admin/user/login"
+
+2018/10/30 14:40:54 Logged out user allowed
+2018/10/30 14:40:54 Render layout admin
+2018/10/30 14:44:25 Setting default language to user
+2018/10/30 14:49:25 Setting default language to user
+2018/10/30 14:54:25 Setting default language to user
+2018/10/30 14:59:25 Setting default language to user

@@ -1,0 +1,21 @@
+<style type="text/css">
+    .language-switch-container{
+        position: fixed;
+        top: 0;
+        right: 0;
+        box-sizing: border-box;
+        border:1px solid #777;
+        padding: 5px;
+    }
+    .language-switch-container a{
+        color: #777;
+    }
+    .language-switch-container a.active{
+        color: #aaa;
+    }
+</style>
+<div class="language-switch-container">
+{{range .Langs}}
+    <a class="language-switcher {{if index . "active"}}active{{end}}" href="{{index . "url"}}">{{index . "title"}}</a>
+{{end}}
+</div>

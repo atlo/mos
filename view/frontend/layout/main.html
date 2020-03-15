@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128875348-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-128875348-1');
+    </script>
+    <title>{{.Title}}</title>
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+{{.GetMetaTags}}
+{{.GetCssHtml}}
+{{.GetScriptHtml "header"}}
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#999999",
+                        "text": "#303030"
+                    },
+                    "button": {
+                        "background": "#ffffff",
+                        "text": "#303030"
+                    }
+                },
+                "showLink": false,
+                "theme": "edgeless",
+                "position": "bottom-right",
+                "content": {
+                    "message": "This website uses cookies to ensure you get the best experience on our website."
+                }
+            })});
+    </script>
+</head>
+<body class="{{.BodyClass}}">
+{{.GetContent}}
+{{.GetScriptHtml "footer"}}
+</body>
+</html>

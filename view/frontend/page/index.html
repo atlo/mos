@@ -1,0 +1,49 @@
+{{range .Blocks}}
+    <div class="overlay" data-overlay="{{.Identifier}}">
+    <div class="overlay__content">
+        <div class="overlay__head">
+            <div class="overlay__title">{{.Title}}</div>
+            <div class="overlay__close" data-overlay-close="{{.Identifier}}"></div>
+        </div>
+        <div class="overlay__body">{{.GetContent}}</div>
+    </div>
+</div>
+{{end}}
+{{.GraphContent}}
+<main class="main" data-graph-container>
+    <div id="graph" style="height: 100%; display: flex; align-items: center; justify-content: center;">
+        <svg version="1.1" id="L5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" enable-background="new 0 0 0 0" xml:space="preserve" width="60px" height="60px">
+            <circle fill="#fff" stroke="none" cx="6" cy="30" r="6" transform="translate(0 -14.5267)">
+                <animateTransform attributeName="transform" dur="1s" type="translate" values="0 15 ; 0 -15; 0 15" repeatCount="indefinite" begin="0.1"></animateTransform>
+            </circle>
+            <circle fill="#fff" stroke="none" cx="30" cy="30" r="6" transform="translate(0 -6.31556)">
+                <animateTransform attributeName="transform" dur="1s" type="translate" values="0 10 ; 0 -10; 0 10" repeatCount="indefinite" begin="0.2"></animateTransform>
+            </circle>
+            <circle fill="#fff" stroke="none" cx="54" cy="30" r="6" transform="translate(0 -1.15778)">
+                <animateTransform attributeName="transform" dur="1s" type="translate" values="0 5 ; 0 -5; 0 5" repeatCount="indefinite" begin="0.3"></animateTransform>
+            </circle>
+        </svg>
+    </div>
+</main>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol id="icon-arrow-down" viewBox="-47 49 64 64" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .st0 {
+                fill: #838383
+            }
+        </style>
+        <path d="M-2.7 83.5L-14 94.8v-30h-2v30l-11.3-11.3-1.4 1.4L-15 98.6l13.7-13.7z" class="st0" />
+    </symbol>
+    <symbol id="icon-arrow-up" viewBox="-47 49 64 64" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .st0 {
+                fill: #838383
+            }
+        </style>
+        <path d="M-27.3 80L-16 68.7v29.9h2V68.7L-2.7 80l1.4-1.5L-15 64.8l-13.7 13.7z" class="st0" />
+    </symbol>
+    <symbol viewBox="0 0 256 256" id="icon-globe" xmlns="http://www.w3.org/2000/svg">
+        <path d="M128 0C57.6 0 0 57.6 0 128s57.6 128 128 128 128-57.6 128-128S198.4 0 128 0zm115.6 122h-41.2C201.2 78 188 40.8 168 19.6c42.4 15.6 73.2 55.2 75.6 102.4zM122 12.8V122H65.6C67.2 65.6 92 18.4 122 12.8zm0 121.2v109.2c-30-5.6-54.8-52.8-56.4-109.2H122zm12 109.2V134h56.4c-1.6 56.4-26.4 103.6-56.4 109.2zm0-121.2V12.8c30 5.6 54.8 52.8 56.4 109.2H134zM88 19.6C68 41.2 54.8 78.4 53.6 122H12.4C14.8 74.8 45.6 35.2 88 19.6zM12.4 134h41.2C54.8 178 68 215.2 88 236.4 45.6 220.8 14.8 181.2 12.4 134zM168 236.4c20-21.6 33.2-58.8 34.4-102.4h41.2c-2.4 47.2-33.2 86.8-75.6 102.4z"
+        />
+    </symbol>
+</svg>

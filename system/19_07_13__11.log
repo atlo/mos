@@ -1,0 +1,44 @@
+2019/07/13 11:03:39 Setting default language to user
+2019/07/13 11:03:39 Layout prepend running
+2019/07/13 11:03:39 Adding css /assets/css/main.css
+2019/07/13 11:03:39 SELECT * FROM media_type ORDER BY id
+2019/07/13 11:03:39 REGEXP FOUND: "^/?" in path "/"
+
+2019/07/13 11:03:39 Anyone is allowed
+2019/07/13 11:03:39 Render layout frontend
+2019/07/13 11:03:43 Setting default language to user
+2019/07/13 11:03:43 Layout prepend running
+2019/07/13 11:03:43 Adding css /assets/css/main.css
+2019/07/13 11:03:43 SELECT * FROM media_type ORDER BY id
+2019/07/13 11:03:43 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/07/13 11:03:43 Anyone is allowed
+2019/07/13 11:03:43 Render layout frontend
+2019/07/13 11:03:46 Setting default language to user
+2019/07/13 11:05:37 Setting default language to user
+2019/07/13 11:05:37 Layout prepend running
+2019/07/13 11:05:37 Adding css /assets/css/main.css
+2019/07/13 11:05:37 SELECT * FROM media_type ORDER BY id
+2019/07/13 11:05:37 REGEXP FOUND: "^/?" in path "/robots.txt"
+
+2019/07/13 11:05:37 Anyone is allowed
+2019/07/13 11:05:37 Render layout frontend
+2019/07/13 11:05:41 Setting default language to user
+2019/07/13 11:05:41 Layout prepend running
+2019/07/13 11:05:41 Adding css /assets/css/main.css
+2019/07/13 11:05:41 SELECT * FROM media_type ORDER BY id
+2019/07/13 11:05:41 REGEXP FOUND: "^/?" in path "/"
+
+2019/07/13 11:05:41 Anyone is allowed
+2019/07/13 11:05:41 Render layout frontend
+2019/07/13 11:08:46 Setting default language to user
+2019/07/13 11:13:46 Setting default language to user
+2019/07/13 11:18:46 Setting default language to user
+2019/07/13 11:23:46 Setting default language to user
+2019/07/13 11:28:45 Setting default language to user
+2019/07/13 11:33:46 Setting default language to user
+2019/07/13 11:38:46 Setting default language to user
+2019/07/13 11:43:46 Setting default language to user
+2019/07/13 11:48:46 Setting default language to user
+2019/07/13 11:53:46 Setting default language to user
+2019/07/13 11:58:46 Setting default language to user

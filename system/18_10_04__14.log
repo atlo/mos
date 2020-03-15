@@ -1,0 +1,34 @@
+2018/10/04 14:02:41 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false} 0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false}] Og:{Url:mos.48p.in Type:website Title:Media Ownership Description:Media Ownership Image:/assets/images/mediaos.png} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Live:false Debug:true Rebuild_structure:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[linkedin: youtube: spotify: facebook: instagram:] Language:{Allowed:[hu en]}}
+2018/10/04 14:02:41 Initializing translator
+2018/10/04 14:02:41 Translator initialization done
+2018/10/04 14:02:41 Ininialize connection
+2018/10/04 14:03:01 Setting default language to user
+2018/10/04 14:03:01 Layout prepend running
+2018/10/04 14:03:01 Adding css /assets/css/main.css
+2018/10/04 14:03:01 SELECT * FROM media_type ORDER BY id
+2018/10/04 14:03:01 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/04 14:03:01 Anyone is allowed
+2018/10/04 14:03:01 Render layout frontend
+2018/10/04 14:03:02 Layout prepend running
+2018/10/04 14:03:02 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/04 14:03:02 Anyone is allowed
+2018/10/04 14:03:02 Render layout frontend
+2018/10/04 14:03:02 Layout prepend running
+2018/10/04 14:03:02 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/04 14:03:02 Anyone is allowed
+2018/10/04 14:03:02 Layout prepend running
+2018/10/04 14:03:02 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/04 14:03:02 Anyone is allowed
+2018/10/04 14:03:02 Layout prepend running
+2018/10/04 14:03:02 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/04 14:03:02 Anyone is allowed
+2018/10/04 14:03:02 Layout prepend running
+2018/10/04 14:03:02 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/04 14:03:02 Anyone is allowed
+2018/10/04 14:03:02 Render layout frontend

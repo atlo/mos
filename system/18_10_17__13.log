@@ -1,0 +1,157 @@
+2018/10/17 13:05:20 Layout prepend running
+2018/10/17 13:05:20 Adding css /assets/css/main.css
+2018/10/17 13:05:20 SELECT * FROM media_type ORDER BY id
+2018/10/17 13:05:20 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/17 13:05:20 Anyone is allowed
+2018/10/17 13:05:20 Render layout frontend
+2018/10/17 13:05:22 Layout prepend running
+2018/10/17 13:05:22 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/17 13:05:22 Anyone is allowed
+2018/10/17 13:05:22 Render layout frontend
+2018/10/17 13:05:22 Layout prepend running
+2018/10/17 13:05:22 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/17 13:05:22 Anyone is allowed
+2018/10/17 13:05:22 Layout prepend running
+2018/10/17 13:05:22 Layout prepend running
+2018/10/17 13:05:22 Layout prepend running
+2018/10/17 13:05:22 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/17 13:05:22 Anyone is allowed
+2018/10/17 13:05:22 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/17 13:05:22 Anyone is allowed
+2018/10/17 13:05:22 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/17 13:05:22 Anyone is allowed
+2018/10/17 13:05:22 Render layout frontend
+2018/10/17 13:12:59 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Live:false Debug:true Rebuild_structure:true} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[facebook: instagram: linkedin: youtube: spotify:] Language:{Allowed:[hu en]}}
+2018/10/17 13:12:59 Initializing translator
+2018/10/17 13:12:59 Translator initialization done
+2018/10/17 13:12:59 Ininialize connection
+2018/10/17 13:12:59 Rebuild database structure because config rebuild flag is true
+2018/10/17 13:12:59 Drop ban table
+2018/10/17 13:12:59 Create ban table
+2018/10/17 13:12:59 Create IDX_BAN_REMOTE_ADDRESS index
+2018/10/17 13:12:59 Drop request table
+2018/10/17 13:12:59 Create request table
+2018/10/17 13:12:59 Create IDX_REQUEST_REMOTE_ADDRESS index
+2018/10/17 13:12:59 Drop status table
+2018/10/17 13:12:59 Create status table
+2018/10/17 13:12:59 Adding Status 
+2018/10/17 13:12:59 Adding Status 
+2018/10/17 13:12:59 Adding Status 
+2018/10/17 13:12:59 Drop user_role table
+2018/10/17 13:12:59 Create user_role table
+2018/10/17 13:12:59 Create IDX_USER_ROLE_USER_ID_USER_ID index
+2018/10/17 13:12:59 Create IDX_USER_ROLE_ROLE index
+2018/10/17 13:12:59 Create UIDX_USER_ROLE_USER_ID_ROLE index
+2018/10/17 13:12:59 Drop user table
+2018/10/17 13:12:59 Create user table
+2018/10/17 13:12:59 Create IDX_USER_STATUS_ID_STATUS_ID index
+2018/10/17 13:12:59 Create IDX_USER_EMAIL index
+2018/10/17 13:12:59 Addig chiefAdmin user to database
+2018/10/17 13:12:59 Modify user roles 1
+2018/10/17 13:12:59 Modify user roles 2
+2018/10/17 13:12:59 Modify user roles 3
+2018/10/17 13:12:59 Drop config table
+2018/10/17 13:12:59 Create config table
+2018/10/17 13:12:59 Create IDX_CONFIG_PATH index
+2018/10/17 13:12:59 Drop block table
+2018/10/17 13:12:59 Create block table
+2018/10/17 13:12:59 Create IDX_BLOCK_IDENTIFIER_LC index
+2018/10/17 13:12:59 Drop media_type table
+2018/10/17 13:12:59 Create media_type table
+2018/10/17 13:12:59 Drop media table
+2018/10/17 13:12:59 Create media table
+2018/10/17 13:12:59 ALTER TABLE media ADD CONSTRAINT FK_MEDIA_MEDIA_TYPE_ID_MEDIA_TYPE_ID FOREIGN KEY (media_type_id) REFERENCES media_type (id);
+2018/10/17 13:12:59 Create IDX_MEDIA_NEWS index
+2018/10/17 13:12:59 Drop owner table
+2018/10/17 13:12:59 Create owner table
+2018/10/17 13:12:59 Create IDX_OWNER_HUNGARIAN index
+2018/10/17 13:12:59 Drop operator table
+2018/10/17 13:12:59 Create operator table
+2018/10/17 13:12:59 Create IDX_OPERATOR_EVOLUTION_DATE index
+2018/10/17 13:12:59 Create IDX_OPERATOR_REGISTRATION_DATE index
+2018/10/17 13:12:59 Drop interest table
+2018/10/17 13:12:59 Create interest table
+2018/10/17 13:12:59 Drop media_owner table
+2018/10/17 13:12:59 Create media_owner table
+2018/10/17 13:13:00 Create IDX_MEDIA_OWNER_YEAR index
+2018/10/17 13:13:00 Create UIDX_MEDIA_MEDIA_ID_OWNER_ID_YEAR index
+2018/10/17 13:13:00 Create foreign key FK_MEDIA_OWNER_MEDIA_ID 
+2018/10/17 13:13:00 ALTER TABLE media_owner ADD CONSTRAINT FK_MEDIA_OWNER_MEDIA_ID FOREIGN KEY (media_id) REFERENCES media (id);
+2018/10/17 13:13:00 Create foreign key FK_MEDIA_OWNER_OWNER_ID 
+2018/10/17 13:13:00 ALTER TABLE media_owner ADD CONSTRAINT FK_MEDIA_OWNER_OWNER_ID FOREIGN KEY (owner_id) REFERENCES owner (id);
+2018/10/17 13:13:00 Drop media_operator table
+2018/10/17 13:13:00 Create media_operator table
+2018/10/17 13:13:00 Create foreign key FK_MEDIA_OPERATOR_MEDIA_ID 
+2018/10/17 13:13:00 ALTER TABLE media_operator ADD CONSTRAINT FK_MEDIA_OPERATOR_MEDIA_ID FOREIGN KEY (media_id) REFERENCES media (id);
+2018/10/17 13:13:00 Create foreign key FK_MEDIA_OPERATOR_OPERATOR_ID 
+2018/10/17 13:13:00 ALTER TABLE media_operator ADD CONSTRAINT FK_MEDIA_OPERATOR_OPERATOR_ID FOREIGN KEY (operator_id) REFERENCES operator (id);
+2018/10/17 13:13:00 Create IDX_MEDIA_MEDIA_ID_YEAR index
+2018/10/17 13:13:00 Drop operator_yeardata table
+2018/10/17 13:13:00 Create operator_yeardata table
+2018/10/17 13:13:00 Create IDX_OPERATOR_YEARDATA_OPERATOR_ID_YEAR index
+2018/10/17 13:13:00 Drop operator_interest table
+2018/10/17 13:13:00 Create operator_interest table
+2018/10/17 13:13:00 Create IDX_OPERATOR_INTEREST_OPERATOR_ID_YEAR_INTEREST_ID index
+2018/10/17 13:13:00 STRUCTURE BUILDING DONE
+2018/10/17 13:13:00 Start importing media data...
+2018/10/17 13:13:00 Parsing file Data/media_allando_attributumai_1998_2009.csv
+
+2018/10/17 13:13:01 Parsing file Data/Medium_allando_attributumai_hirmedium_2017.csv
+
+2018/10/17 13:13:02 Done importing media data...
+2018/10/17 13:13:02 Start importing owner data...
+2018/10/17 13:13:02 Parsing file Data/Tulajdonosok_allando_attributumai.csv
+
+2018/10/17 13:13:03 Parsing file Data/Vegtulajdonos_allando_attributumai_2017is.csv
+
+2018/10/17 13:13:04 Done importing owner data...
+2018/10/17 13:13:04 Start importing operator data...
+2018/10/17 13:13:04 Parsing file Data/Uzemelteto_allando_attributumai_alapitasiev.csv
+
+2018/10/17 13:15:49 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Live:false Debug:true Rebuild_structure:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[facebook: instagram: linkedin: youtube: spotify:] Language:{Allowed:[hu en]}}
+2018/10/17 13:15:49 Initializing translator
+2018/10/17 13:15:50 Translator initialization done
+2018/10/17 13:15:50 Ininialize connection
+2018/10/17 13:15:50 Layout prepend running
+2018/10/17 13:15:50 Adding css /assets/css/main.css
+2018/10/17 13:15:50 SELECT * FROM media_type ORDER BY id
+2018/10/17 13:15:50 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2018/10/17 13:15:50 Anyone is allowed
+2018/10/17 13:15:50 Render layout frontend
+2018/10/17 13:15:51 Layout prepend running
+2018/10/17 13:15:51 Adding css /assets/css/main.css
+2018/10/17 13:15:51 SELECT * FROM media_type ORDER BY id
+2018/10/17 13:15:51 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/17 13:15:51 Anyone is allowed
+2018/10/17 13:15:51 Render layout frontend
+2018/10/17 13:15:52 Layout prepend running
+2018/10/17 13:15:52 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/17 13:15:52 Anyone is allowed
+2018/10/17 13:15:52 Render layout frontend
+2018/10/17 13:15:52 Layout prepend running
+2018/10/17 13:15:52 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/17 13:15:52 Anyone is allowed
+2018/10/17 13:15:52 Render layout frontend
+2018/10/17 13:15:52 Layout prepend running
+2018/10/17 13:15:52 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/17 13:15:52 Anyone is allowed
+2018/10/17 13:15:52 Layout prepend running
+2018/10/17 13:15:52 Layout prepend running
+2018/10/17 13:15:52 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/17 13:15:52 Anyone is allowed
+2018/10/17 13:15:52 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/17 13:15:52 Anyone is allowed
+2018/10/17 13:15:52 Render layout frontend

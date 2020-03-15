@@ -1,0 +1,37 @@
+2018/10/08 17:15:03 Layout prepend running
+2018/10/08 17:15:03 Adding css /assets/css/main.css
+2018/10/08 17:15:03 SELECT * FROM media_type ORDER BY id
+2018/10/08 17:15:03 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/08 17:15:03 Anyone is allowed
+2018/10/08 17:15:03 Render layout frontend
+2018/10/08 17:15:04 Layout prepend running
+2018/10/08 17:15:04 Adding css /assets/css/main.css
+2018/10/08 17:15:04 SELECT * FROM media_type ORDER BY id
+2018/10/08 17:15:04 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2018/10/08 17:15:04 Anyone is allowed
+2018/10/08 17:15:04 Render layout frontend
+2018/10/08 17:15:05 Layout prepend running
+2018/10/08 17:15:05 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/08 17:15:05 Anyone is allowed
+2018/10/08 17:15:05 Render layout frontend
+2018/10/08 17:15:05 Layout prepend running
+2018/10/08 17:15:05 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/08 17:15:05 Anyone is allowed
+2018/10/08 17:15:05 Layout prepend running
+2018/10/08 17:15:05 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/08 17:15:05 Anyone is allowed
+2018/10/08 17:15:05 Layout prepend running
+2018/10/08 17:15:05 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/08 17:15:05 Anyone is allowed
+2018/10/08 17:15:05 Layout prepend running
+2018/10/08 17:15:05 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/08 17:15:05 Anyone is allowed
+2018/10/08 17:15:05 Render layout frontend
+2018/10/08 17:15:05 Render layout frontend

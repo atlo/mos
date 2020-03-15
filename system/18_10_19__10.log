@@ -1,0 +1,125 @@
+2018/10/19 10:52:44 Setting default language to user
+2018/10/19 10:52:44 Layout prepend running
+2018/10/19 10:52:44 Adding css /assets/css/main.css
+2018/10/19 10:52:44 SELECT * FROM media_type ORDER BY id
+2018/10/19 10:52:44 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/19 10:52:44 Anyone is allowed
+2018/10/19 10:52:44 Render layout frontend
+2018/10/19 10:52:46 Layout prepend running
+2018/10/19 10:52:46 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/19 10:52:46 Anyone is allowed
+2018/10/19 10:52:46 Render layout frontend
+2018/10/19 10:52:46 Layout prepend running
+2018/10/19 10:52:46 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/19 10:52:46 Anyone is allowed
+2018/10/19 10:52:46 Render layout frontend
+2018/10/19 10:52:46 Layout prepend running
+2018/10/19 10:52:46 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/19 10:52:46 Anyone is allowed
+2018/10/19 10:52:46 Render layout frontend
+2018/10/19 10:52:46 Layout prepend running
+2018/10/19 10:52:46 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/19 10:52:46 Anyone is allowed
+2018/10/19 10:52:46 Render layout frontend
+2018/10/19 10:52:46 Layout prepend running
+2018/10/19 10:52:46 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/19 10:52:46 Anyone is allowed
+2018/10/19 10:52:46 Render layout frontend
+2018/10/19 10:52:49 Layout prepend running
+2018/10/19 10:52:49 template scope is admin
+2018/10/19 10:52:49 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/19 10:52:49 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/19 10:52:49 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/19 10:52:49 Adding css /vendor/morrisjs/morris.css
+2018/10/19 10:52:49 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/19 10:52:49 Adding css /assets/summernote/summernote.css
+2018/10/19 10:52:49 Adding css /assets/css/admin.css
+2018/10/19 10:52:49 Logged out user allowed
+2018/10/19 10:52:49 Anyone is allowed
+2018/10/19 10:52:49 Loggedin user is allowed (admin users)
+2018/10/19 10:52:49 REGEXP FOUND: "/admin/?$" in path "/admin"
+
+2018/10/19 10:52:49 Logged out user allowed
+2018/10/19 10:52:49 Render layout admin
+2018/10/19 10:53:45 Layout prepend running
+2018/10/19 10:53:45 template scope is admin
+2018/10/19 10:53:45 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/19 10:53:45 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/19 10:53:45 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/19 10:53:45 Adding css /vendor/morrisjs/morris.css
+2018/10/19 10:53:45 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/19 10:53:45 Adding css /assets/summernote/summernote.css
+2018/10/19 10:53:45 Adding css /assets/css/admin.css
+2018/10/19 10:53:45 Logged out user allowed
+2018/10/19 10:53:45 Anyone is allowed
+2018/10/19 10:53:45 Loggedin user is allowed (admin users)
+2018/10/19 10:53:45 REGEXP FOUND: "^/admin/user/loginpost$" in path "/admin/user/loginpost"
+
+2018/10/19 10:53:45 Logged out user allowed
+2018/10/19 10:53:45 SELECT * FROM user where email = ?
+2018/10/19 10:53:45 Redirecting to /admin/user/login
+2018/10/19 10:53:45 No render /admin/user/loginpost -> redirect
+2018/10/19 10:53:45 Layout prepend running
+2018/10/19 10:53:45 template scope is admin
+2018/10/19 10:53:45 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/19 10:53:45 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/19 10:53:45 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/19 10:53:45 Adding css /vendor/morrisjs/morris.css
+2018/10/19 10:53:45 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/19 10:53:45 Adding css /assets/summernote/summernote.css
+2018/10/19 10:53:45 Adding css /assets/css/admin.css
+2018/10/19 10:53:45 Logged out user allowed
+2018/10/19 10:53:45 Anyone is allowed
+2018/10/19 10:53:45 Loggedin user is allowed (admin users)
+2018/10/19 10:53:45 REGEXP FOUND: "^/admin/user/login$" in path "/admin/user/login"
+
+2018/10/19 10:53:45 Logged out user allowed
+2018/10/19 10:53:45 Render layout admin
+2018/10/19 10:53:50 Layout prepend running
+2018/10/19 10:53:50 template scope is admin
+2018/10/19 10:53:50 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/19 10:53:50 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/19 10:53:50 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/19 10:53:50 Adding css /vendor/morrisjs/morris.css
+2018/10/19 10:53:50 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/19 10:53:50 Adding css /assets/summernote/summernote.css
+2018/10/19 10:53:50 Adding css /assets/css/admin.css
+2018/10/19 10:53:50 Logged out user allowed
+2018/10/19 10:53:50 Anyone is allowed
+2018/10/19 10:53:50 Loggedin user is allowed (admin users)
+2018/10/19 10:53:50 REGEXP FOUND: "^/admin/user/loginpost$" in path "/admin/user/loginpost"
+
+2018/10/19 10:53:50 Logged out user allowed
+2018/10/19 10:53:50 SELECT * FROM user where email = ?
+2018/10/19 10:53:50 Redirecting to /admin/user/login
+2018/10/19 10:53:50 No render /admin/user/loginpost -> redirect
+2018/10/19 10:53:50 Layout prepend running
+2018/10/19 10:53:50 template scope is admin
+2018/10/19 10:53:50 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/19 10:53:50 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/19 10:53:50 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/19 10:53:50 Adding css /vendor/morrisjs/morris.css
+2018/10/19 10:53:50 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/19 10:53:50 Adding css /assets/summernote/summernote.css
+2018/10/19 10:53:50 Adding css /assets/css/admin.css
+2018/10/19 10:53:50 Logged out user allowed
+2018/10/19 10:53:50 Anyone is allowed
+2018/10/19 10:53:50 Loggedin user is allowed (admin users)
+2018/10/19 10:53:50 REGEXP FOUND: "^/admin/user/login$" in path "/admin/user/login"
+
+2018/10/19 10:53:50 Logged out user allowed
+2018/10/19 10:53:50 Render layout admin
+2018/10/19 10:56:35 Changing language to en
+2018/10/19 10:56:35 Layout prepend running
+2018/10/19 10:56:35 Adding css /assets/css/main.css
+2018/10/19 10:56:35 SELECT * FROM media_type ORDER BY id
+2018/10/19 10:56:35 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/19 10:56:35 Anyone is allowed
+2018/10/19 10:56:35 Render layout frontend

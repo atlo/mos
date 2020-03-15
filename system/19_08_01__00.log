@@ -1,0 +1,28 @@
+2019/08/01 00:04:56 Setting default language to user
+2019/08/01 00:09:56 Setting default language to user
+2019/08/01 00:14:56 Setting default language to user
+2019/08/01 00:19:56 Setting default language to user
+2019/08/01 00:24:56 Setting default language to user
+2019/08/01 00:29:56 Setting default language to user
+2019/08/01 00:34:56 Setting default language to user
+2019/08/01 00:39:56 Setting default language to user
+2019/08/01 00:44:56 Setting default language to user
+2019/08/01 00:49:56 Setting default language to user
+2019/08/01 00:52:49 Setting default language to user
+2019/08/01 00:52:49 Layout prepend running
+2019/08/01 00:52:49 Adding css /assets/css/main.css
+2019/08/01 00:52:49 SELECT * FROM media_type ORDER BY id
+2019/08/01 00:52:49 REGEXP FOUND: "^/?" in path "/robots.txt"
+
+2019/08/01 00:52:49 Anyone is allowed
+2019/08/01 00:52:49 Render layout frontend
+2019/08/01 00:52:49 Setting default language to user
+2019/08/01 00:52:49 Layout prepend running
+2019/08/01 00:52:49 Adding css /assets/css/main.css
+2019/08/01 00:52:49 SELECT * FROM media_type ORDER BY id
+2019/08/01 00:52:49 REGEXP FOUND: "^/?" in path "/"
+
+2019/08/01 00:52:49 Anyone is allowed
+2019/08/01 00:52:49 Render layout frontend
+2019/08/01 00:54:56 Setting default language to user
+2019/08/01 00:59:56 Setting default language to user

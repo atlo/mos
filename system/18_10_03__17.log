@@ -1,0 +1,37 @@
+2018/10/03 17:06:58 Setting default language to user
+2018/10/03 17:06:58 Layout prepend running
+2018/10/03 17:06:58 Adding css /assets/css/main.css
+2018/10/03 17:06:58 SELECT * FROM media_type ORDER BY id
+2018/10/03 17:06:58 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/03 17:06:58 Anyone is allowed
+2018/10/03 17:06:58 Render layout frontend
+2018/10/03 17:07:00 Setting default language to user
+2018/10/03 17:07:00 Layout prepend running
+2018/10/03 17:07:00 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/03 17:07:00 Anyone is allowed
+2018/10/03 17:07:00 Setting default language to user
+2018/10/03 17:07:00 Layout prepend running
+2018/10/03 17:07:00 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/03 17:07:00 Anyone is allowed
+2018/10/03 17:07:00 Render layout frontend
+2018/10/03 17:07:00 Setting default language to user
+2018/10/03 17:07:00 Layout prepend running
+2018/10/03 17:07:00 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/03 17:07:00 Anyone is allowed
+2018/10/03 17:07:00 Setting default language to user
+2018/10/03 17:07:00 Layout prepend running
+2018/10/03 17:07:00 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/03 17:07:00 Anyone is allowed
+2018/10/03 17:07:00 Render layout frontend
+2018/10/03 17:07:13 Layout prepend running
+2018/10/03 17:07:13 Adding css /assets/css/main.css
+2018/10/03 17:07:13 SELECT * FROM media_type ORDER BY id
+2018/10/03 17:07:13 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/03 17:07:13 Anyone is allowed
+2018/10/03 17:07:13 Render layout frontend

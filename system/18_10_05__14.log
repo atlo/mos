@@ -1,0 +1,118 @@
+2018/10/05 14:53:58 Layout prepend running
+2018/10/05 14:53:58 template scope is admin
+2018/10/05 14:53:58 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 14:53:58 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 14:53:58 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 14:53:58 Adding css /vendor/morrisjs/morris.css
+2018/10/05 14:53:58 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 14:53:58 Adding css /assets/summernote/summernote.css
+2018/10/05 14:53:58 Adding css /assets/css/admin.css
+2018/10/05 14:53:58 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 14:53:58 Logged out user allowed
+2018/10/05 14:53:58 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 14:53:58 Anyone is allowed
+2018/10/05 14:53:58 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 14:53:58 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 14:53:58 Loggedin user is allowed (admin users)
+2018/10/05 14:53:58 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 14:53:58 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 14:53:58 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 14:53:58 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 14:53:58 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 14:53:58 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:53:58 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 14:53:58 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 14:53:58 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:53:58 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:53:58 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:53:58 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:53:58 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:53:58 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 14:53:58 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:53:58 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:53:58 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 14:53:58 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:53:58 REGEXP FOUND: "^/admin/operator/?(index)?$" in path "/admin/operator/index"
+
+2018/10/05 14:53:58 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:53:58 SELECT * FROM operator ORDER BY id DESC LIMIT 0,20
+2018/10/05 14:53:58 operator as m
+2018/10/05 14:53:58 SELECT COUNT(m.`id`) FROM operator as m
+2018/10/05 14:53:58 Rendering form
+2018/10/05 14:53:58 Rendering fieldset
+2018/10/05 14:53:58 Rendering text
+2018/10/05 14:53:58 Rendering input group
+2018/10/05 14:53:58 Rendering text
+2018/10/05 14:53:58 Rendering input group
+2018/10/05 14:53:58 Rendering fieldset
+2018/10/05 14:53:58 Rendering button
+2018/10/05 14:53:58 Rendering input group
+2018/10/05 14:53:58 Render layout admin
+2018/10/05 14:54:07 Layout prepend running
+2018/10/05 14:54:07 template scope is admin
+2018/10/05 14:54:07 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 14:54:07 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 14:54:07 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 14:54:07 Adding css /vendor/morrisjs/morris.css
+2018/10/05 14:54:07 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 14:54:07 Adding css /assets/summernote/summernote.css
+2018/10/05 14:54:07 Adding css /assets/css/admin.css
+2018/10/05 14:54:07 Logged out user allowed
+2018/10/05 14:54:07 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 14:54:07 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 14:54:07 Anyone is allowed
+2018/10/05 14:54:07 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 14:54:07 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 14:54:07 Loggedin user is allowed (admin users)
+2018/10/05 14:54:07 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 14:54:07 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 14:54:07 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 14:54:07 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 14:54:07 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 14:54:07 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 14:54:07 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 14:54:07 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 14:54:07 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:54:07 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:54:07 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:54:07 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:54:07 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:54:07 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 14:54:07 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 14:54:07 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:54:07 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 14:54:07 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 14:54:07 REGEXP FOUND: "^/admin/operator/edit/(\d)+$" in path "/admin/operator/edit/999999"
+
+2018/10/05 14:54:07 Required role: operator/edit, rolegroup: operator, user role: operator/*
+2018/10/05 14:54:07 Rendering form
+2018/10/05 14:54:07 Rendering fieldset
+2018/10/05 14:54:07 Rendering hidden
+2018/10/05 14:54:07 Rendering text
+2018/10/05 14:54:07 Rendering input group
+2018/10/05 14:54:07 Rendering text
+2018/10/05 14:54:07 Rendering input group
+2018/10/05 14:54:07 Rendering text
+2018/10/05 14:54:07 Rendering input group
+2018/10/05 14:54:07 Rendering text
+2018/10/05 14:54:07 Rendering input group
+2018/10/05 14:54:07 Rendering fieldset
+2018/10/05 14:54:07 Rendering button
+2018/10/05 14:54:07 Rendering input group
+2018/10/05 14:54:07 Render layout admin

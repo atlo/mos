@@ -1,0 +1,39 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 312px;
+  height: 100%;
+  padding: $base * 3 / 4 $base;
+  overflow: auto;
+  color: $white;
+  border-right: 1px solid rgba(153, 153, 153, .15);
+  background: $gray;
+  box-sizing: border-box;
+
+  .header {
+    padding-bottom: $base / 2;
+    margin-bottom: $base;
+    border-bottom: 1px solid $gray-2;
+  }
+
+  .footer {
+    padding-top: $base * 2;
+    margin-top: auto;
+
+    &__link {
+      padding-right: $base / 2;
+      color: $gray-2;
+    }
+  }
+
+  h1 {
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: $gray-2;
+    cursor: pointer;
+  }
+}

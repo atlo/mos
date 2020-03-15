@@ -1,0 +1,4 @@
+mixin radio(text, id, name, checked)
+    .radio(data-radio)
+        input(type="radio" name=name checked=checked id=id value=id)
+        label(data-label=id for=id)=text

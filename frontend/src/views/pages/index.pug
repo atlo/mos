@@ -1,0 +1,37 @@
+extends ../modules/layout
+include ../mixins/switch.pug
+include ../mixins/radio.pug
+
+block content
+    .page
+        include ../modules/overlays/overlay-impressum.pug
+        include ../modules/overlays/overlay-data-protection.pug
+        include ../modules/overlays/overlay-methodology.pug
+        include ../modules/overlays/overlay-graph.pug
+        include ../modules/overlays/overlay-about.pug
+
+        aside.sidebar
+            header.header
+                h1 Media Ownership Project
+                h2(data-overlay-open='about') about
+
+            .block
+                +switch('<span class="switch--red">Magyar </span>vagy<span class="switch--blue"> külföldi </span> tulajdon', 'hu-nonhu', false, 'hun-non-hun', 'switch')
+                +switch('<span class="switch--red">Kormánypárti </span>vagy<span class="switch--blue"> ellenzéki</span>', 'left-right', false, 'left-right', 'switch')
+                +switch('<span class="switch--red">Hírmedia </span>vagy<span class="switch--blue"> nem hírmedia</span>', 'media-nonmedia', false, 'news-non-news', 'switch')
+                +slider('1998', '2017', 'main')
+
+            include ../modules/legend.pug
+
+            p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+            a(href="#" data-overlay-open='methodology') Többet a módszertanról
+
+            footer.footer
+                .footer__links
+                    a.footer__link(href="#" data-overlay-open='impressum') Impresszum
+                    a.footer__link(href="#" data-overlay-open='data-protection') Adatvédelem
+
+        main.main(data-graph-container)
+          #graph
+              svg

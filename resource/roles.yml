@@ -1,0 +1,108 @@
+roles:
+  user:
+    title: "<strong>All User Role</strong>"
+    value: "user/*"
+    children:
+      list:
+        title: "List/Search Users"
+        value: "user/list"
+      new:
+        title: "Add User"
+        value: "user/new"
+      edit:
+        title: "Edit User"
+        value: "user/edit"
+      delete:
+        title: "Delete User"
+        value: "user/delete"
+  block:
+    title: "<strong>All Block Roles</strong>"
+    value: "block/*"
+    children:
+      list:
+        title: "List/Search Blocks"
+        value: "block/list"
+      new:
+        title: "Add Block"
+        value: "block/new"
+      edit:
+        title: "Edit Block"
+        value: "block/edit"
+      delete:
+        title: "Delete Block"
+        value: "block/delete"
+  config:
+    title: "<strong>Config</strong>"
+    value: "config/*"
+    children:
+      index:
+        title: "Edit config"
+        value: "config/index"
+  media:
+    title: "<strong>All Media Roles</strong>"
+    value: "media/*"
+    children:
+      list:
+        title: "List/Search Media"
+        value: "media/list"
+      new:
+        title: "Add Media"
+        value: "media/new"
+      edit:
+        title: "Edit Media"
+        value: "media/edit"
+  mediatype:
+    title: "<strong>All Media Type Roles</strong>"
+    value: "mediatype/*"
+    children:
+      list:
+        title: "List/Search Media Type"
+        value: "mediatype/list"
+      edit:
+        title: "Edit Media Type"
+        value: "mediatype/edit"
+      new:
+        title: "Add Media Type"
+        value: "mediatype/new"
+      delete:
+        title: "Delete Media Type"
+        value: "mediatype/delete"
+  operator:
+    title: "<strong>All Operator Roles</strong>"
+    value: "operator/*"
+    children:
+      list:
+        title: "List/Search Operator"
+        value: "operator/list"
+      edit:
+        title: "Edit Operator"
+        value: "operator/edit"
+      new:
+        title: "Edit Operator"
+        value: "operator/new"
+  owner:
+    title: "<strong>All Owner Roles</strong>"
+    value: "owner/*"
+    children:
+      list:
+        title: "List/Search Owner"
+        value: "owner/list"
+      edit:
+        title: "Edit Owner"
+        value: "owner/edit"
+  interest:
+    title: "<strong>All Interest Roles</strong>"
+    value: "interest/*"
+    children:
+      list:
+        title: "List/Search Interest"
+        value: "interest/list"
+      new:
+        title: "Add Interest"
+        value: "interest/new"
+      edit:
+        title: "Edit Interest"
+        value: "interest/edit"
+      delete:
+        title: "Delete Interest"
+        value: "interest/delete"

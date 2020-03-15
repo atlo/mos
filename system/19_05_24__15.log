@@ -1,0 +1,36 @@
+2019/05/24 15:00:13 Setting default language to user
+2019/05/24 15:05:13 Setting default language to user
+2019/05/24 15:07:13 Setting default language to user
+2019/05/24 15:07:13 Layout prepend running
+2019/05/24 15:07:13 Adding css /assets/css/main.css
+2019/05/24 15:07:13 SELECT * FROM media_type ORDER BY id
+2019/05/24 15:07:13 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/05/24 15:07:13 Anyone is allowed
+2019/05/24 15:07:13 Render layout frontend
+2019/05/24 15:10:13 Setting default language to user
+2019/05/24 15:15:13 Setting default language to user
+2019/05/24 15:20:13 Setting default language to user
+2019/05/24 15:25:13 Setting default language to user
+2019/05/24 15:30:13 Setting default language to user
+2019/05/24 15:35:13 Setting default language to user
+2019/05/24 15:40:13 Setting default language to user
+2019/05/24 15:45:13 Setting default language to user
+2019/05/24 15:50:13 Setting default language to user
+2019/05/24 15:51:56 Setting default language to user
+2019/05/24 15:51:56 Layout prepend running
+2019/05/24 15:51:56 Adding css /assets/css/main.css
+2019/05/24 15:51:56 SELECT * FROM media_type ORDER BY id
+2019/05/24 15:51:56 REGEXP FOUND: "^/?" in path "/"
+
+2019/05/24 15:51:56 Anyone is allowed
+2019/05/24 15:51:56 Render layout frontend
+2019/05/24 15:52:01 Setting default language to user
+2019/05/24 15:52:01 Layout prepend running
+2019/05/24 15:52:01 Adding css /assets/css/main.css
+2019/05/24 15:52:01 SELECT * FROM media_type ORDER BY id
+2019/05/24 15:52:01 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/05/24 15:52:01 Anyone is allowed
+2019/05/24 15:52:01 Render layout frontend
+2019/05/24 15:55:13 Setting default language to user

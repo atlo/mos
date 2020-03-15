@@ -1,0 +1,35 @@
+<aside class="sidebar">
+    <header class="header">
+        <h1>{{.Title}}</h1>
+        <h2>{{.SubTitle}}</h2>
+    </header>
+    <div class="block">
+        {{range .Switches}}
+            {{$checked := index . "checked"}}
+            <div class="switch" data-switch>
+                <input type="radio" name="switch" id="{{index . "id"}}" value="{{ index. "id" }}" {{if $checked}}checked{{end}}>
+                <label for="{{index . "id"}}">{{index . "label"}}</label>
+            </div>
+        {{end}}
+    </div>
+    <div class="legend">
+    {{if .Medias}}
+        <div class="legend__col">
+        {{range .Medias}}
+            <div class="legend__item {{index . "class"}}"><span>{{index . "label"}}</span></div>
+        {{end}}
+        </div>
+    {{end}}
+    {{if .Options}}
+        <div class="legend__col">
+        {{range .Options}}
+            <div class="legend__item legend__item--{{index . "option"}} color--{{index . "option"}}">
+                <span>{{index . "label"}}</span>
+            </div>
+        {{end}}
+        </div>
+    {{end}}
+    </div>
+    <p>{{.Introduction}}</p>
+{{if .MoreLink}}<a href="{{.MoreLink}}">{{.MoreLabel}}</a>{{end}}
+</aside>

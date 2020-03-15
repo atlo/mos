@@ -1,0 +1,2183 @@
+2018/10/15 09:19:48 Setting default language to user
+2018/10/15 09:19:48 Layout prepend running
+2018/10/15 09:19:48 template scope is admin
+2018/10/15 09:19:48 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:19:48 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:19:48 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:19:48 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:19:48 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:19:48 Adding css /assets/summernote/summernote.css
+2018/10/15 09:19:48 Adding css /assets/css/admin.css
+2018/10/15 09:19:48 Logged out user allowed
+2018/10/15 09:19:48 Anyone is allowed
+2018/10/15 09:19:48 Loggedin user is allowed (admin users)
+2018/10/15 09:19:48 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/6"
+
+2018/10/15 09:19:48 Redirecting to /admin/block
+2018/10/15 09:19:48 No render /admin/block/edit/6 -> redirect
+2018/10/15 09:19:48 Layout prepend running
+2018/10/15 09:19:48 template scope is admin
+2018/10/15 09:19:48 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:19:48 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:19:48 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:19:48 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:19:48 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:19:48 Adding css /assets/summernote/summernote.css
+2018/10/15 09:19:48 Adding css /assets/css/admin.css
+2018/10/15 09:19:48 Logged out user allowed
+2018/10/15 09:19:48 Anyone is allowed
+2018/10/15 09:19:48 Loggedin user is allowed (admin users)
+2018/10/15 09:19:48 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block"
+
+2018/10/15 09:19:48 Redirecting to /admin/user/welcome
+2018/10/15 09:19:48 No render /admin/block -> redirect
+2018/10/15 09:19:48 Layout prepend running
+2018/10/15 09:19:48 template scope is admin
+2018/10/15 09:19:48 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:19:48 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:19:48 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:19:48 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:19:48 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:19:48 Adding css /assets/summernote/summernote.css
+2018/10/15 09:19:48 Adding css /assets/css/admin.css
+2018/10/15 09:19:48 Logged out user allowed
+2018/10/15 09:19:48 Anyone is allowed
+2018/10/15 09:19:48 Loggedin user is allowed (admin users)
+2018/10/15 09:19:48 REGEXP FOUND: "^/admin/user/welcome$" in path "/admin/user/welcome"
+
+2018/10/15 09:19:48 Loggedin user is allowed (admin users)
+2018/10/15 09:19:48 Redirecting to /admin/user/login
+2018/10/15 09:19:48 No render /admin/user/welcome -> redirect
+2018/10/15 09:19:48 Layout prepend running
+2018/10/15 09:19:48 template scope is admin
+2018/10/15 09:19:48 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:19:48 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:19:48 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:19:48 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:19:48 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:19:48 Adding css /assets/summernote/summernote.css
+2018/10/15 09:19:48 Adding css /assets/css/admin.css
+2018/10/15 09:19:48 Logged out user allowed
+2018/10/15 09:19:48 Anyone is allowed
+2018/10/15 09:19:48 Loggedin user is allowed (admin users)
+2018/10/15 09:19:48 REGEXP FOUND: "^/admin/user/login$" in path "/admin/user/login"
+
+2018/10/15 09:19:48 Logged out user allowed
+2018/10/15 09:19:48 Render layout admin
+2018/10/15 09:19:59 Layout prepend running
+2018/10/15 09:19:59 template scope is admin
+2018/10/15 09:19:59 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:19:59 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:19:59 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:19:59 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:19:59 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:19:59 Adding css /assets/summernote/summernote.css
+2018/10/15 09:19:59 Adding css /assets/css/admin.css
+2018/10/15 09:19:59 Logged out user allowed
+2018/10/15 09:19:59 Anyone is allowed
+2018/10/15 09:19:59 Loggedin user is allowed (admin users)
+2018/10/15 09:19:59 REGEXP FOUND: "^/admin/user/loginpost$" in path "/admin/user/loginpost"
+
+2018/10/15 09:19:59 Logged out user allowed
+2018/10/15 09:19:59 SELECT * FROM user where email = ?
+2018/10/15 09:19:59 Logging in
+2018/10/15 09:19:59 Redirecting to /admin/user/welcome
+2018/10/15 09:19:59 No render /admin/user/loginpost -> redirect
+2018/10/15 09:19:59 Layout prepend running
+2018/10/15 09:19:59 template scope is admin
+2018/10/15 09:19:59 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:19:59 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:19:59 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:19:59 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:19:59 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:19:59 Adding css /assets/summernote/summernote.css
+2018/10/15 09:19:59 Adding css /assets/css/admin.css
+2018/10/15 09:19:59 Logged out user allowed
+2018/10/15 09:19:59 Anyone is allowed
+2018/10/15 09:19:59 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:19:59 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:19:59 Loggedin user is allowed (admin users)
+2018/10/15 09:19:59 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:19:59 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:19:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:19:59 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:19:59 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:19:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:19:59 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:19:59 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:19:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:19:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:19:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:19:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:19:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:19:59 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:19:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:19:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:19:59 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:19:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:19:59 REGEXP FOUND: "^/admin/user/welcome$" in path "/admin/user/welcome"
+
+2018/10/15 09:19:59 Loggedin user is allowed (admin users)
+2018/10/15 09:19:59 Render layout admin
+2018/10/15 09:20:43 Layout prepend running
+2018/10/15 09:20:43 template scope is admin
+2018/10/15 09:20:43 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:20:43 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:20:43 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:20:43 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:20:43 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:20:43 Adding css /assets/summernote/summernote.css
+2018/10/15 09:20:43 Adding css /assets/css/admin.css
+2018/10/15 09:20:43 Logged out user allowed
+2018/10/15 09:20:43 Anyone is allowed
+2018/10/15 09:20:43 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:20:43 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:20:43 Loggedin user is allowed (admin users)
+2018/10/15 09:20:43 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:43 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:43 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:43 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:43 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:43 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:43 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:20:43 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:20:43 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:43 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:43 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:43 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:43 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:43 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:43 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:43 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:43 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:43 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:43 REGEXP FOUND: "^/admin/config/?(index)?$" in path "/admin/config/index"
+
+2018/10/15 09:20:43 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:43 SELECT * FROM config ORDER BY `path` ASC
+2018/10/15 09:20:43 Rendering form
+2018/10/15 09:20:43 Rendering fieldset
+2018/10/15 09:20:43 Rendering hidden
+2018/10/15 09:20:43 Rendering text
+2018/10/15 09:20:43 Rendering input group
+2018/10/15 09:20:43 Rendering hidden
+2018/10/15 09:20:43 Rendering text
+2018/10/15 09:20:43 Rendering input group
+2018/10/15 09:20:43 Rendering hidden
+2018/10/15 09:20:43 Rendering text
+2018/10/15 09:20:43 Rendering input group
+2018/10/15 09:20:43 Rendering fieldset
+2018/10/15 09:20:43 Rendering hidden
+2018/10/15 09:20:43 Rendering text
+2018/10/15 09:20:43 Rendering input group
+2018/10/15 09:20:43 Rendering hidden
+2018/10/15 09:20:43 Rendering text
+2018/10/15 09:20:43 Rendering input group
+2018/10/15 09:20:43 Rendering fieldset
+2018/10/15 09:20:43 Rendering button
+2018/10/15 09:20:43 Rendering input group
+2018/10/15 09:20:43 Render layout admin
+2018/10/15 09:20:54 Layout prepend running
+2018/10/15 09:20:54 template scope is admin
+2018/10/15 09:20:54 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:20:54 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:20:54 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:20:54 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:20:54 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:20:54 Adding css /assets/summernote/summernote.css
+2018/10/15 09:20:54 Adding css /assets/css/admin.css
+2018/10/15 09:20:54 Logged out user allowed
+2018/10/15 09:20:54 Anyone is allowed
+2018/10/15 09:20:54 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:20:54 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:20:54 Loggedin user is allowed (admin users)
+2018/10/15 09:20:54 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:54 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:54 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:54 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:54 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:20:54 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:20:54 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:54 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:54 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:54 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:54 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:54 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:54 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:54 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:54 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:54 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:54 REGEXP FOUND: "^/admin/media/?(index)?$" in path "/admin/media/index"
+
+2018/10/15 09:20:54 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:54 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:20:54 SELECT * FROM media ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:20:54 media as m
+2018/10/15 09:20:54 SELECT COUNT(m.`id`) FROM media as m
+2018/10/15 09:20:54 Rendering form
+2018/10/15 09:20:54 Rendering fieldset
+2018/10/15 09:20:54 Rendering text
+2018/10/15 09:20:54 Rendering input group
+2018/10/15 09:20:54 Rendering text
+2018/10/15 09:20:54 Rendering input group
+2018/10/15 09:20:54 Rendering text
+2018/10/15 09:20:54 Rendering input group
+2018/10/15 09:20:54 Rendering fieldset
+2018/10/15 09:20:54 Rendering button
+2018/10/15 09:20:54 Rendering input group
+2018/10/15 09:20:54 Render layout admin
+2018/10/15 09:20:59 Layout prepend running
+2018/10/15 09:20:59 template scope is admin
+2018/10/15 09:20:59 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:20:59 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:20:59 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:20:59 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:20:59 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:20:59 Adding css /assets/summernote/summernote.css
+2018/10/15 09:20:59 Adding css /assets/css/admin.css
+2018/10/15 09:20:59 Logged out user allowed
+2018/10/15 09:20:59 Anyone is allowed
+2018/10/15 09:20:59 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:20:59 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:20:59 Loggedin user is allowed (admin users)
+2018/10/15 09:20:59 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:59 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:20:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:59 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:59 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:20:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:20:59 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:20:59 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:20:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:59 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:59 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:20:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:59 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:59 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:20:59 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:20:59 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:20:59 SELECT * FROM block WHERE `lc` = "hu" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:20:59 block as m
+2018/10/15 09:20:59 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "hu"
+2018/10/15 09:20:59 Rendering form
+2018/10/15 09:20:59 Rendering fieldset
+2018/10/15 09:20:59 Rendering text
+2018/10/15 09:20:59 Rendering input group
+2018/10/15 09:20:59 Rendering text
+2018/10/15 09:20:59 Rendering input group
+2018/10/15 09:20:59 Rendering text
+2018/10/15 09:20:59 Rendering input group
+2018/10/15 09:20:59 Rendering fieldset
+2018/10/15 09:20:59 Rendering button
+2018/10/15 09:20:59 Rendering input group
+2018/10/15 09:20:59 Render layout admin
+2018/10/15 09:21:57 Layout prepend running
+2018/10/15 09:21:57 Adding css /assets/css/main.css
+2018/10/15 09:21:57 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:21:57 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:21:57 Anyone is allowed
+2018/10/15 09:21:57 Render layout frontend
+2018/10/15 09:21:59 Layout prepend running
+2018/10/15 09:21:59 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:21:59 Anyone is allowed
+2018/10/15 09:21:59 Render layout frontend
+2018/10/15 09:21:59 Layout prepend running
+2018/10/15 09:21:59 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:21:59 Anyone is allowed
+2018/10/15 09:21:59 Render layout frontend
+2018/10/15 09:21:59 Layout prepend running
+2018/10/15 09:21:59 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:21:59 Anyone is allowed
+2018/10/15 09:21:59 Layout prepend running
+2018/10/15 09:21:59 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:21:59 Anyone is allowed
+2018/10/15 09:21:59 Layout prepend running
+2018/10/15 09:21:59 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:21:59 Anyone is allowed
+2018/10/15 09:21:59 Render layout frontend
+2018/10/15 09:22:14 Changing language to en
+2018/10/15 09:22:14 Layout prepend running
+2018/10/15 09:22:14 Adding css /assets/css/main.css
+2018/10/15 09:22:14 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:22:14 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:22:14 Anyone is allowed
+2018/10/15 09:22:14 Render layout frontend
+2018/10/15 09:22:15 Layout prepend running
+2018/10/15 09:22:15 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:22:15 Anyone is allowed
+2018/10/15 09:22:15 Layout prepend running
+2018/10/15 09:22:15 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:22:15 Anyone is allowed
+2018/10/15 09:22:15 Layout prepend running
+2018/10/15 09:22:15 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:22:15 Anyone is allowed
+2018/10/15 09:22:15 Layout prepend running
+2018/10/15 09:22:15 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:22:15 Anyone is allowed
+2018/10/15 09:22:15 Layout prepend running
+2018/10/15 09:22:15 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:22:15 Anyone is allowed
+2018/10/15 09:22:15 Render layout frontend
+2018/10/15 09:22:15 Render layout frontend
+2018/10/15 09:22:15 Render layout frontend
+2018/10/15 09:22:16 Render layout frontend
+2018/10/15 09:22:17 Render layout frontend
+2018/10/15 09:25:02 Changing language to hu
+2018/10/15 09:25:02 Layout prepend running
+2018/10/15 09:25:02 Adding css /assets/css/main.css
+2018/10/15 09:25:02 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:25:02 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:25:02 Anyone is allowed
+2018/10/15 09:25:02 Render layout frontend
+2018/10/15 09:25:03 Layout prepend running
+2018/10/15 09:25:03 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:25:03 Anyone is allowed
+2018/10/15 09:25:03 Render layout frontend
+2018/10/15 09:25:03 Layout prepend running
+2018/10/15 09:25:03 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:25:03 Anyone is allowed
+2018/10/15 09:25:03 Layout prepend running
+2018/10/15 09:25:03 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:25:03 Anyone is allowed
+2018/10/15 09:25:03 Render layout frontend
+2018/10/15 09:25:03 Layout prepend running
+2018/10/15 09:25:03 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:25:03 Anyone is allowed
+2018/10/15 09:25:03 Layout prepend running
+2018/10/15 09:25:03 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:25:03 Anyone is allowed
+2018/10/15 09:25:03 Render layout frontend
+2018/10/15 09:25:04 Render layout frontend
+2018/10/15 09:25:05 Render layout frontend
+2018/10/15 09:25:23 Setting default language to user
+2018/10/15 09:25:23 Layout prepend running
+2018/10/15 09:25:23 Adding css /assets/css/main.css
+2018/10/15 09:25:23 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:25:23 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:25:23 Anyone is allowed
+2018/10/15 09:25:23 Render layout frontend
+2018/10/15 09:26:18 Layout prepend running
+2018/10/15 09:26:18 template scope is admin
+2018/10/15 09:26:18 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:26:18 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:26:18 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:26:18 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:26:18 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:26:18 Adding css /assets/summernote/summernote.css
+2018/10/15 09:26:18 Adding css /assets/css/admin.css
+2018/10/15 09:26:18 Logged out user allowed
+2018/10/15 09:26:18 Anyone is allowed
+2018/10/15 09:26:18 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:26:18 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:26:18 Loggedin user is allowed (admin users)
+2018/10/15 09:26:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:26:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:26:18 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:26:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:26:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 REGEXP FOUND: "^/admin/user/switchlanguage/([a-z])+$" in path "/admin/user/switchlanguage/en"
+
+2018/10/15 09:26:18 Loggedin user is allowed (admin users)
+2018/10/15 09:26:18 Redirecting to http://mos.48p.in/admin/block/index
+2018/10/15 09:26:18 No render /admin/user/switchlanguage/en -> redirect
+2018/10/15 09:26:18 Layout prepend running
+2018/10/15 09:26:18 template scope is admin
+2018/10/15 09:26:18 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:26:18 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:26:18 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:26:18 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:26:18 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:26:18 Adding css /assets/summernote/summernote.css
+2018/10/15 09:26:18 Adding css /assets/css/admin.css
+2018/10/15 09:26:18 Logged out user allowed
+2018/10/15 09:26:18 Anyone is allowed
+2018/10/15 09:26:18 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:26:18 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:26:18 Loggedin user is allowed (admin users)
+2018/10/15 09:26:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:26:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:26:18 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:26:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:26:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:26:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:26:18 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:26:18 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:26:18 SELECT * FROM block WHERE `lc` = "en" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:26:18 block as m
+2018/10/15 09:26:18 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "en"
+2018/10/15 09:26:18 Rendering form
+2018/10/15 09:26:18 Rendering fieldset
+2018/10/15 09:26:18 Rendering text
+2018/10/15 09:26:18 Rendering input group
+2018/10/15 09:26:18 Rendering text
+2018/10/15 09:26:18 Rendering input group
+2018/10/15 09:26:18 Rendering text
+2018/10/15 09:26:18 Rendering input group
+2018/10/15 09:26:18 Rendering fieldset
+2018/10/15 09:26:18 Rendering button
+2018/10/15 09:26:18 Rendering input group
+2018/10/15 09:26:18 Render layout admin
+2018/10/15 09:27:18 Layout prepend running
+2018/10/15 09:27:18 template scope is admin
+2018/10/15 09:27:18 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:27:18 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:27:18 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:27:18 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:27:18 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:27:18 Adding css /assets/summernote/summernote.css
+2018/10/15 09:27:18 Adding css /assets/css/admin.css
+2018/10/15 09:27:18 Logged out user allowed
+2018/10/15 09:27:18 Anyone is allowed
+2018/10/15 09:27:18 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:27:18 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:27:18 Loggedin user is allowed (admin users)
+2018/10/15 09:27:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:27:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:27:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:27:18 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:27:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:27:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:27:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:27:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:27:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:27:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:27:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:27:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:27:18 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:27:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:27:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:27:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:27:18 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:27:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:27:18 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:27:18 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:27:18 Rendering form
+2018/10/15 09:27:18 Rendering fieldset
+2018/10/15 09:27:18 Rendering hidden
+2018/10/15 09:27:18 Rendering hidden
+2018/10/15 09:27:18 Rendering text
+2018/10/15 09:27:18 Rendering input group
+2018/10/15 09:27:18 Rendering text
+2018/10/15 09:27:18 Rendering input group
+2018/10/15 09:27:18 Rendering textarea
+2018/10/15 09:27:18 Rendering input group
+2018/10/15 09:27:18 Rendering fieldset
+2018/10/15 09:27:18 Rendering button
+2018/10/15 09:27:18 Rendering input group
+2018/10/15 09:27:18 Render layout admin
+2018/10/15 09:28:17 Layout prepend running
+2018/10/15 09:28:17 template scope is admin
+2018/10/15 09:28:17 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:28:17 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:28:17 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:28:17 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:28:17 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:28:17 Adding css /assets/summernote/summernote.css
+2018/10/15 09:28:17 Adding css /assets/css/admin.css
+2018/10/15 09:28:17 Logged out user allowed
+2018/10/15 09:28:17 Anyone is allowed
+2018/10/15 09:28:17 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Loggedin user is allowed (admin users)
+2018/10/15 09:28:17 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:28:17 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:28:17 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:28:17 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:28:17 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:28:17 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Validation start
+2018/10/15 09:28:17 Validating field id
+2018/10/15 09:28:17 Validating required
+2018/10/15 09:28:17 Valid
+2018/10/15 09:28:17 Validating field title
+2018/10/15 09:28:17 Validating required
+2018/10/15 09:28:17 value of title has not set yet, getting from request
+2018/10/15 09:28:17 Empty check -> Value of title is About
+2018/10/15 09:28:17 Valid
+2018/10/15 09:28:17 Validating field identifier
+2018/10/15 09:28:17 Validating required
+2018/10/15 09:28:17 value of identifier has not set yet, getting from request
+2018/10/15 09:28:17 Empty check -> Value of identifier is about
+2018/10/15 09:28:17 Valid
+2018/10/15 09:28:17 Empty check -> Value of identifier is about
+2018/10/15 09:28:17 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in about
+2018/10/15 09:28:17 Valid
+2018/10/15 09:28:17 Validating field content
+2018/10/15 09:28:17 Validating required
+2018/10/15 09:28:17 value of content has not set yet, getting from request
+2018/10/15 09:28:17 Empty check -> Value of content is <p>The Media Ownership Tool (MOT) is an online tool to view and track changes in Hungarian media ownership.
+
+In the past few years, questions related to media concentration, information and opinion monopolies and links between media owners and political interests have come to the forefront not only in Hungary but all across the globe. <br><br>Those who are interested in the topic had to make do with long data tables and complicated articles that are often hard to follow, if they wanted to gain an understanding of the gravity of the problem. As an alternative, we decided to make the problem more comprehensible through dots, lines, circles and colours, while at the same time allow users to browse and filter charts and to modify them in accordance with certain variables. We hope that this tool helps clarify the issues around Hungarian media ownership and gives a nuanced understanding of the proportions. Furthermore, we also intend this tool to serve as an example of how to answer similar questions around media concentration in other countries. <br></p><p><br>The Media Ownership Tool is primarily intended for Hungarian and foreign citizens, journalists, media consumers, economists and lawmakers, who are interested in questions related to Hungarian media ownership and are able to use the information extracted with the help of the Media Ownership Tool in their work.</p>
+2018/10/15 09:28:17 Valid
+2018/10/15 09:28:17 Redirecting to /admin/block/edit/1
+2018/10/15 09:28:17 No render /admin/block/edit/1 -> redirect
+2018/10/15 09:28:17 Layout prepend running
+2018/10/15 09:28:17 template scope is admin
+2018/10/15 09:28:17 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:28:17 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:28:17 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:28:17 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:28:17 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:28:17 Adding css /assets/summernote/summernote.css
+2018/10/15 09:28:17 Adding css /assets/css/admin.css
+2018/10/15 09:28:17 Logged out user allowed
+2018/10/15 09:28:17 Anyone is allowed
+2018/10/15 09:28:17 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Loggedin user is allowed (admin users)
+2018/10/15 09:28:17 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:28:17 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:28:17 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:28:17 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:28:17 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:28:17 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:28:17 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:28:17 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:28:17 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:28:17 Rendering form
+2018/10/15 09:28:17 Rendering fieldset
+2018/10/15 09:28:17 Rendering hidden
+2018/10/15 09:28:17 Rendering hidden
+2018/10/15 09:28:17 Rendering text
+2018/10/15 09:28:17 Rendering input group
+2018/10/15 09:28:17 Rendering text
+2018/10/15 09:28:17 Rendering input group
+2018/10/15 09:28:17 Rendering textarea
+2018/10/15 09:28:17 Rendering input group
+2018/10/15 09:28:17 Rendering fieldset
+2018/10/15 09:28:17 Rendering button
+2018/10/15 09:28:17 Rendering input group
+2018/10/15 09:28:17 Render layout admin
+2018/10/15 09:28:23 Changing language to en
+2018/10/15 09:28:23 Layout prepend running
+2018/10/15 09:28:23 Adding css /assets/css/main.css
+2018/10/15 09:28:23 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:28:23 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:28:23 Anyone is allowed
+2018/10/15 09:28:23 Render layout frontend
+2018/10/15 09:28:24 Layout prepend running
+2018/10/15 09:28:24 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:28:24 Anyone is allowed
+2018/10/15 09:28:24 Layout prepend running
+2018/10/15 09:28:24 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:28:24 Anyone is allowed
+2018/10/15 09:28:24 Render layout frontend
+2018/10/15 09:28:24 Layout prepend running
+2018/10/15 09:28:24 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:28:24 Anyone is allowed
+2018/10/15 09:28:24 Layout prepend running
+2018/10/15 09:28:24 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:28:24 Anyone is allowed
+2018/10/15 09:28:24 Layout prepend running
+2018/10/15 09:28:24 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:28:24 Anyone is allowed
+2018/10/15 09:28:24 Render layout frontend
+2018/10/15 09:28:24 Render layout frontend
+2018/10/15 09:28:50 Layout prepend running
+2018/10/15 09:28:50 Adding css /assets/css/main.css
+2018/10/15 09:28:50 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:28:50 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:28:50 Anyone is allowed
+2018/10/15 09:28:50 Render layout frontend
+2018/10/15 09:28:53 Layout prepend running
+2018/10/15 09:28:53 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:28:53 Anyone is allowed
+2018/10/15 09:28:53 Render layout frontend
+2018/10/15 09:28:53 Layout prepend running
+2018/10/15 09:28:53 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:28:53 Anyone is allowed
+2018/10/15 09:28:53 Layout prepend running
+2018/10/15 09:28:53 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:28:53 Anyone is allowed
+2018/10/15 09:28:53 Layout prepend running
+2018/10/15 09:28:53 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:28:53 Anyone is allowed
+2018/10/15 09:28:53 Layout prepend running
+2018/10/15 09:28:53 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:28:53 Anyone is allowed
+2018/10/15 09:28:53 Render layout frontend
+2018/10/15 09:28:57 Changing language to hu
+2018/10/15 09:28:57 Layout prepend running
+2018/10/15 09:28:57 Adding css /assets/css/main.css
+2018/10/15 09:28:57 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:28:57 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:28:57 Anyone is allowed
+2018/10/15 09:28:57 Render layout frontend
+2018/10/15 09:28:57 Layout prepend running
+2018/10/15 09:28:57 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:28:57 Anyone is allowed
+2018/10/15 09:28:57 Layout prepend running
+2018/10/15 09:28:57 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:28:57 Anyone is allowed
+2018/10/15 09:28:57 Layout prepend running
+2018/10/15 09:28:57 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:28:57 Anyone is allowed
+2018/10/15 09:28:57 Layout prepend running
+2018/10/15 09:28:57 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:28:57 Anyone is allowed
+2018/10/15 09:28:57 Render layout frontend
+2018/10/15 09:28:57 Layout prepend running
+2018/10/15 09:28:57 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:28:57 Anyone is allowed
+2018/10/15 09:28:57 Render layout frontend
+2018/10/15 09:28:57 Render layout frontend
+2018/10/15 09:32:10 Layout prepend running
+2018/10/15 09:32:10 template scope is admin
+2018/10/15 09:32:10 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:32:10 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:32:10 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:32:10 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:32:10 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:32:10 Adding css /assets/summernote/summernote.css
+2018/10/15 09:32:10 Adding css /assets/css/admin.css
+2018/10/15 09:32:10 Logged out user allowed
+2018/10/15 09:32:10 Anyone is allowed
+2018/10/15 09:32:10 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Loggedin user is allowed (admin users)
+2018/10/15 09:32:10 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:10 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:10 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:10 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:10 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:32:10 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Validation start
+2018/10/15 09:32:10 Validating field title
+2018/10/15 09:32:10 Validating required
+2018/10/15 09:32:10 value of title has not set yet, getting from request
+2018/10/15 09:32:10 Empty check -> Value of title is About
+2018/10/15 09:32:10 Valid
+2018/10/15 09:32:10 Validating field identifier
+2018/10/15 09:32:10 Validating required
+2018/10/15 09:32:10 value of identifier has not set yet, getting from request
+2018/10/15 09:32:10 Empty check -> Value of identifier is about
+2018/10/15 09:32:10 Valid
+2018/10/15 09:32:10 Empty check -> Value of identifier is about
+2018/10/15 09:32:10 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in about
+2018/10/15 09:32:10 Valid
+2018/10/15 09:32:10 Validating field content
+2018/10/15 09:32:10 Validating required
+2018/10/15 09:32:10 value of content has not set yet, getting from request
+2018/10/15 09:32:10 Empty check -> Value of content is <p>The Media Ownership Tool (MOT) is an online tool to view and track changes in Hungarian media ownership.
+
+In the past few years, questions related to media concentration, information and opinion monopolies and links between media owners and political interests have come to the forefront not only in Hungary but all across the globe. <br><br>Those who are interested in the topic had to make do with long data tables and complicated articles that are often hard to follow, if they wanted to gain an understanding of the gravity of the problem. As an alternative, we decided to make the problem more comprehensible through dots, lines, circles and colours, while at the same time allow users to browse and filter charts and to modify them in accordance with certain variables. We hope that this tool helps clarify the issues around Hungarian media ownership and gives a nuanced understanding of the proportions. Furthermore, we also intend this tool to serve as an example of how to answer similar questions around media concentration in other countries. <br></p><p><br>The Media Ownership Tool is primarily intended for Hungarian and foreign citizens, journalists, media consumers, economists and lawmakers, who are interested in questions related to Hungarian media ownership and are able to use the information extracted with the help of the Media Ownership Tool in their work.<br><br>The project in funded by the <a href="https://newsinitiative.withgoogle.com/dnifund/" target="_blank">Google Digital News Innovation Fund</a>.</p>
+2018/10/15 09:32:10 Valid
+2018/10/15 09:32:10 Validating field id
+2018/10/15 09:32:10 Validating required
+2018/10/15 09:32:10 Valid
+2018/10/15 09:32:10 Redirecting to /admin/block/edit/1
+2018/10/15 09:32:10 No render /admin/block/edit/1 -> redirect
+2018/10/15 09:32:10 Layout prepend running
+2018/10/15 09:32:10 template scope is admin
+2018/10/15 09:32:10 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:32:10 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:32:10 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:32:10 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:32:10 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:32:10 Adding css /assets/summernote/summernote.css
+2018/10/15 09:32:10 Adding css /assets/css/admin.css
+2018/10/15 09:32:10 Logged out user allowed
+2018/10/15 09:32:10 Anyone is allowed
+2018/10/15 09:32:10 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Loggedin user is allowed (admin users)
+2018/10/15 09:32:10 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:10 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:10 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:10 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:10 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:10 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:10 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:32:10 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:32:10 Rendering form
+2018/10/15 09:32:10 Rendering fieldset
+2018/10/15 09:32:10 Rendering hidden
+2018/10/15 09:32:10 Rendering hidden
+2018/10/15 09:32:10 Rendering text
+2018/10/15 09:32:10 Rendering input group
+2018/10/15 09:32:10 Rendering text
+2018/10/15 09:32:10 Rendering input group
+2018/10/15 09:32:10 Rendering textarea
+2018/10/15 09:32:10 Rendering input group
+2018/10/15 09:32:10 Rendering fieldset
+2018/10/15 09:32:10 Rendering button
+2018/10/15 09:32:10 Rendering input group
+2018/10/15 09:32:10 Render layout admin
+2018/10/15 09:32:30 Layout prepend running
+2018/10/15 09:32:30 template scope is admin
+2018/10/15 09:32:30 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:32:30 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:32:30 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:32:30 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:32:30 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:32:30 Adding css /assets/summernote/summernote.css
+2018/10/15 09:32:30 Adding css /assets/css/admin.css
+2018/10/15 09:32:30 Logged out user allowed
+2018/10/15 09:32:30 Anyone is allowed
+2018/10/15 09:32:30 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:30 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:32:30 Loggedin user is allowed (admin users)
+2018/10/15 09:32:30 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:30 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:30 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:30 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:30 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:30 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:30 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:30 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:30 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:30 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:30 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:30 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:30 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:30 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:30 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:30 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:30 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:30 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:30 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:32:30 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:30 SELECT * FROM block WHERE `lc` = "hu" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:32:30 block as m
+2018/10/15 09:32:30 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "hu"
+2018/10/15 09:32:30 Rendering form
+2018/10/15 09:32:30 Rendering fieldset
+2018/10/15 09:32:30 Rendering text
+2018/10/15 09:32:30 Rendering input group
+2018/10/15 09:32:30 Rendering text
+2018/10/15 09:32:30 Rendering input group
+2018/10/15 09:32:30 Rendering text
+2018/10/15 09:32:30 Rendering input group
+2018/10/15 09:32:30 Rendering fieldset
+2018/10/15 09:32:30 Rendering button
+2018/10/15 09:32:30 Rendering input group
+2018/10/15 09:32:30 Render layout admin
+2018/10/15 09:32:38 Layout prepend running
+2018/10/15 09:32:38 template scope is admin
+2018/10/15 09:32:38 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:32:38 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:32:38 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:32:38 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:32:38 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:32:38 Adding css /assets/summernote/summernote.css
+2018/10/15 09:32:38 Adding css /assets/css/admin.css
+2018/10/15 09:32:38 Logged out user allowed
+2018/10/15 09:32:38 Anyone is allowed
+2018/10/15 09:32:38 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:38 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:32:38 Loggedin user is allowed (admin users)
+2018/10/15 09:32:38 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:38 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:38 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:38 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:38 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 REGEXP FOUND: "^/admin/user/switchlanguage/([a-z])+$" in path "/admin/user/switchlanguage/en"
+
+2018/10/15 09:32:38 Loggedin user is allowed (admin users)
+2018/10/15 09:32:38 Redirecting to http://mos.48p.in/admin/block/index
+2018/10/15 09:32:38 No render /admin/user/switchlanguage/en -> redirect
+2018/10/15 09:32:38 Layout prepend running
+2018/10/15 09:32:38 template scope is admin
+2018/10/15 09:32:38 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:32:38 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:32:38 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:32:38 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:32:38 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:32:38 Adding css /assets/summernote/summernote.css
+2018/10/15 09:32:38 Adding css /assets/css/admin.css
+2018/10/15 09:32:38 Logged out user allowed
+2018/10/15 09:32:38 Anyone is allowed
+2018/10/15 09:32:38 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:38 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:32:38 Loggedin user is allowed (admin users)
+2018/10/15 09:32:38 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:38 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:38 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:38 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:32:38 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:38 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:32:38 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:32:38 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:32:38 SELECT * FROM block WHERE `lc` = "en" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:32:38 block as m
+2018/10/15 09:32:38 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "en"
+2018/10/15 09:32:38 Rendering form
+2018/10/15 09:32:38 Rendering fieldset
+2018/10/15 09:32:38 Rendering text
+2018/10/15 09:32:38 Rendering input group
+2018/10/15 09:32:38 Rendering text
+2018/10/15 09:32:38 Rendering input group
+2018/10/15 09:32:38 Rendering text
+2018/10/15 09:32:38 Rendering input group
+2018/10/15 09:32:38 Rendering fieldset
+2018/10/15 09:32:38 Rendering button
+2018/10/15 09:32:38 Rendering input group
+2018/10/15 09:32:38 Render layout admin
+2018/10/15 09:33:35 Layout prepend running
+2018/10/15 09:33:35 template scope is admin
+2018/10/15 09:33:35 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:33:35 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:33:35 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:33:35 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:33:35 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:33:35 Adding css /assets/summernote/summernote.css
+2018/10/15 09:33:35 Adding css /assets/css/admin.css
+2018/10/15 09:33:35 Logged out user allowed
+2018/10/15 09:33:35 Anyone is allowed
+2018/10/15 09:33:35 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:33:35 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:33:35 Loggedin user is allowed (admin users)
+2018/10/15 09:33:35 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:33:35 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:33:35 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:33:35 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:33:35 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:33:35 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:33:35 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:33:35 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:33:35 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:33:35 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:33:35 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:33:35 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:33:35 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:33:35 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:33:35 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:33:35 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:33:35 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:33:35 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:33:35 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/4"
+
+2018/10/15 09:33:35 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:33:35 Rendering form
+2018/10/15 09:33:35 Rendering fieldset
+2018/10/15 09:33:35 Rendering hidden
+2018/10/15 09:33:35 Rendering hidden
+2018/10/15 09:33:35 Rendering text
+2018/10/15 09:33:35 Rendering input group
+2018/10/15 09:33:35 Rendering text
+2018/10/15 09:33:35 Rendering input group
+2018/10/15 09:33:35 Rendering textarea
+2018/10/15 09:33:35 Rendering input group
+2018/10/15 09:33:35 Rendering fieldset
+2018/10/15 09:33:35 Rendering button
+2018/10/15 09:33:35 Rendering input group
+2018/10/15 09:33:35 Render layout admin
+2018/10/15 09:35:20 Layout prepend running
+2018/10/15 09:35:20 template scope is admin
+2018/10/15 09:35:20 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:35:20 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:35:20 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:35:20 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:35:20 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:35:20 Adding css /assets/summernote/summernote.css
+2018/10/15 09:35:20 Adding css /assets/css/admin.css
+2018/10/15 09:35:20 Logged out user allowed
+2018/10/15 09:35:20 Anyone is allowed
+2018/10/15 09:35:20 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Loggedin user is allowed (admin users)
+2018/10/15 09:35:20 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:20 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:20 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:20 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:20 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/4"
+
+2018/10/15 09:35:20 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Validation start
+2018/10/15 09:35:20 Validating field id
+2018/10/15 09:35:20 Validating required
+2018/10/15 09:35:20 Valid
+2018/10/15 09:35:20 Validating field title
+2018/10/15 09:35:20 Validating required
+2018/10/15 09:35:20 value of title has not set yet, getting from request
+2018/10/15 09:35:20 Empty check -> Value of title is Impressum
+2018/10/15 09:35:20 Valid
+2018/10/15 09:35:20 Validating field identifier
+2018/10/15 09:35:20 Validating required
+2018/10/15 09:35:20 value of identifier has not set yet, getting from request
+2018/10/15 09:35:20 Empty check -> Value of identifier is impressum
+2018/10/15 09:35:20 Valid
+2018/10/15 09:35:20 Empty check -> Value of identifier is impressum
+2018/10/15 09:35:20 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in impressum
+2018/10/15 09:35:20 Valid
+2018/10/15 09:35:20 Validating field content
+2018/10/15 09:35:20 Validating required
+2018/10/15 09:35:20 value of content has not set yet, getting from request
+2018/10/15 09:35:20 Empty check -> Value of content is Publisher: Center for Media, Data and Society (CMDS) at the School of Public Policy of Central European University <br>Address: 1051 Budapest, Nádor street 9.
+<br>Project managers: 
+Éva Bognár, Attila Bátorfy
+<br>Development and data visualization:
+Branditorial
+<br>Data:
+White Media Report<br>Contact: cmds@ceu.edu
+2018/10/15 09:35:20 Valid
+2018/10/15 09:35:20 Redirecting to /admin/block/edit/4
+2018/10/15 09:35:20 No render /admin/block/edit/4 -> redirect
+2018/10/15 09:35:20 Layout prepend running
+2018/10/15 09:35:20 template scope is admin
+2018/10/15 09:35:20 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:35:20 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:35:20 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:35:20 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:35:20 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:35:20 Adding css /assets/summernote/summernote.css
+2018/10/15 09:35:20 Adding css /assets/css/admin.css
+2018/10/15 09:35:20 Logged out user allowed
+2018/10/15 09:35:20 Anyone is allowed
+2018/10/15 09:35:20 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Loggedin user is allowed (admin users)
+2018/10/15 09:35:20 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:20 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:20 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:20 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:20 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:20 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:20 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/4"
+
+2018/10/15 09:35:20 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:35:20 Rendering form
+2018/10/15 09:35:20 Rendering fieldset
+2018/10/15 09:35:20 Rendering hidden
+2018/10/15 09:35:20 Rendering hidden
+2018/10/15 09:35:20 Rendering text
+2018/10/15 09:35:20 Rendering input group
+2018/10/15 09:35:20 Rendering text
+2018/10/15 09:35:20 Rendering input group
+2018/10/15 09:35:20 Rendering textarea
+2018/10/15 09:35:20 Rendering input group
+2018/10/15 09:35:20 Rendering fieldset
+2018/10/15 09:35:20 Rendering button
+2018/10/15 09:35:20 Rendering input group
+2018/10/15 09:35:20 Render layout admin
+2018/10/15 09:35:25 Layout prepend running
+2018/10/15 09:35:25 template scope is admin
+2018/10/15 09:35:25 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:35:25 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:35:25 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:35:25 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:35:25 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:35:25 Adding css /assets/summernote/summernote.css
+2018/10/15 09:35:25 Adding css /assets/css/admin.css
+2018/10/15 09:35:25 Logged out user allowed
+2018/10/15 09:35:25 Anyone is allowed
+2018/10/15 09:35:25 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:35:25 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:35:25 Loggedin user is allowed (admin users)
+2018/10/15 09:35:25 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:25 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:25 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:25 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:25 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:25 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:25 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:25 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:25 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:25 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:25 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:25 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:25 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:25 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:25 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:25 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:25 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:25 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:25 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:35:25 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:35:25 SELECT * FROM block WHERE `lc` = "en" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:35:25 block as m
+2018/10/15 09:35:25 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "en"
+2018/10/15 09:35:25 Rendering form
+2018/10/15 09:35:25 Rendering fieldset
+2018/10/15 09:35:25 Rendering text
+2018/10/15 09:35:25 Rendering input group
+2018/10/15 09:35:25 Rendering text
+2018/10/15 09:35:25 Rendering input group
+2018/10/15 09:35:25 Rendering text
+2018/10/15 09:35:25 Rendering input group
+2018/10/15 09:35:25 Rendering fieldset
+2018/10/15 09:35:25 Rendering button
+2018/10/15 09:35:25 Rendering input group
+2018/10/15 09:35:25 Render layout admin
+2018/10/15 09:35:31 Layout prepend running
+2018/10/15 09:35:31 template scope is admin
+2018/10/15 09:35:31 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:35:31 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:35:31 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:35:31 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:35:31 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:35:31 Adding css /assets/summernote/summernote.css
+2018/10/15 09:35:31 Adding css /assets/css/admin.css
+2018/10/15 09:35:31 Logged out user allowed
+2018/10/15 09:35:31 Anyone is allowed
+2018/10/15 09:35:31 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:35:31 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:35:31 Loggedin user is allowed (admin users)
+2018/10/15 09:35:31 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:31 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:35:31 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:31 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:31 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:35:31 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:35:31 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:31 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:35:31 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:31 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:31 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:31 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:31 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:31 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:31 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:35:31 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:31 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:31 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:35:31 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:35:31 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:35:31 Rendering form
+2018/10/15 09:35:31 Rendering fieldset
+2018/10/15 09:35:31 Rendering hidden
+2018/10/15 09:35:31 Rendering hidden
+2018/10/15 09:35:31 Rendering text
+2018/10/15 09:35:31 Rendering input group
+2018/10/15 09:35:31 Rendering text
+2018/10/15 09:35:31 Rendering input group
+2018/10/15 09:35:31 Rendering textarea
+2018/10/15 09:35:31 Rendering input group
+2018/10/15 09:35:31 Rendering fieldset
+2018/10/15 09:35:31 Rendering button
+2018/10/15 09:35:31 Rendering input group
+2018/10/15 09:35:31 Render layout admin
+2018/10/15 09:36:09 Layout prepend running
+2018/10/15 09:36:09 template scope is admin
+2018/10/15 09:36:09 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:09 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:09 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:09 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:09 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:09 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:09 Adding css /assets/css/admin.css
+2018/10/15 09:36:09 Logged out user allowed
+2018/10/15 09:36:09 Anyone is allowed
+2018/10/15 09:36:09 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Loggedin user is allowed (admin users)
+2018/10/15 09:36:09 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:09 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:09 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:09 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:09 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:36:09 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Validation start
+2018/10/15 09:36:09 Validating field identifier
+2018/10/15 09:36:09 value of identifier has not set yet, getting from request
+2018/10/15 09:36:09 Empty check -> Value of identifier is methodology
+2018/10/15 09:36:09 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in methodology
+2018/10/15 09:36:09 Valid
+2018/10/15 09:36:09 Validating required
+2018/10/15 09:36:09 Empty check -> Value of identifier is methodology
+2018/10/15 09:36:09 Valid
+2018/10/15 09:36:09 Validating field content
+2018/10/15 09:36:09 Validating required
+2018/10/15 09:36:09 value of content has not set yet, getting from request
+2018/10/15 09:36:09 Empty check -> Value of content is <p>The visible and modifiable dynamic chart is served by a data table which includes the yearly breakdown of names of publishers, broadcasters, billboard companies registered in Hungary, the names of newspapers, television channels, radios and news websites published by these companies, the names of their end owners and their relationship with the respective government in power. Furthermore, the table also includes the yearly breakdown of the publishers’ revenue and profit after tax. The data was purchased from Opten, a company that provides business information, and White Media helped us structure and clean it.</p><p>The full data table includes the top 100 Hungarian publishers (based on their revenue) that also provide news services. To make it more comprehensible and easier to understand, we removed those small local publishers and media outlets that are only published locally, mostly by the local government.</p><p>Furthermore, the Center for Media, Data and Society (CMDS) at the School of Public Policy of Central European University also categorized the publishers as pro-government and not pro-government. Publishers are regarded as pro-government if they either completely openly or mostly support the politics of the ruling government. In addition, CMDS also classified publishers based on documented links to politically exposed businessmen. </p><p>The project currently runs in beta version, so at the moment changes in media ownership can be traced back to 1998. <br><br></p><p><b>Funding </b></p><p><br></p>
+2018/10/15 09:36:09 Valid
+2018/10/15 09:36:09 Validating field id
+2018/10/15 09:36:09 Validating required
+2018/10/15 09:36:09 Valid
+2018/10/15 09:36:09 Validating field title
+2018/10/15 09:36:09 Validating required
+2018/10/15 09:36:09 value of title has not set yet, getting from request
+2018/10/15 09:36:09 Empty check -> Value of title is Methodology/Resources
+2018/10/15 09:36:09 Valid
+2018/10/15 09:36:09 Redirecting to /admin/block/edit/11
+2018/10/15 09:36:09 No render /admin/block/edit/11 -> redirect
+2018/10/15 09:36:09 Layout prepend running
+2018/10/15 09:36:09 template scope is admin
+2018/10/15 09:36:09 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:09 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:09 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:09 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:09 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:09 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:09 Adding css /assets/css/admin.css
+2018/10/15 09:36:09 Logged out user allowed
+2018/10/15 09:36:09 Anyone is allowed
+2018/10/15 09:36:09 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Loggedin user is allowed (admin users)
+2018/10/15 09:36:09 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:09 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:09 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:09 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:09 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:09 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:09 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:36:09 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:09 Rendering form
+2018/10/15 09:36:09 Rendering fieldset
+2018/10/15 09:36:09 Rendering hidden
+2018/10/15 09:36:09 Rendering hidden
+2018/10/15 09:36:09 Rendering text
+2018/10/15 09:36:09 Rendering input group
+2018/10/15 09:36:09 Rendering text
+2018/10/15 09:36:09 Rendering input group
+2018/10/15 09:36:09 Rendering textarea
+2018/10/15 09:36:09 Rendering input group
+2018/10/15 09:36:09 Rendering fieldset
+2018/10/15 09:36:09 Rendering button
+2018/10/15 09:36:09 Rendering input group
+2018/10/15 09:36:09 Render layout admin
+2018/10/15 09:36:13 Layout prepend running
+2018/10/15 09:36:13 template scope is admin
+2018/10/15 09:36:13 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:13 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:13 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:13 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:13 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:13 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:13 Adding css /assets/css/admin.css
+2018/10/15 09:36:13 Logged out user allowed
+2018/10/15 09:36:13 Anyone is allowed
+2018/10/15 09:36:13 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:13 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:13 Loggedin user is allowed (admin users)
+2018/10/15 09:36:13 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:13 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:13 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:13 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:13 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:13 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:13 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:13 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:13 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:13 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:13 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:13 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:13 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:13 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:13 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:13 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:13 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:13 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:13 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:36:13 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:13 SELECT * FROM block WHERE `lc` = "en" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:36:13 block as m
+2018/10/15 09:36:13 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "en"
+2018/10/15 09:36:13 Rendering form
+2018/10/15 09:36:13 Rendering fieldset
+2018/10/15 09:36:13 Rendering text
+2018/10/15 09:36:13 Rendering input group
+2018/10/15 09:36:13 Rendering text
+2018/10/15 09:36:13 Rendering input group
+2018/10/15 09:36:13 Rendering text
+2018/10/15 09:36:13 Rendering input group
+2018/10/15 09:36:13 Rendering fieldset
+2018/10/15 09:36:13 Rendering button
+2018/10/15 09:36:13 Rendering input group
+2018/10/15 09:36:13 Render layout admin
+2018/10/15 09:36:19 Layout prepend running
+2018/10/15 09:36:19 template scope is admin
+2018/10/15 09:36:19 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:19 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:19 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:19 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:19 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:19 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:19 Adding css /assets/css/admin.css
+2018/10/15 09:36:19 Logged out user allowed
+2018/10/15 09:36:19 Anyone is allowed
+2018/10/15 09:36:19 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:19 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:19 Loggedin user is allowed (admin users)
+2018/10/15 09:36:19 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:19 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:19 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:19 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:19 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:19 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:19 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:19 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:19 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:19 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:19 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:19 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:19 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:19 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:19 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:19 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:19 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:19 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:19 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:36:19 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:19 Rendering form
+2018/10/15 09:36:19 Rendering fieldset
+2018/10/15 09:36:19 Rendering hidden
+2018/10/15 09:36:19 Rendering hidden
+2018/10/15 09:36:19 Rendering text
+2018/10/15 09:36:19 Rendering input group
+2018/10/15 09:36:19 Rendering text
+2018/10/15 09:36:19 Rendering input group
+2018/10/15 09:36:19 Rendering textarea
+2018/10/15 09:36:19 Rendering input group
+2018/10/15 09:36:19 Rendering fieldset
+2018/10/15 09:36:19 Rendering button
+2018/10/15 09:36:19 Rendering input group
+2018/10/15 09:36:19 Render layout admin
+2018/10/15 09:36:33 Layout prepend running
+2018/10/15 09:36:33 template scope is admin
+2018/10/15 09:36:33 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:33 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:33 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:33 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:33 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:33 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:33 Adding css /assets/css/admin.css
+2018/10/15 09:36:33 Logged out user allowed
+2018/10/15 09:36:33 Anyone is allowed
+2018/10/15 09:36:33 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Loggedin user is allowed (admin users)
+2018/10/15 09:36:33 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:33 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:33 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:33 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:33 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:36:33 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Validation start
+2018/10/15 09:36:33 Validating field id
+2018/10/15 09:36:33 Validating required
+2018/10/15 09:36:33 Valid
+2018/10/15 09:36:33 Validating field title
+2018/10/15 09:36:33 Validating required
+2018/10/15 09:36:33 value of title has not set yet, getting from request
+2018/10/15 09:36:33 Empty check -> Value of title is About
+2018/10/15 09:36:33 Valid
+2018/10/15 09:36:33 Validating field identifier
+2018/10/15 09:36:33 Validating required
+2018/10/15 09:36:33 value of identifier has not set yet, getting from request
+2018/10/15 09:36:33 Empty check -> Value of identifier is about
+2018/10/15 09:36:33 Valid
+2018/10/15 09:36:33 Empty check -> Value of identifier is about
+2018/10/15 09:36:33 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in about
+2018/10/15 09:36:33 Valid
+2018/10/15 09:36:33 Validating field content
+2018/10/15 09:36:33 Validating required
+2018/10/15 09:36:33 value of content has not set yet, getting from request
+2018/10/15 09:36:33 Empty check -> Value of content is <p>The Media Ownership Tool (MOT) is an online tool to view and track changes in Hungarian media ownership.
+
+In the past few years, questions related to media concentration, information and opinion monopolies and links between media owners and political interests have come to the forefront not only in Hungary but all across the globe. <br><br>Those who are interested in the topic had to make do with long data tables and complicated articles that are often hard to follow, if they wanted to gain an understanding of the gravity of the problem. As an alternative, we decided to make the problem more comprehensible through dots, lines, circles and colours, while at the same time allow users to browse and filter charts and to modify them in accordance with certain variables. We hope that this tool helps clarify the issues around Hungarian media ownership and gives a nuanced understanding of the proportions. Furthermore, we also intend this tool to serve as an example of how to answer similar questions around media concentration in other countries. <br></p><p><br>The Media Ownership Tool is primarily intended for Hungarian and foreign citizens, journalists, media consumers, economists and lawmakers, who are interested in questions related to Hungarian media ownership and are able to use the information extracted with the help of the Media Ownership Tool in their work.<br><br>CMDS won 50.000 EUR grant from the Google Digital News Initiative through its&nbsp;<a href="https://newsinitiative.withgoogle.com/dnifund/" target="_blank" style="background-color: rgb(255, 255, 255);">Digital News Innovation Fund</a>&nbsp;for the funding of the project.<br></p>
+2018/10/15 09:36:33 Valid
+2018/10/15 09:36:33 Redirecting to /admin/block/edit/1
+2018/10/15 09:36:33 No render /admin/block/edit/1 -> redirect
+2018/10/15 09:36:33 Layout prepend running
+2018/10/15 09:36:33 template scope is admin
+2018/10/15 09:36:33 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:33 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:33 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:33 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:33 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:33 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:33 Adding css /assets/css/admin.css
+2018/10/15 09:36:33 Logged out user allowed
+2018/10/15 09:36:33 Anyone is allowed
+2018/10/15 09:36:33 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Loggedin user is allowed (admin users)
+2018/10/15 09:36:33 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:33 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:33 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:33 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:33 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:33 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:33 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:33 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/1"
+
+2018/10/15 09:36:33 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:33 Rendering form
+2018/10/15 09:36:33 Rendering fieldset
+2018/10/15 09:36:33 Rendering hidden
+2018/10/15 09:36:33 Rendering hidden
+2018/10/15 09:36:33 Rendering text
+2018/10/15 09:36:33 Rendering input group
+2018/10/15 09:36:33 Rendering text
+2018/10/15 09:36:33 Rendering input group
+2018/10/15 09:36:33 Rendering textarea
+2018/10/15 09:36:33 Rendering input group
+2018/10/15 09:36:33 Rendering fieldset
+2018/10/15 09:36:33 Rendering button
+2018/10/15 09:36:33 Rendering input group
+2018/10/15 09:36:33 Render layout admin
+2018/10/15 09:36:38 Layout prepend running
+2018/10/15 09:36:38 template scope is admin
+2018/10/15 09:36:38 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:38 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:38 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:38 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:38 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:38 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:38 Adding css /assets/css/admin.css
+2018/10/15 09:36:38 Logged out user allowed
+2018/10/15 09:36:38 Anyone is allowed
+2018/10/15 09:36:38 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:38 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:38 Loggedin user is allowed (admin users)
+2018/10/15 09:36:38 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:38 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:38 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:38 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:38 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:38 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:38 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:38 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:38 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:38 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:38 REGEXP FOUND: "^/admin/block/?(index)?$" in path "/admin/block/index"
+
+2018/10/15 09:36:38 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:38 SELECT * FROM block WHERE `lc` = "en" ORDER BY id DESC LIMIT 0,20
+2018/10/15 09:36:38 block as m
+2018/10/15 09:36:38 SELECT COUNT(m.`id`) FROM block as m WHERE `lc` = "en"
+2018/10/15 09:36:38 Rendering form
+2018/10/15 09:36:38 Rendering fieldset
+2018/10/15 09:36:38 Rendering text
+2018/10/15 09:36:38 Rendering input group
+2018/10/15 09:36:38 Rendering text
+2018/10/15 09:36:38 Rendering input group
+2018/10/15 09:36:38 Rendering text
+2018/10/15 09:36:38 Rendering input group
+2018/10/15 09:36:38 Rendering fieldset
+2018/10/15 09:36:38 Rendering button
+2018/10/15 09:36:38 Rendering input group
+2018/10/15 09:36:38 Render layout admin
+2018/10/15 09:36:44 Layout prepend running
+2018/10/15 09:36:44 template scope is admin
+2018/10/15 09:36:44 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:36:44 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:36:44 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:36:44 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:36:44 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:36:44 Adding css /assets/summernote/summernote.css
+2018/10/15 09:36:44 Adding css /assets/css/admin.css
+2018/10/15 09:36:44 Logged out user allowed
+2018/10/15 09:36:44 Anyone is allowed
+2018/10/15 09:36:44 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:36:44 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:36:44 Loggedin user is allowed (admin users)
+2018/10/15 09:36:44 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:44 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:36:44 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:44 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:44 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:36:44 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:36:44 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:44 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:36:44 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:44 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:44 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:44 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:44 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:44 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:44 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:36:44 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:44 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:44 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:36:44 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:36:44 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:36:44 Rendering form
+2018/10/15 09:36:44 Rendering fieldset
+2018/10/15 09:36:44 Rendering hidden
+2018/10/15 09:36:44 Rendering hidden
+2018/10/15 09:36:44 Rendering text
+2018/10/15 09:36:44 Rendering input group
+2018/10/15 09:36:44 Rendering text
+2018/10/15 09:36:44 Rendering input group
+2018/10/15 09:36:44 Rendering textarea
+2018/10/15 09:36:44 Rendering input group
+2018/10/15 09:36:44 Rendering fieldset
+2018/10/15 09:36:44 Rendering button
+2018/10/15 09:36:44 Rendering input group
+2018/10/15 09:36:44 Render layout admin
+2018/10/15 09:49:47 Layout prepend running
+2018/10/15 09:49:47 template scope is admin
+2018/10/15 09:49:47 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:49:47 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:49:47 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:49:47 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:49:47 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:49:47 Adding css /assets/summernote/summernote.css
+2018/10/15 09:49:47 Adding css /assets/css/admin.css
+2018/10/15 09:49:47 Logged out user allowed
+2018/10/15 09:49:47 Anyone is allowed
+2018/10/15 09:49:47 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:49:47 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:49:47 Loggedin user is allowed (admin users)
+2018/10/15 09:49:47 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:49:47 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:49:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:49:47 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:49:47 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:49:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:49:47 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:49:47 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:49:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:49:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:49:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:49:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:49:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:49:47 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:49:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:49:47 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:49:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:49:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:49:47 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:49:47 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:49:47 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:49:47 Validation start
+2018/10/15 09:49:47 Validating field id
+2018/10/15 09:49:47 Validating required
+2018/10/15 09:49:47 Valid
+2018/10/15 09:49:47 Validating field title
+2018/10/15 09:49:47 Validating required
+2018/10/15 09:49:47 value of title has not set yet, getting from request
+2018/10/15 09:49:47 Empty check -> Value of title is Methodology/Resources
+2018/10/15 09:49:47 Valid
+2018/10/15 09:49:47 Validating field identifier
+2018/10/15 09:49:47 Validating required
+2018/10/15 09:49:47 value of identifier has not set yet, getting from request
+2018/10/15 09:49:47 Empty check -> Value of identifier is methodology/resources
+2018/10/15 09:49:47 Valid
+2018/10/15 09:49:47 Empty check -> Value of identifier is methodology/resources
+2018/10/15 09:49:47 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in methodology/resources
+2018/10/15 09:49:47 Not valid
+2018/10/15 09:49:47 Validating field content
+2018/10/15 09:49:47 Validating required
+2018/10/15 09:49:47 value of content has not set yet, getting from request
+2018/10/15 09:49:47 Empty check -> Value of content is <p>The visible and modifiable dynamic chart is served by a data table which includes the yearly breakdown of names of publishers, broadcasters, billboard companies registered in Hungary, the names of newspapers, television channels, radios and news websites published by these companies, the names of their end owners and their relationship with the respective government in power. Furthermore, the table also includes the yearly breakdown of the publishers’ revenue and profit after tax. The data was purchased from Opten, a company that provides business information, and White Media helped us structure and clean it.</p><p>The full data table includes the top 100 Hungarian publishers (based on their revenue) that also provide news services. To make it more comprehensible and easier to understand, we removed those small local publishers and media outlets that are only published locally, mostly by the local government.</p><p>Furthermore, the Center for Media, Data and Society (CMDS) at the School of Public Policy of Central European University also categorized the publishers as pro-government and not pro-government. Publishers are regarded as pro-government if they either completely openly or mostly support the politics of the ruling government. In addition, CMDS also classified publishers based on documented links to politically exposed businessmen. </p><p>The project currently runs in beta version, so at the moment changes in media ownership can be traced back to 1998. <br><br></p><h3><b>Resources</b></h3><p>There are many scientific researches and articles focusing on media ownership, media concentration, monopolies and their effect on media pluralism and freedom of press. Here we enlisted some of them.&nbsp;<br><br><b>European regulation</b><br><br>European Parliament and the Council of Europe:&nbsp;<a href="https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32010L0013" target="_blank">Audiovisual Media Services Directive</a><br><p>European University Institute Centre for Media Pluralism and Media Freedom: <a href="http://cmpf.eui.eu/media-pluralism-monitor/" target="_blank">Media Pluralism Monitor</a><br><br>Hungarian regulation<br><br>Act CLXXXV. of 2010 on media services and mass media. <a href="http://nmhh.hu/dokumentum/2791/1321457199hungary_new_media_regulation_eng_web.pdf" target="_blank">Chapter V</a>.<br><br><span lang="HU"><a href="http://www.mediapiac.com/mediapiac/A-mediakoncentracio-meresenek-nehany-modszertani-kerdese/112372/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.mediapiac.com/mediapiac/A-mediakoncentracio-meresenek-nehany-modszertani-kerdese/112372/&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNH9kWPS75lA4xezQ3Qfrn9QMoodjg" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://www.mediapiac.com/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">mediapiac/A-mediakoncentracio-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">meresenek-nehany-modszertani-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">kerdese/112372/</span></a></span><span lang="HU"><br></span><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Bagdikian, Ben H.: Az új médiamonpólium. Budapest, Complex, 2012.</span></span></p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">A médiakoncentrációra vonatkozó uniós ajánlás</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Az audiovizuális szolgáltatásokról szóló uniós direktíva</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Media Pluralism Monitor</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Magyar médiatörvény</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">2010. évi CLXXXV. Törvény a médiaszolgáltatásokról és a tömegkommunikációról, V. fejezet: A piaci koncentráció megelőzése és a jelentős befolyásoló erejű médiaszolgáltatók</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Szabályozás</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Gálik, Mihály: Regulating Media Concentration within the Council of Europe and the European Union, In: Beata Klimkiewitz (ed.): Media Freedom and Pluralism. Budapest, CEU Press, 2010, pp. 229-244</span><span style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span><a href="https://books.openedition.org/ceup/2179" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://books.openedition.org/ceup/2179&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNG3pw6_4yYA8UMB6w9-P9NhGTOCtA" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">https://books.openedition.org/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">ceup/2179</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Urbán Ágnes: A médiakoncentráció mérésének néhány módszertani kérdése</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Polyák Gábor: Versenyjogi és médiajogi eszközök a médiakoncentráció korlátozásában, AKTI 2008</span><span style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span><a href="http://www.akti.hu/dok/fuzet21.pdf" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.akti.hu/dok/fuzet21.pdf&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNF5M1RRlZ9TqKsEyccMCZ182_Dtzg" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://www.akti.hu/dok/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">fuzet21.pdf</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Gálik Mihály (szerk.): A médiakoncentráció szabályozása, Budapest, Gondolat, 2011</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Klasszikusok</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Bagdikian, Ben H.: The Media Monopoly. New York, Beacon Press, 1983</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Gillian Doyle: Media Ownership: The Economics and Politics of Convergence and Concentration in the UK and European Media. Sage, 2002</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Rice, Ronald E.: Media Ownership – Research and Regulation. Hampton Press, 2008</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Noam, Eli M. (szerk.): Who Owns the World’s Media? Media Concentration and Ownership around the World. Oxford, Oxford University Press 2016</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Magyarország</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Media Pluralism Monitor</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><a href="http://cmpf.eui.eu/media-pluralism-monitor/mpm-2016-results/hungary/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cmpf.eui.eu/media-pluralism-monitor/mpm-2016-results/hungary/&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNE4N71myclh9FvTeva-K6iW4oqPkQ" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://cmpf.eui.eu/media-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">pluralism-monitor/mpm-2016-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">results/hungary/</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><a href="http://cadmus.eui.eu/bitstream/handle/1814/46799/Cover_Hungary_O.pdf?sequence=2&amp;isAllowed=y" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cadmus.eui.eu/bitstream/handle/1814/46799/Cover_Hungary_O.pdf?sequence%3D2%26isAllowed%3Dy&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNGZTnG3oRX3lDQ_Yk06z8YDJ88IsA" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://cadmus.eui.eu/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">bitstream/handle/1814/46799/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">Cover_Hungary_O.pdf?sequence=</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">2&amp;isAllowed=y</span></a></span></p>
+2018/10/15 09:49:47 Valid
+2018/10/15 09:49:47 Rendering form
+2018/10/15 09:49:47 Rendering fieldset
+2018/10/15 09:49:47 Rendering hidden
+2018/10/15 09:49:47 Rendering hidden
+2018/10/15 09:49:47 Rendering text
+2018/10/15 09:49:47 Rendering input group
+2018/10/15 09:49:47 Rendering text
+2018/10/15 09:49:47 Rendering input group
+2018/10/15 09:49:47 Rendering textarea
+2018/10/15 09:49:47 Rendering input group
+2018/10/15 09:49:47 Rendering fieldset
+2018/10/15 09:49:47 Rendering button
+2018/10/15 09:49:47 Rendering input group
+2018/10/15 09:49:47 Render layout admin
+2018/10/15 09:50:04 Layout prepend running
+2018/10/15 09:50:04 template scope is admin
+2018/10/15 09:50:04 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:50:04 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:50:04 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:50:04 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:50:04 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:50:04 Adding css /assets/summernote/summernote.css
+2018/10/15 09:50:04 Adding css /assets/css/admin.css
+2018/10/15 09:50:04 Logged out user allowed
+2018/10/15 09:50:04 Anyone is allowed
+2018/10/15 09:50:04 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:50:04 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:50:04 Loggedin user is allowed (admin users)
+2018/10/15 09:50:04 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:50:04 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:50:04 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:04 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:04 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:04 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:04 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:50:04 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:50:04 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:04 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:04 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:04 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:04 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:04 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:04 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:04 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:04 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:04 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:04 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:50:04 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:50:04 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:50:04 Validation start
+2018/10/15 09:50:04 Validating field id
+2018/10/15 09:50:04 Validating required
+2018/10/15 09:50:04 Valid
+2018/10/15 09:50:04 Validating field title
+2018/10/15 09:50:04 Validating required
+2018/10/15 09:50:04 value of title has not set yet, getting from request
+2018/10/15 09:50:04 Empty check -> Value of title is Methodology/Resources
+2018/10/15 09:50:04 Valid
+2018/10/15 09:50:04 Validating field identifier
+2018/10/15 09:50:04 Validating required
+2018/10/15 09:50:04 value of identifier has not set yet, getting from request
+2018/10/15 09:50:04 Empty check -> Value of identifier is methodology and resources
+2018/10/15 09:50:04 Valid
+2018/10/15 09:50:04 Empty check -> Value of identifier is methodology and resources
+2018/10/15 09:50:04 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in methodology and resources
+2018/10/15 09:50:04 Not valid
+2018/10/15 09:50:04 Validating field content
+2018/10/15 09:50:04 Validating required
+2018/10/15 09:50:04 value of content has not set yet, getting from request
+2018/10/15 09:50:04 Empty check -> Value of content is <p>The visible and modifiable dynamic chart is served by a data table which includes the yearly breakdown of names of publishers, broadcasters, billboard companies registered in Hungary, the names of newspapers, television channels, radios and news websites published by these companies, the names of their end owners and their relationship with the respective government in power. Furthermore, the table also includes the yearly breakdown of the publishers’ revenue and profit after tax. The data was purchased from Opten, a company that provides business information, and White Media helped us structure and clean it.</p><p>The full data table includes the top 100 Hungarian publishers (based on their revenue) that also provide news services. To make it more comprehensible and easier to understand, we removed those small local publishers and media outlets that are only published locally, mostly by the local government.</p><p>Furthermore, the Center for Media, Data and Society (CMDS) at the School of Public Policy of Central European University also categorized the publishers as pro-government and not pro-government. Publishers are regarded as pro-government if they either completely openly or mostly support the politics of the ruling government. In addition, CMDS also classified publishers based on documented links to politically exposed businessmen. </p><p>The project currently runs in beta version, so at the moment changes in media ownership can be traced back to 1998. <br><br></p><h3><b>Resources</b></h3><p>There are many scientific researches and articles focusing on media ownership, media concentration, monopolies and their effect on media pluralism and freedom of press. Here we enlisted some of them.&nbsp;<br><br><b>European regulation</b><br><br>European Parliament and the Council of Europe:&nbsp;<a href="https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32010L0013" target="_blank">Audiovisual Media Services Directive</a><br><p>European University Institute Centre for Media Pluralism and Media Freedom: <a href="http://cmpf.eui.eu/media-pluralism-monitor/" target="_blank">Media Pluralism Monitor</a><br><br>Hungarian regulation<br><br>Act CLXXXV. of 2010 on media services and mass media. <a href="http://nmhh.hu/dokumentum/2791/1321457199hungary_new_media_regulation_eng_web.pdf" target="_blank">Chapter V</a>.<br><br><span lang="HU"><a href="http://www.mediapiac.com/mediapiac/A-mediakoncentracio-meresenek-nehany-modszertani-kerdese/112372/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.mediapiac.com/mediapiac/A-mediakoncentracio-meresenek-nehany-modszertani-kerdese/112372/&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNH9kWPS75lA4xezQ3Qfrn9QMoodjg" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://www.mediapiac.com/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">mediapiac/A-mediakoncentracio-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">meresenek-nehany-modszertani-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">kerdese/112372/</span></a></span><span lang="HU"><br></span><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Bagdikian, Ben H.: Az új médiamonpólium. Budapest, Complex, 2012.</span></span></p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">A médiakoncentrációra vonatkozó uniós ajánlás</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Az audiovizuális szolgáltatásokról szóló uniós direktíva</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Media Pluralism Monitor</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Magyar médiatörvény</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">2010. évi CLXXXV. Törvény a médiaszolgáltatásokról és a tömegkommunikációról, V. fejezet: A piaci koncentráció megelőzése és a jelentős befolyásoló erejű médiaszolgáltatók</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Szabályozás</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Gálik, Mihály: Regulating Media Concentration within the Council of Europe and the European Union, In: Beata Klimkiewitz (ed.): Media Freedom and Pluralism. Budapest, CEU Press, 2010, pp. 229-244</span><span style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span><a href="https://books.openedition.org/ceup/2179" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://books.openedition.org/ceup/2179&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNG3pw6_4yYA8UMB6w9-P9NhGTOCtA" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">https://books.openedition.org/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">ceup/2179</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Urbán Ágnes: A médiakoncentráció mérésének néhány módszertani kérdése</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Polyák Gábor: Versenyjogi és médiajogi eszközök a médiakoncentráció korlátozásában, AKTI 2008</span><span style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span><a href="http://www.akti.hu/dok/fuzet21.pdf" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.akti.hu/dok/fuzet21.pdf&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNF5M1RRlZ9TqKsEyccMCZ182_Dtzg" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://www.akti.hu/dok/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">fuzet21.pdf</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Gálik Mihály (szerk.): A médiakoncentráció szabályozása, Budapest, Gondolat, 2011</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Klasszikusok</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Bagdikian, Ben H.: The Media Monopoly. New York, Beacon Press, 1983</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Gillian Doyle: Media Ownership: The Economics and Politics of Convergence and Concentration in the UK and European Media. Sage, 2002</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Rice, Ronald E.: Media Ownership – Research and Regulation. Hampton Press, 2008</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Noam, Eli M. (szerk.): Who Owns the World’s Media? Media Concentration and Ownership around the World. Oxford, Oxford University Press 2016</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Magyarország</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Media Pluralism Monitor</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><a href="http://cmpf.eui.eu/media-pluralism-monitor/mpm-2016-results/hungary/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cmpf.eui.eu/media-pluralism-monitor/mpm-2016-results/hungary/&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNE4N71myclh9FvTeva-K6iW4oqPkQ" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://cmpf.eui.eu/media-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">pluralism-monitor/mpm-2016-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">results/hungary/</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><a href="http://cadmus.eui.eu/bitstream/handle/1814/46799/Cover_Hungary_O.pdf?sequence=2&amp;isAllowed=y" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cadmus.eui.eu/bitstream/handle/1814/46799/Cover_Hungary_O.pdf?sequence%3D2%26isAllowed%3Dy&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNGZTnG3oRX3lDQ_Yk06z8YDJ88IsA" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://cadmus.eui.eu/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">bitstream/handle/1814/46799/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">Cover_Hungary_O.pdf?sequence=</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">2&amp;isAllowed=y</span></a></span></p>
+2018/10/15 09:50:04 Valid
+2018/10/15 09:50:04 Rendering form
+2018/10/15 09:50:04 Rendering fieldset
+2018/10/15 09:50:04 Rendering hidden
+2018/10/15 09:50:04 Rendering hidden
+2018/10/15 09:50:04 Rendering text
+2018/10/15 09:50:04 Rendering input group
+2018/10/15 09:50:04 Rendering text
+2018/10/15 09:50:04 Rendering input group
+2018/10/15 09:50:04 Rendering textarea
+2018/10/15 09:50:04 Rendering input group
+2018/10/15 09:50:04 Rendering fieldset
+2018/10/15 09:50:04 Rendering button
+2018/10/15 09:50:04 Rendering input group
+2018/10/15 09:50:04 Render layout admin
+2018/10/15 09:50:14 Layout prepend running
+2018/10/15 09:50:14 template scope is admin
+2018/10/15 09:50:14 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:50:14 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:50:14 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:50:14 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:50:14 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:50:14 Adding css /assets/summernote/summernote.css
+2018/10/15 09:50:14 Adding css /assets/css/admin.css
+2018/10/15 09:50:14 Logged out user allowed
+2018/10/15 09:50:14 Anyone is allowed
+2018/10/15 09:50:14 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Loggedin user is allowed (admin users)
+2018/10/15 09:50:14 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:50:14 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:14 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:14 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:50:14 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:50:14 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Validation start
+2018/10/15 09:50:14 Validating field id
+2018/10/15 09:50:14 Validating required
+2018/10/15 09:50:14 Valid
+2018/10/15 09:50:14 Validating field title
+2018/10/15 09:50:14 Validating required
+2018/10/15 09:50:14 value of title has not set yet, getting from request
+2018/10/15 09:50:14 Empty check -> Value of title is Methodology/Resources
+2018/10/15 09:50:14 Valid
+2018/10/15 09:50:14 Validating field identifier
+2018/10/15 09:50:14 Validating required
+2018/10/15 09:50:14 value of identifier has not set yet, getting from request
+2018/10/15 09:50:14 Empty check -> Value of identifier is methodology
+2018/10/15 09:50:14 Valid
+2018/10/15 09:50:14 Empty check -> Value of identifier is methodology
+2018/10/15 09:50:14 Validating regexp ^([a-zA-Z0-9\-\_]*)+$ in methodology
+2018/10/15 09:50:14 Valid
+2018/10/15 09:50:14 Validating field content
+2018/10/15 09:50:14 Validating required
+2018/10/15 09:50:14 value of content has not set yet, getting from request
+2018/10/15 09:50:14 Empty check -> Value of content is <p>The visible and modifiable dynamic chart is served by a data table which includes the yearly breakdown of names of publishers, broadcasters, billboard companies registered in Hungary, the names of newspapers, television channels, radios and news websites published by these companies, the names of their end owners and their relationship with the respective government in power. Furthermore, the table also includes the yearly breakdown of the publishers’ revenue and profit after tax. The data was purchased from Opten, a company that provides business information, and White Media helped us structure and clean it.</p><p>The full data table includes the top 100 Hungarian publishers (based on their revenue) that also provide news services. To make it more comprehensible and easier to understand, we removed those small local publishers and media outlets that are only published locally, mostly by the local government.</p><p>Furthermore, the Center for Media, Data and Society (CMDS) at the School of Public Policy of Central European University also categorized the publishers as pro-government and not pro-government. Publishers are regarded as pro-government if they either completely openly or mostly support the politics of the ruling government. In addition, CMDS also classified publishers based on documented links to politically exposed businessmen. </p><p>The project currently runs in beta version, so at the moment changes in media ownership can be traced back to 1998. <br><br></p><h3><b>Resources</b></h3><p>There are many scientific researches and articles focusing on media ownership, media concentration, monopolies and their effect on media pluralism and freedom of press. Here we enlisted some of them.&nbsp;<br><br><b>European regulation</b><br><br>European Parliament and the Council of Europe:&nbsp;<a href="https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32010L0013" target="_blank">Audiovisual Media Services Directive</a><br><p>European University Institute Centre for Media Pluralism and Media Freedom: <a href="http://cmpf.eui.eu/media-pluralism-monitor/" target="_blank">Media Pluralism Monitor</a><br><br>Hungarian regulation<br><br>Act CLXXXV. of 2010 on media services and mass media. <a href="http://nmhh.hu/dokumentum/2791/1321457199hungary_new_media_regulation_eng_web.pdf" target="_blank">Chapter V</a>.<br><br><span lang="HU"><a href="http://www.mediapiac.com/mediapiac/A-mediakoncentracio-meresenek-nehany-modszertani-kerdese/112372/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.mediapiac.com/mediapiac/A-mediakoncentracio-meresenek-nehany-modszertani-kerdese/112372/&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNH9kWPS75lA4xezQ3Qfrn9QMoodjg" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://www.mediapiac.com/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">mediapiac/A-mediakoncentracio-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">meresenek-nehany-modszertani-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">kerdese/112372/</span></a></span><span lang="HU"><br></span><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Bagdikian, Ben H.: Az új médiamonpólium. Budapest, Complex, 2012.</span></span></p></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">A médiakoncentrációra vonatkozó uniós ajánlás</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Az audiovizuális szolgáltatásokról szóló uniós direktíva</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Media Pluralism Monitor</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Magyar médiatörvény</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">2010. évi CLXXXV. Törvény a médiaszolgáltatásokról és a tömegkommunikációról, V. fejezet: A piaci koncentráció megelőzése és a jelentős befolyásoló erejű médiaszolgáltatók</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Szabályozás</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Gálik, Mihály: Regulating Media Concentration within the Council of Europe and the European Union, In: Beata Klimkiewitz (ed.): Media Freedom and Pluralism. Budapest, CEU Press, 2010, pp. 229-244</span><span style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span><a href="https://books.openedition.org/ceup/2179" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://books.openedition.org/ceup/2179&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNG3pw6_4yYA8UMB6w9-P9NhGTOCtA" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">https://books.openedition.org/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">ceup/2179</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Urbán Ágnes: A médiakoncentráció mérésének néhány módszertani kérdése</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Polyák Gábor: Versenyjogi és médiajogi eszközök a médiakoncentráció korlátozásában, AKTI 2008</span><span style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span><a href="http://www.akti.hu/dok/fuzet21.pdf" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://www.akti.hu/dok/fuzet21.pdf&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNF5M1RRlZ9TqKsEyccMCZ182_Dtzg" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://www.akti.hu/dok/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">fuzet21.pdf</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Gálik Mihály (szerk.): A médiakoncentráció szabályozása, Budapest, Gondolat, 2011</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Klasszikusok</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><span style="font-family: &quot;Helvetica Neue&quot;;">Bagdikian, Ben H.: The Media Monopoly. New York, Beacon Press, 1983</span><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Gillian Doyle: Media Ownership: The Economics and Politics of Convergence and Concentration in the UK and European Media. Sage, 2002</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Rice, Ronald E.: Media Ownership – Research and Regulation. Hampton Press, 2008</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Noam, Eli M. (szerk.): Who Owns the World’s Media? Media Concentration and Ownership around the World. Oxford, Oxford University Press 2016</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><b><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Magyarország</span></b></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU" style="font-family: &quot;Helvetica Neue&quot;;">Media Pluralism Monitor</span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><a href="http://cmpf.eui.eu/media-pluralism-monitor/mpm-2016-results/hungary/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cmpf.eui.eu/media-pluralism-monitor/mpm-2016-results/hungary/&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNE4N71myclh9FvTeva-K6iW4oqPkQ" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://cmpf.eui.eu/media-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">pluralism-monitor/mpm-2016-</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">results/hungary/</span></a></span></p><p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; color: rgb(34, 34, 34); font-size: 12pt; font-family: Calibri;"><span lang="HU"><a href="http://cadmus.eui.eu/bitstream/handle/1814/46799/Cover_Hungary_O.pdf?sequence=2&amp;isAllowed=y" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://cadmus.eui.eu/bitstream/handle/1814/46799/Cover_Hungary_O.pdf?sequence%3D2%26isAllowed%3Dy&amp;source=gmail&amp;ust=1539675601107000&amp;usg=AFQjCNGZTnG3oRX3lDQ_Yk06z8YDJ88IsA" style="color: rgb(5, 99, 193);"><span style="font-family: &quot;Helvetica Neue&quot;;">http://cadmus.eui.eu/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">bitstream/handle/1814/46799/</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">Cover_Hungary_O.pdf?sequence=</span><wbr><span style="font-family: &quot;Helvetica Neue&quot;;">2&amp;isAllowed=y</span></a></span></p>
+2018/10/15 09:50:14 Valid
+2018/10/15 09:50:14 Redirecting to /admin/block/edit/11
+2018/10/15 09:50:14 No render /admin/block/edit/11 -> redirect
+2018/10/15 09:50:14 Layout prepend running
+2018/10/15 09:50:14 template scope is admin
+2018/10/15 09:50:14 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/15 09:50:14 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/15 09:50:14 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/15 09:50:14 Adding css /vendor/morrisjs/morris.css
+2018/10/15 09:50:14 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/15 09:50:14 Adding css /assets/summernote/summernote.css
+2018/10/15 09:50:14 Adding css /assets/css/admin.css
+2018/10/15 09:50:14 Logged out user allowed
+2018/10/15 09:50:14 Anyone is allowed
+2018/10/15 09:50:14 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Loggedin user is allowed (admin users)
+2018/10/15 09:50:14 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:50:14 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:14 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:14 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/15 09:50:14 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:50:14 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/15 09:50:14 REGEXP FOUND: "^/admin/block/edit/(\d)+$" in path "/admin/block/edit/11"
+
+2018/10/15 09:50:14 Required role: block/edit, rolegroup: block, user role: block/*
+2018/10/15 09:50:14 Rendering form
+2018/10/15 09:50:14 Rendering fieldset
+2018/10/15 09:50:14 Rendering hidden
+2018/10/15 09:50:14 Rendering hidden
+2018/10/15 09:50:14 Rendering text
+2018/10/15 09:50:14 Rendering input group
+2018/10/15 09:50:14 Rendering text
+2018/10/15 09:50:14 Rendering input group
+2018/10/15 09:50:14 Rendering textarea
+2018/10/15 09:50:14 Rendering input group
+2018/10/15 09:50:14 Rendering fieldset
+2018/10/15 09:50:14 Rendering button
+2018/10/15 09:50:14 Rendering input group
+2018/10/15 09:50:14 Render layout admin
+2018/10/15 09:50:19 Changing language to en
+2018/10/15 09:50:19 Layout prepend running
+2018/10/15 09:50:19 Adding css /assets/css/main.css
+2018/10/15 09:50:19 SELECT * FROM media_type ORDER BY id
+2018/10/15 09:50:19 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 09:50:19 Anyone is allowed
+2018/10/15 09:50:19 Render layout frontend
+2018/10/15 09:50:20 Layout prepend running
+2018/10/15 09:50:20 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 09:50:20 Anyone is allowed
+2018/10/15 09:50:20 Render layout frontend
+2018/10/15 09:50:21 Layout prepend running
+2018/10/15 09:50:21 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 09:50:21 Anyone is allowed
+2018/10/15 09:50:21 Layout prepend running
+2018/10/15 09:50:21 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 09:50:21 Anyone is allowed
+2018/10/15 09:50:21 Layout prepend running
+2018/10/15 09:50:21 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 09:50:21 Anyone is allowed
+2018/10/15 09:50:21 Layout prepend running
+2018/10/15 09:50:21 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 09:50:21 Anyone is allowed
+2018/10/15 09:50:21 Render layout frontend
+2018/10/15 09:50:21 Render layout frontend

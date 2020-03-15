@@ -1,0 +1,9 @@
+2019/02/21 03:00:41 Setting default language to user
+2019/02/21 03:33:32 Setting default language to user
+2019/02/21 03:33:32 Layout prepend running
+2019/02/21 03:33:32 Adding css /assets/css/main.css
+2019/02/21 03:33:32 SELECT * FROM media_type ORDER BY id
+2019/02/21 03:33:32 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/02/21 03:33:32 Anyone is allowed
+2019/02/21 03:33:32 Render layout frontend

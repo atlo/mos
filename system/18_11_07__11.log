@@ -1,0 +1,61 @@
+2018/11/07 11:00:08 Layout prepend running
+2018/11/07 11:00:08 Adding css /assets/css/main.css
+2018/11/07 11:00:08 SELECT * FROM media_type ORDER BY id
+2018/11/07 11:00:08 REGEXP FOUND: "^/?" in path "/"
+
+2018/11/07 11:00:08 Anyone is allowed
+2018/11/07 11:00:08 Render layout frontend
+2018/11/07 11:00:08 Layout prepend running
+2018/11/07 11:00:08 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/11/07 11:00:08 Anyone is allowed
+2018/11/07 11:00:08 Render layout frontend
+2018/11/07 11:00:08 Layout prepend running
+2018/11/07 11:00:08 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/11/07 11:00:08 Anyone is allowed
+2018/11/07 11:00:08 Render layout frontend
+2018/11/07 11:00:08 Layout prepend running
+2018/11/07 11:00:08 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/11/07 11:00:08 Anyone is allowed
+2018/11/07 11:00:08 Render layout frontend
+2018/11/07 11:00:08 Layout prepend running
+2018/11/07 11:00:08 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/11/07 11:00:08 Anyone is allowed
+2018/11/07 11:00:08 Render layout frontend
+2018/11/07 11:00:08 Layout prepend running
+2018/11/07 11:00:08 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/11/07 11:00:08 Anyone is allowed
+2018/11/07 11:00:08 Render layout frontend
+2018/11/07 11:01:25 Setting default language to user
+2018/11/07 11:06:25 Setting default language to user
+2018/11/07 11:07:07 Setting default language to user
+2018/11/07 11:12:07 Setting default language to user
+2018/11/07 11:17:07 Setting default language to user
+2018/11/07 11:22:02 Setting default language to user
+2018/11/07 11:22:02 Layout prepend running
+2018/11/07 11:22:02 Adding css /assets/css/main.css
+2018/11/07 11:22:02 SELECT * FROM media_type ORDER BY id
+2018/11/07 11:22:02 REGEXP FOUND: "^/?" in path "/"
+
+2018/11/07 11:22:02 Anyone is allowed
+2018/11/07 11:22:02 Render layout frontend
+2018/11/07 11:22:07 Setting default language to user
+2018/11/07 11:27:07 Setting default language to user
+2018/11/07 11:32:07 Setting default language to user
+2018/11/07 11:37:07 Setting default language to user
+2018/11/07 11:42:07 Setting default language to user
+2018/11/07 11:44:35 Setting default language to user
+2018/11/07 11:49:35 Setting default language to user
+2018/11/07 11:54:35 Setting default language to user
+2018/11/07 11:55:13 Layout prepend running
+2018/11/07 11:55:13 Adding css /assets/css/main.css
+2018/11/07 11:55:13 SELECT * FROM media_type ORDER BY id
+2018/11/07 11:55:13 REGEXP FOUND: "^/?" in path "/"
+
+2018/11/07 11:55:13 Anyone is allowed
+2018/11/07 11:55:13 Render layout frontend
+2018/11/07 11:58:34 Setting default language to user

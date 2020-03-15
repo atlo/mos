@@ -1,0 +1,25 @@
+/* stylelint-disable color-no-hex, color-named */
+
+$white: #fff;
+$gray: #303030;
+$gray-2: #999;
+$gray-3: #282828;
+$black: #000;
+$red: #ff5155;
+$blue: #009dc5;
+
+$colors: (
+  news: #ff5155,
+  tv: #7ca929,
+  online: #009dc5,
+  radio: #ffc455,
+  owner: #bfbfbf,
+);
+
+@each $name, $color in $colors {
+
+  .color--#{$name} {
+    color: $color;
+  }
+
+}

@@ -1,0 +1,45 @@
+2019/04/23 08:15:42 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[instagram: linkedin: youtube: spotify: facebook:] Language:{Allowed:[hu en]}}
+2019/04/23 08:15:42 Initializing translator
+2019/04/23 08:15:42 Translator initialization done
+2019/04/23 08:15:42 Ininialize connection
+2019/04/23 08:18:11 Setting default language to user
+2019/04/23 08:18:11 Layout prepend running
+2019/04/23 08:18:11 Adding css /assets/css/main.css
+2019/04/23 08:18:11 SELECT * FROM media_type ORDER BY id
+2019/04/23 08:18:11 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/23 08:18:11 Anyone is allowed
+2019/04/23 08:18:11 Render layout frontend
+2019/04/23 08:18:11 Layout prepend running
+2019/04/23 08:18:11 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2019/04/23 08:18:11 Anyone is allowed
+2019/04/23 08:18:11 Layout prepend running
+2019/04/23 08:18:11 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/04/23 08:18:11 Anyone is allowed
+2019/04/23 08:18:12 Render layout frontend
+2019/04/23 08:18:12 Layout prepend running
+2019/04/23 08:18:12 Layout prepend running
+2019/04/23 08:18:12 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/04/23 08:18:12 Anyone is allowed
+2019/04/23 08:18:12 Layout prepend running
+2019/04/23 08:18:12 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/04/23 08:18:12 Anyone is allowed
+2019/04/23 08:18:12 Render layout frontend
+2019/04/23 08:29:24 Setting default language to user
+2019/04/23 08:29:24 Layout prepend running
+2019/04/23 08:29:24 Adding css /assets/css/main.css
+2019/04/23 08:29:24 SELECT * FROM media_type ORDER BY id
+2019/04/23 08:29:24 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/23 08:29:24 Anyone is allowed
+2019/04/23 08:29:24 Render layout frontend
+2019/04/23 08:34:24 Setting default language to user
+2019/04/23 08:39:23 Setting default language to user
+2019/04/23 08:44:23 Setting default language to user
+2019/04/23 08:49:23 Setting default language to user
+2019/04/23 08:54:23 Setting default language to user
+2019/04/23 08:59:23 Setting default language to user

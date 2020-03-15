@@ -1,0 +1,21 @@
+$padding-small: 10px;
+$padding-medium: 20px;
+$padding-large: 40px;
+
+.pillarbox {
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  @media (min-width: $viewport-small) {
+    padding: 0 $padding-small;
+  }
+
+  @media (min-width: $viewport-medium) {
+    padding: 0 $padding-medium;
+  }
+
+  @media (min-width: $viewport-large) {
+    max-width: 1280px;
+    padding: 0 $padding-large;
+  }
+}

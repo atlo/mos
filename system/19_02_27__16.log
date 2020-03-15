@@ -1,0 +1,50 @@
+2019/02/27 16:00:19 Setting default language to user
+2019/02/27 16:05:19 Setting default language to user
+2019/02/27 16:10:19 Setting default language to user
+2019/02/27 16:15:19 Setting default language to user
+2019/02/27 16:20:19 Setting default language to user
+2019/02/27 16:25:19 Setting default language to user
+2019/02/27 16:30:19 Setting default language to user
+2019/02/27 16:35:17 Setting default language to user
+2019/02/27 16:38:01 Setting default language to user
+2019/02/27 16:38:01 Layout prepend running
+2019/02/27 16:38:01 Adding css /assets/css/main.css
+2019/02/27 16:38:01 SELECT * FROM media_type ORDER BY id
+2019/02/27 16:38:01 REGEXP FOUND: "^/?" in path "/"
+
+2019/02/27 16:38:01 Anyone is allowed
+2019/02/27 16:38:01 Render layout frontend
+2019/02/27 16:38:02 Layout prepend running
+2019/02/27 16:38:02 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/02/27 16:38:02 Anyone is allowed
+2019/02/27 16:38:02 Render layout frontend
+2019/02/27 16:38:02 Layout prepend running
+2019/02/27 16:38:02 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/02/27 16:38:02 Anyone is allowed
+2019/02/27 16:38:02 Render layout frontend
+2019/02/27 16:38:02 Layout prepend running
+2019/02/27 16:38:02 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/02/27 16:38:02 Anyone is allowed
+2019/02/27 16:38:02 Render layout frontend
+2019/02/27 16:38:02 Layout prepend running
+2019/02/27 16:38:02 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2019/02/27 16:38:02 Anyone is allowed
+2019/02/27 16:38:02 Render layout frontend
+2019/02/27 16:38:02 Layout prepend running
+2019/02/27 16:38:02 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2019/02/27 16:38:02 Anyone is allowed
+2019/02/27 16:38:02 Render layout frontend
+2019/02/27 16:38:03 Layout prepend running
+2019/02/27 16:38:03 Adding css /assets/css/main.css
+2019/02/27 16:38:03 SELECT * FROM media_type ORDER BY id
+2019/02/27 16:38:03 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/02/27 16:38:03 Anyone is allowed
+2019/02/27 16:38:03 Render layout frontend
+2019/02/27 16:40:17 Setting default language to user
+2019/02/27 16:58:59 Setting default language to user

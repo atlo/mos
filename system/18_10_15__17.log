@@ -1,0 +1,122 @@
+2018/10/15 17:02:29 Changing language to en
+2018/10/15 17:02:29 Layout prepend running
+2018/10/15 17:02:29 Adding css /assets/css/main.css
+2018/10/15 17:02:29 SELECT * FROM media_type ORDER BY id
+2018/10/15 17:02:29 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 17:02:29 Anyone is allowed
+2018/10/15 17:02:29 Render layout frontend
+2018/10/15 17:02:29 Layout prepend running
+2018/10/15 17:02:29 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 17:02:29 Anyone is allowed
+2018/10/15 17:02:29 Layout prepend running
+2018/10/15 17:02:29 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 17:02:29 Anyone is allowed
+2018/10/15 17:02:29 Render layout frontend
+2018/10/15 17:02:29 Layout prepend running
+2018/10/15 17:02:29 Layout prepend running
+2018/10/15 17:02:29 Layout prepend running
+2018/10/15 17:02:29 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 17:02:29 Anyone is allowed
+2018/10/15 17:02:29 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 17:02:29 Anyone is allowed
+2018/10/15 17:02:29 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 17:02:29 Anyone is allowed
+2018/10/15 17:02:29 Render layout frontend
+2018/10/15 17:14:51 Changing language to hu
+2018/10/15 17:14:51 Layout prepend running
+2018/10/15 17:14:51 Adding css /assets/css/main.css
+2018/10/15 17:14:51 SELECT * FROM media_type ORDER BY id
+2018/10/15 17:14:51 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 17:14:51 Anyone is allowed
+2018/10/15 17:14:51 Render layout frontend
+2018/10/15 17:14:51 Layout prepend running
+2018/10/15 17:14:51 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 17:14:51 Anyone is allowed
+2018/10/15 17:14:51 Render layout frontend
+2018/10/15 17:14:51 Layout prepend running
+2018/10/15 17:14:51 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 17:14:51 Anyone is allowed
+2018/10/15 17:14:51 Layout prepend running
+2018/10/15 17:14:51 Layout prepend running
+2018/10/15 17:14:51 Layout prepend running
+2018/10/15 17:14:51 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 17:14:51 Anyone is allowed
+2018/10/15 17:14:51 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 17:14:51 Anyone is allowed
+2018/10/15 17:14:51 Render layout frontend
+2018/10/15 17:14:51 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 17:14:51 Anyone is allowed
+2018/10/15 17:14:51 Render layout frontend
+2018/10/15 17:19:26 Changing language to en
+2018/10/15 17:19:26 Layout prepend running
+2018/10/15 17:19:26 Adding css /assets/css/main.css
+2018/10/15 17:19:26 SELECT * FROM media_type ORDER BY id
+2018/10/15 17:19:26 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 17:19:26 Anyone is allowed
+2018/10/15 17:19:26 Render layout frontend
+2018/10/15 17:19:26 Layout prepend running
+2018/10/15 17:19:26 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 17:19:26 Anyone is allowed
+2018/10/15 17:19:26 Render layout frontend
+2018/10/15 17:19:26 Layout prepend running
+2018/10/15 17:19:26 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 17:19:26 Anyone is allowed
+2018/10/15 17:19:26 Layout prepend running
+2018/10/15 17:19:26 Layout prepend running
+2018/10/15 17:19:26 Layout prepend running
+2018/10/15 17:19:26 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 17:19:26 Anyone is allowed
+2018/10/15 17:19:26 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 17:19:26 Anyone is allowed
+2018/10/15 17:19:26 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 17:19:26 Anyone is allowed
+2018/10/15 17:19:26 Render layout frontend
+2018/10/15 17:35:37 Changing language to en
+2018/10/15 17:35:37 Layout prepend running
+2018/10/15 17:35:37 Adding css /assets/css/main.css
+2018/10/15 17:35:37 SELECT * FROM media_type ORDER BY id
+2018/10/15 17:35:37 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/15 17:35:37 Anyone is allowed
+2018/10/15 17:35:37 Render layout frontend
+2018/10/15 17:35:37 Layout prepend running
+2018/10/15 17:35:37 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/15 17:35:37 Anyone is allowed
+2018/10/15 17:35:37 Render layout frontend
+2018/10/15 17:35:37 Layout prepend running
+2018/10/15 17:35:37 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/15 17:35:37 Anyone is allowed
+2018/10/15 17:35:37 Layout prepend running
+2018/10/15 17:35:37 Layout prepend running
+2018/10/15 17:35:37 Layout prepend running
+2018/10/15 17:35:37 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/15 17:35:37 Anyone is allowed
+2018/10/15 17:35:37 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/15 17:35:37 Anyone is allowed
+2018/10/15 17:35:37 Render layout frontend
+2018/10/15 17:35:37 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/15 17:35:37 Anyone is allowed
+2018/10/15 17:35:37 Render layout frontend

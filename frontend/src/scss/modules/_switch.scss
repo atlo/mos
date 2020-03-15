@@ -1,0 +1,61 @@
+.switch {
+  margin-bottom: $base;
+  color: $gray-2;
+  cursor: pointer;
+  user-select: none;
+
+  input[type='radio'] {
+    display: none;
+
+    &:checked + label {
+
+      .switch--red {
+        color: $red;
+      }
+      
+      .switch--blue {
+        color: $blue;
+      }
+      
+      &::after {
+        background: $white;
+        transform: translateX(25px);
+      }
+    }
+  }
+
+  label {
+    position: relative;
+    display: flex;
+    font-size: 12px;
+    cursor: pointer;
+    align-items: center;
+
+    span {
+      white-space: pre;
+    }
+
+    &::before {
+      content: '';
+      display: block;
+      width: 55px;
+      height: 30px;
+      margin-right: $base / 2;
+      border: 4px solid $gray-2;
+      border-radius: 15px;
+      box-sizing: border-box;
+    }
+
+    &::after {
+      position: absolute;
+      content: '';
+      display: block;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: $gray-2;
+      transform: translateX(0);
+      transition: background-color .3s ease, transform .3s ease;
+    }
+  }
+}

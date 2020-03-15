@@ -1,0 +1,17 @@
+2018/10/03 11:47:52 Setting default language to user
+2018/10/03 11:47:52 Layout prepend running
+2018/10/03 11:47:52 template scope is admin
+2018/10/03 11:47:52 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/03 11:47:52 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/03 11:47:52 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/03 11:47:52 Adding css /vendor/morrisjs/morris.css
+2018/10/03 11:47:52 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/03 11:47:52 Adding css /assets/summernote/summernote.css
+2018/10/03 11:47:52 Adding css /assets/css/admin.css
+2018/10/03 11:47:52 Logged out user allowed
+2018/10/03 11:47:52 Anyone is allowed
+2018/10/03 11:47:52 Loggedin user is allowed (admin users)
+2018/10/03 11:47:52 REGEXP FOUND: "/admin/?$" in path "/admin"
+
+2018/10/03 11:47:52 Logged out user allowed
+2018/10/03 11:47:52 Render layout admin

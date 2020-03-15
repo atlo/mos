@@ -1,0 +1,13 @@
+2019/04/25 09:52:12 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[facebook: instagram: linkedin: youtube: spotify:] Language:{Allowed:[hu en]}}
+2019/04/25 09:52:12 Initializing translator
+2019/04/25 09:52:12 Translator initialization done
+2019/04/25 09:52:12 Ininialize connection
+2019/04/25 09:52:55 Setting default language to user
+2019/04/25 09:52:55 Layout prepend running
+2019/04/25 09:52:55 Adding css /assets/css/main.css
+2019/04/25 09:52:55 SELECT * FROM media_type ORDER BY id
+2019/04/25 09:52:55 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/25 09:52:55 Anyone is allowed
+2019/04/25 09:52:55 Render layout frontend
+2019/04/25 09:57:55 Setting default language to user

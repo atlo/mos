@@ -1,0 +1,44 @@
+2019/03/13 06:01:25 Setting default language to user
+2019/03/13 06:06:25 Setting default language to user
+2019/03/13 06:11:25 Setting default language to user
+2019/03/13 06:12:50 Setting default language to user
+2019/03/13 06:12:50 Layout prepend running
+2019/03/13 06:12:50 Adding css /assets/css/main.css
+2019/03/13 06:12:50 SELECT * FROM media_type ORDER BY id
+2019/03/13 06:12:50 REGEXP FOUND: "^/?" in path "/robots.txt"
+
+2019/03/13 06:12:50 Anyone is allowed
+2019/03/13 06:12:50 Render layout frontend
+2019/03/13 06:12:51 Setting default language to user
+2019/03/13 06:12:51 Layout prepend running
+2019/03/13 06:12:51 Adding css /assets/css/main.css
+2019/03/13 06:12:51 SELECT * FROM media_type ORDER BY id
+2019/03/13 06:12:51 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/03/13 06:12:51 Anyone is allowed
+2019/03/13 06:12:51 Render layout frontend
+2019/03/13 06:16:25 Setting default language to user
+2019/03/13 06:21:25 Setting default language to user
+2019/03/13 06:23:50 Setting default language to user
+2019/03/13 06:23:50 Layout prepend running
+2019/03/13 06:23:50 Adding css /assets/css/main.css
+2019/03/13 06:23:50 SELECT * FROM media_type ORDER BY id
+2019/03/13 06:23:50 REGEXP FOUND: "^/?" in path "/"
+
+2019/03/13 06:23:50 Anyone is allowed
+2019/03/13 06:23:50 Render layout frontend
+2019/03/13 06:23:57 Setting default language to user
+2019/03/13 06:23:57 Layout prepend running
+2019/03/13 06:23:57 Adding css /assets/css/main.css
+2019/03/13 06:23:57 SELECT * FROM media_type ORDER BY id
+2019/03/13 06:23:57 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/03/13 06:23:57 Anyone is allowed
+2019/03/13 06:23:57 Render layout frontend
+2019/03/13 06:26:25 Setting default language to user
+2019/03/13 06:31:25 Setting default language to user
+2019/03/13 06:36:25 Setting default language to user
+2019/03/13 06:41:25 Setting default language to user
+2019/03/13 06:46:25 Setting default language to user
+2019/03/13 06:51:25 Setting default language to user
+2019/03/13 06:56:25 Setting default language to user

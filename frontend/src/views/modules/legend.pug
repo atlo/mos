@@ -1,0 +1,36 @@
+.legend
+    .legend__row
+        .legend__col
+            .text Média
+        .legend__col
+            .text Hierarchia
+    .legend__row.legend__table
+        .legend__col
+            .legend__item.color--news
+                span ujsag
+            .legend__item.color--tv
+                span televizio
+            .legend__item.color--online
+                span online
+            .legend__item.color--radio
+                span radio
+        .legend__col
+            .legend__item.legend__item--interest.color--interest
+                span érdekeltség
+            .legend__item.color--owner
+                span tulajdonos
+            .legend__item.legend__item--income.color--income
+                span üzemeltető
+    .legend__row.legend__table
+        .legend__profit-wrapper
+            .legend__profit
+                .legend__profit-title Üzemeltető skálázása:
+                +radio('Nettó árbevétel', 'net', 'profit', true)
+                +radio('Adózott eredmény', 'tax', 'profit', false)
+                +radio('Üzemi eredmény', 'operational', 'profit', false)
+            .legend__scale
+                svg(width="40" height="110")
+                    defs
+                        blend(from="#c1" to="#c2" steps="8")
+                    circle(id="c1" r="9" cx="29" cy="12" stroke="#999999" stroke-width="1" fill="none")
+                    circle(id="c2" r="18" cx="20" cy="88" stroke="#999999" stroke-width="1" fill="none")

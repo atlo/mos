@@ -1,0 +1,12 @@
+2019/01/15 14:05:20 Setting default language to user
+2019/01/15 14:05:20 Layout prepend running
+2019/01/15 14:05:20 Adding css /assets/css/main.css
+2019/01/15 14:05:20 SELECT * FROM media_type ORDER BY id
+2019/01/15 14:05:20 REGEXP FOUND: "^/?" in path "/"
+
+2019/01/15 14:05:20 Anyone is allowed
+2019/01/15 14:05:20 Render layout frontend
+2019/01/15 14:13:06 Setting default language to user
+2019/01/15 14:28:06 Setting default language to user
+2019/01/15 14:43:06 Setting default language to user
+2019/01/15 14:58:06 Setting default language to user

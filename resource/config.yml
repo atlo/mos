@@ -1,0 +1,58 @@
+listenport: 9004
+viewdir: view
+chiefadmin:
+  0:
+    email:  istvan.dombi@agl.group
+    password: mos180628
+    superdmin: true
+  1:
+    email: lo@branditorial.hu
+    password: mos180628
+    superdmin: true
+  2:
+    email: atom@agl.group
+    password: mos180628
+    superdmin: true
+environment: local
+db:
+  environment:
+    local:
+      host: localhost
+      name: mos
+      username: mos
+      password: "golangforever"
+  maxidleconns: 100
+  maxopenconns: 100
+  maxconnlifetimeminutes: 180
+server:
+  readtimeoutseconds: 20
+  writetimeoutseconds: 20
+  maxrps: 5
+  banminutes: 10
+  banactive: false
+  sessionkey: "mediaownership"
+mode:
+  live: false
+  debug: true
+  rebuild_structure: false
+  rebuild_data: false
+cache:
+  enabled: true
+  dir: view/cache
+adminrouter: admin
+og:
+  url: "http://mediaownershiptool.ceu.edu/"
+  type: website
+  title: "Media Ownership Tool"
+  description: "Media Ownership"
+  image: "/assets/images/MOS_og.jpg"
+configvalues:
+  facebook: ""
+  instagram: ""
+  linkedin: ""
+  youtube: ""
+  spotify: ""
+language:
+  allowed:
+    - hu
+    - en

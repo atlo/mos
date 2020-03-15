@@ -1,0 +1,510 @@
+2018/10/05 16:22:37 Layout prepend running
+2018/10/05 16:22:37 template scope is admin
+2018/10/05 16:22:37 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:22:37 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:22:37 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:22:37 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:22:37 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:22:37 Adding css /assets/summernote/summernote.css
+2018/10/05 16:22:37 Adding css /assets/css/admin.css
+2018/10/05 16:22:37 Logged out user allowed
+2018/10/05 16:22:37 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:22:37 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:22:37 Anyone is allowed
+2018/10/05 16:22:37 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:22:37 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:22:37 Loggedin user is allowed (admin users)
+2018/10/05 16:22:37 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:22:37 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:22:37 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:22:37 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:22:37 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:22:37 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:37 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:22:37 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:22:37 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:37 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:37 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:37 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:37 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:37 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:37 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:37 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:37 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:37 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:37 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:22:37 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:37 SELECT * FROM operator_interest ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:22:37 operator_interest as m
+2018/10/05 16:22:37 SELECT COUNT(m.`id`) FROM operator_interest as m
+2018/10/05 16:22:37 Rendering form
+2018/10/05 16:22:37 Rendering fieldset
+2018/10/05 16:22:37 Rendering text
+2018/10/05 16:22:37 Rendering input group
+2018/10/05 16:22:37 Rendering text
+2018/10/05 16:22:37 Rendering input group
+2018/10/05 16:22:37 Rendering text
+2018/10/05 16:22:37 Rendering input group
+2018/10/05 16:22:37 Rendering fieldset
+2018/10/05 16:22:37 Rendering button
+2018/10/05 16:22:37 Rendering input group
+2018/10/05 16:22:37 Render layout admin
+2018/10/05 16:22:47 Layout prepend running
+2018/10/05 16:22:47 template scope is admin
+2018/10/05 16:22:47 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:22:47 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:22:47 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:22:47 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:22:47 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:22:47 Adding css /assets/summernote/summernote.css
+2018/10/05 16:22:47 Adding css /assets/css/admin.css
+2018/10/05 16:22:47 Logged out user allowed
+2018/10/05 16:22:47 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:22:47 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:22:47 Anyone is allowed
+2018/10/05 16:22:47 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:22:47 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:22:47 Loggedin user is allowed (admin users)
+2018/10/05 16:22:47 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:22:47 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:22:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:22:47 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:22:47 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:22:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:22:47 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:22:47 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:22:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:47 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:47 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:22:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:47 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:47 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:22:47 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:22:47 SELECT * FROM operator_interest WHERE interest_id = "46" ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:22:47 operator_interest as m
+2018/10/05 16:22:47 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE interest_id = "46"
+2018/10/05 16:22:47 Rendering form
+2018/10/05 16:22:47 Rendering fieldset
+2018/10/05 16:22:47 Rendering text
+2018/10/05 16:22:47 Rendering input group
+2018/10/05 16:22:47 Rendering text
+2018/10/05 16:22:47 Rendering input group
+2018/10/05 16:22:47 Rendering text
+2018/10/05 16:22:47 Rendering input group
+2018/10/05 16:22:47 Rendering fieldset
+2018/10/05 16:22:47 Rendering button
+2018/10/05 16:22:47 Rendering input group
+2018/10/05 16:22:47 Render layout admin
+2018/10/05 16:23:03 Layout prepend running
+2018/10/05 16:23:03 template scope is admin
+2018/10/05 16:23:03 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:23:03 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:23:03 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:23:03 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:23:03 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:23:03 Adding css /assets/summernote/summernote.css
+2018/10/05 16:23:03 Adding css /assets/css/admin.css
+2018/10/05 16:23:03 Logged out user allowed
+2018/10/05 16:23:03 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:23:03 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:23:03 Anyone is allowed
+2018/10/05 16:23:03 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:23:03 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:23:03 Loggedin user is allowed (admin users)
+2018/10/05 16:23:03 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:03 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:03 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:03 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:03 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:03 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:03 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:03 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:03 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:03 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:03 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:03 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:03 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:03 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:03 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:03 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:03 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:03 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:03 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:23:03 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:03 SELECT * FROM operator_interest WHERE interest_id = "46" ORDER BY id DESC LIMIT 20,20
+2018/10/05 16:23:03 operator_interest as m
+2018/10/05 16:23:03 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE interest_id = "46"
+2018/10/05 16:23:03 Rendering form
+2018/10/05 16:23:03 Rendering fieldset
+2018/10/05 16:23:03 Rendering text
+2018/10/05 16:23:03 Rendering input group
+2018/10/05 16:23:03 Rendering text
+2018/10/05 16:23:03 Rendering input group
+2018/10/05 16:23:03 Rendering text
+2018/10/05 16:23:03 Rendering input group
+2018/10/05 16:23:03 Rendering fieldset
+2018/10/05 16:23:03 Rendering button
+2018/10/05 16:23:03 Rendering input group
+2018/10/05 16:23:03 Render layout admin
+2018/10/05 16:23:14 Layout prepend running
+2018/10/05 16:23:14 template scope is admin
+2018/10/05 16:23:14 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:23:14 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:23:14 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:23:14 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:23:14 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:23:14 Adding css /assets/summernote/summernote.css
+2018/10/05 16:23:14 Adding css /assets/css/admin.css
+2018/10/05 16:23:14 Logged out user allowed
+2018/10/05 16:23:14 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:23:14 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:23:14 Anyone is allowed
+2018/10/05 16:23:14 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:23:14 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:23:14 Loggedin user is allowed (admin users)
+2018/10/05 16:23:14 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:14 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:14 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:14 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:14 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:14 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:14 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:14 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:14 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:14 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:23:14 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:14 SELECT * FROM operator_interest WHERE interest_id = "46" ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:23:14 operator_interest as m
+2018/10/05 16:23:14 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE interest_id = "46"
+2018/10/05 16:23:14 Rendering form
+2018/10/05 16:23:14 Rendering fieldset
+2018/10/05 16:23:14 Rendering text
+2018/10/05 16:23:14 Rendering input group
+2018/10/05 16:23:14 Rendering text
+2018/10/05 16:23:14 Rendering input group
+2018/10/05 16:23:14 Rendering text
+2018/10/05 16:23:14 Rendering input group
+2018/10/05 16:23:14 Rendering fieldset
+2018/10/05 16:23:14 Rendering button
+2018/10/05 16:23:14 Rendering input group
+2018/10/05 16:23:14 Render layout admin
+2018/10/05 16:23:41 Layout prepend running
+2018/10/05 16:23:41 template scope is admin
+2018/10/05 16:23:41 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:23:41 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:23:41 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:23:41 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:23:41 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:23:41 Adding css /assets/summernote/summernote.css
+2018/10/05 16:23:41 Adding css /assets/css/admin.css
+2018/10/05 16:23:41 Logged out user allowed
+2018/10/05 16:23:41 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:23:41 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:23:41 Anyone is allowed
+2018/10/05 16:23:41 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:23:41 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:23:41 Loggedin user is allowed (admin users)
+2018/10/05 16:23:41 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:41 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:41 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:41 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:41 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:41 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:41 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:41 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:41 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:41 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:41 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:41 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:41 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:41 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:41 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:41 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:41 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:41 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:41 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:23:41 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:41 SELECT * FROM operator_interest WHERE operator_id = "100200" ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:23:41 operator_interest as m
+2018/10/05 16:23:41 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE operator_id = "100200"
+2018/10/05 16:23:41 Rendering form
+2018/10/05 16:23:41 Rendering fieldset
+2018/10/05 16:23:41 Rendering text
+2018/10/05 16:23:41 Rendering input group
+2018/10/05 16:23:41 Rendering text
+2018/10/05 16:23:41 Rendering input group
+2018/10/05 16:23:41 Rendering text
+2018/10/05 16:23:41 Rendering input group
+2018/10/05 16:23:41 Rendering fieldset
+2018/10/05 16:23:41 Rendering button
+2018/10/05 16:23:41 Rendering input group
+2018/10/05 16:23:41 Render layout admin
+2018/10/05 16:23:50 Layout prepend running
+2018/10/05 16:23:50 template scope is admin
+2018/10/05 16:23:50 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:23:50 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:23:50 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:23:50 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:23:50 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:23:50 Adding css /assets/summernote/summernote.css
+2018/10/05 16:23:50 Adding css /assets/css/admin.css
+2018/10/05 16:23:50 Logged out user allowed
+2018/10/05 16:23:50 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:23:50 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:23:50 Anyone is allowed
+2018/10/05 16:23:50 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:23:50 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:23:50 Loggedin user is allowed (admin users)
+2018/10/05 16:23:50 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:50 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:23:50 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:50 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:50 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:23:50 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:23:50 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:50 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:23:50 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:50 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:50 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:50 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:50 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:50 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:50 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:23:50 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:50 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:50 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:50 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:23:50 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:23:50 SELECT * FROM operator_interest WHERE operator_id = "100200" ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:23:50 operator_interest as m
+2018/10/05 16:23:50 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE operator_id = "100200"
+2018/10/05 16:23:50 Rendering form
+2018/10/05 16:23:50 Rendering fieldset
+2018/10/05 16:23:50 Rendering text
+2018/10/05 16:23:50 Rendering input group
+2018/10/05 16:23:50 Rendering text
+2018/10/05 16:23:50 Rendering input group
+2018/10/05 16:23:50 Rendering text
+2018/10/05 16:23:50 Rendering input group
+2018/10/05 16:23:50 Rendering fieldset
+2018/10/05 16:23:50 Rendering button
+2018/10/05 16:23:50 Rendering input group
+2018/10/05 16:23:50 Render layout admin
+2018/10/05 16:26:18 Layout prepend running
+2018/10/05 16:26:18 template scope is admin
+2018/10/05 16:26:18 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:26:18 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:26:18 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:26:18 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:26:18 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:26:18 Adding css /assets/summernote/summernote.css
+2018/10/05 16:26:18 Adding css /assets/css/admin.css
+2018/10/05 16:26:18 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:26:18 Logged out user allowed
+2018/10/05 16:26:18 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:26:18 Anyone is allowed
+2018/10/05 16:26:18 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:26:18 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:26:18 Loggedin user is allowed (admin users)
+2018/10/05 16:26:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:26:18 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:26:18 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:26:18 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:26:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:26:18 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:26:18 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:26:18 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:26:18 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:26:18 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:26:18 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:26:18 SELECT * FROM operator_interest WHERE interest_id = "4" ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:26:18 operator_interest as m
+2018/10/05 16:26:18 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE interest_id = "4"
+2018/10/05 16:26:18 Rendering form
+2018/10/05 16:26:18 Rendering fieldset
+2018/10/05 16:26:18 Rendering text
+2018/10/05 16:26:18 Rendering input group
+2018/10/05 16:26:18 Rendering text
+2018/10/05 16:26:18 Rendering input group
+2018/10/05 16:26:18 Rendering text
+2018/10/05 16:26:18 Rendering input group
+2018/10/05 16:26:18 Rendering fieldset
+2018/10/05 16:26:18 Rendering button
+2018/10/05 16:26:18 Rendering input group
+2018/10/05 16:26:18 Render layout admin
+2018/10/05 16:28:15 Layout prepend running
+2018/10/05 16:28:15 template scope is admin
+2018/10/05 16:28:15 Adding css /vendor/bootstrap/css/bootstrap.min.css
+2018/10/05 16:28:15 Adding css /vendor/metisMenu/metisMenu.min.css
+2018/10/05 16:28:15 Adding css /assets/dist/css/sb-admin-2.css
+2018/10/05 16:28:15 Adding css /vendor/morrisjs/morris.css
+2018/10/05 16:28:15 Adding css /vendor/font-awesome/css/font-awesome.min.css
+2018/10/05 16:28:15 Adding css /assets/summernote/summernote.css
+2018/10/05 16:28:15 Adding css /assets/css/admin.css
+2018/10/05 16:28:15 Required role: user/list, rolegroup: user, user role: user/*
+2018/10/05 16:28:15 Required role: user/new, rolegroup: user, user role: user/*
+2018/10/05 16:28:15 Logged out user allowed
+2018/10/05 16:28:15 Anyone is allowed
+2018/10/05 16:28:15 Required role: block/new, rolegroup: block, user role: block/*
+2018/10/05 16:28:15 Required role: block/list, rolegroup: block, user role: block/*
+2018/10/05 16:28:15 Loggedin user is allowed (admin users)
+2018/10/05 16:28:15 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:28:15 Required role: config/index, rolegroup: config, user role: config/*
+2018/10/05 16:28:15 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:28:15 Required role: mediatype/new, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:28:15 Required role: mediatype/list, rolegroup: mediatype, user role: mediatype/*
+2018/10/05 16:28:15 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/new, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: media/list, rolegroup: media, user role: media/*
+2018/10/05 16:28:15 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:28:15 Required role: owner/list, rolegroup: owner, user role: owner/*
+2018/10/05 16:28:15 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:28:15 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:28:15 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:28:15 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:28:15 Required role: operator/new, rolegroup: operator, user role: operator/*
+2018/10/05 16:28:15 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:28:15 Required role: operator/list, rolegroup: operator, user role: operator/*
+2018/10/05 16:28:15 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:28:15 Required role: interest/new, rolegroup: interest, user role: interest/*
+2018/10/05 16:28:15 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:28:15 REGEXP FOUND: "^/admin/operatorinterest/?(index)?$" in path "/admin/operatorinterest/index"
+
+2018/10/05 16:28:15 Required role: interest/list, rolegroup: interest, user role: interest/*
+2018/10/05 16:28:15 SELECT * FROM operator_interest WHERE operator_id = "99855" AND interest_id = "4" ORDER BY id DESC LIMIT 0,20
+2018/10/05 16:28:15 operator_interest as m
+2018/10/05 16:28:15 SELECT COUNT(m.`id`) FROM operator_interest as m WHERE operator_id = "99855" AND interest_id = "4"
+2018/10/05 16:28:15 Rendering form
+2018/10/05 16:28:15 Rendering fieldset
+2018/10/05 16:28:15 Rendering text
+2018/10/05 16:28:15 Rendering input group
+2018/10/05 16:28:15 Rendering text
+2018/10/05 16:28:15 Rendering input group
+2018/10/05 16:28:15 Rendering text
+2018/10/05 16:28:15 Rendering input group
+2018/10/05 16:28:15 Rendering fieldset
+2018/10/05 16:28:15 Rendering button
+2018/10/05 16:28:15 Rendering input group
+2018/10/05 16:28:15 Render layout admin
+2018/10/05 16:28:59 Layout prepend running
+2018/10/05 16:28:59 Adding css /assets/css/main.css
+2018/10/05 16:28:59 SELECT * FROM media_type ORDER BY id
+2018/10/05 16:28:59 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/05 16:28:59 Anyone is allowed
+2018/10/05 16:28:59 Render layout frontend
+2018/10/05 16:29:01 Layout prepend running
+2018/10/05 16:29:01 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/05 16:29:01 Anyone is allowed
+2018/10/05 16:29:01 Render layout frontend
+2018/10/05 16:29:01 Layout prepend running
+2018/10/05 16:29:01 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/05 16:29:01 Anyone is allowed
+2018/10/05 16:29:01 Layout prepend running
+2018/10/05 16:29:01 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/05 16:29:01 Anyone is allowed
+2018/10/05 16:29:01 Layout prepend running
+2018/10/05 16:29:01 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/05 16:29:01 Anyone is allowed
+2018/10/05 16:29:01 Layout prepend running
+2018/10/05 16:29:01 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/05 16:29:01 Anyone is allowed
+2018/10/05 16:29:01 Render layout frontend
+2018/10/05 16:29:01 Render layout frontend

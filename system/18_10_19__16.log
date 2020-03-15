@@ -1,0 +1,89 @@
+2018/10/19 16:04:03 Layout prepend running
+2018/10/19 16:04:03 Adding css /assets/css/main.css
+2018/10/19 16:04:03 SELECT * FROM media_type ORDER BY id
+2018/10/19 16:04:03 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/19 16:04:03 Anyone is allowed
+2018/10/19 16:04:03 Render layout frontend
+2018/10/19 16:04:04 Layout prepend running
+2018/10/19 16:04:04 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/19 16:04:04 Anyone is allowed
+2018/10/19 16:04:04 Render layout frontend
+2018/10/19 16:04:04 Layout prepend running
+2018/10/19 16:04:04 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/19 16:04:04 Anyone is allowed
+2018/10/19 16:04:04 Render layout frontend
+2018/10/19 16:04:04 Layout prepend running
+2018/10/19 16:04:04 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/19 16:04:04 Anyone is allowed
+2018/10/19 16:04:04 Render layout frontend
+2018/10/19 16:04:04 Layout prepend running
+2018/10/19 16:04:04 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/19 16:04:04 Anyone is allowed
+2018/10/19 16:04:04 Render layout frontend
+2018/10/19 16:04:04 Layout prepend running
+2018/10/19 16:04:04 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/19 16:04:04 Anyone is allowed
+2018/10/19 16:04:04 Render layout frontend
+2018/10/19 16:10:55 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Live:false Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[youtube: spotify: facebook: instagram: linkedin:] Language:{Allowed:[hu en]}}
+2018/10/19 16:10:55 Initializing translator
+2018/10/19 16:10:55 Translator initialization done
+2018/10/19 16:10:55 Ininialize connection
+2018/10/19 16:11:00 Layout prepend running
+2018/10/19 16:11:00 Adding css /assets/css/main.css
+2018/10/19 16:11:00 SELECT * FROM media_type ORDER BY id
+2018/10/19 16:11:00 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/19 16:11:00 Anyone is allowed
+2018/10/19 16:11:00 Render layout frontend
+2018/10/19 16:11:01 Layout prepend running
+2018/10/19 16:11:01 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/19 16:11:01 Anyone is allowed
+2018/10/19 16:11:01 Render layout frontend
+2018/10/19 16:11:01 Layout prepend running
+2018/10/19 16:11:01 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/19 16:11:01 Anyone is allowed
+2018/10/19 16:11:01 Layout prepend running
+2018/10/19 16:11:01 Layout prepend running
+2018/10/19 16:11:01 Layout prepend running
+2018/10/19 16:11:01 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/19 16:11:01 Anyone is allowed
+2018/10/19 16:11:01 Render layout frontend
+2018/10/19 16:13:58 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Live:false Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[linkedin: youtube: spotify: facebook: instagram:] Language:{Allowed:[hu en]}}
+2018/10/19 16:13:58 Initializing translator
+2018/10/19 16:13:58 Translator initialization done
+2018/10/19 16:13:58 Ininialize connection
+2018/10/19 16:14:01 Layout prepend running
+2018/10/19 16:14:01 Adding css /assets/css/main.css
+2018/10/19 16:14:01 SELECT * FROM media_type ORDER BY id
+2018/10/19 16:14:01 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/19 16:14:01 Anyone is allowed
+2018/10/19 16:14:01 Render layout frontend
+2018/10/19 16:14:02 Layout prepend running
+2018/10/19 16:14:02 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/19 16:14:02 Anyone is allowed
+2018/10/19 16:14:02 Render layout frontend
+2018/10/19 16:14:02 Layout prepend running
+2018/10/19 16:14:02 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/19 16:14:02 Anyone is allowed
+2018/10/19 16:14:02 Layout prepend running
+2018/10/19 16:14:02 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/19 16:14:02 Anyone is allowed
+2018/10/19 16:14:02 Layout prepend running
+2018/10/19 16:14:02 Layout prepend running
+2018/10/19 16:14:02 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/19 16:14:02 Anyone is allowed
+2018/10/19 16:14:02 Render layout frontend

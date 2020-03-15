@@ -1,0 +1,261 @@
+2018/10/09 11:11:27 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:mos.48p.in Type:website Title:Media Ownership Description:Media Ownership Image:/assets/images/mediaos.png} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeMinutes:3} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Live:false Debug:true Rebuild_structure:true} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[facebook: instagram: linkedin: youtube: spotify:] Language:{Allowed:[hu en]}}
+2018/10/09 11:11:27 Initializing translator
+2018/10/09 11:11:27 Translator initialization done
+2018/10/09 11:11:27 Ininialize connection
+2018/10/09 11:11:27 Rebuild database structure because config rebuild flag is true
+2018/10/09 11:11:27 Drop ban table
+2018/10/09 11:11:28 Create ban table
+2018/10/09 11:11:28 Create IDX_BAN_REMOTE_ADDRESS index
+2018/10/09 11:11:28 Drop request table
+2018/10/09 11:11:28 Create request table
+2018/10/09 11:11:28 Create IDX_REQUEST_REMOTE_ADDRESS index
+2018/10/09 11:11:28 Drop status table
+2018/10/09 11:11:28 Create status table
+2018/10/09 11:11:28 Adding Status 
+2018/10/09 11:11:28 Adding Status 
+2018/10/09 11:11:28 Adding Status 
+2018/10/09 11:11:28 Drop user_role table
+2018/10/09 11:11:28 Create user_role table
+2018/10/09 11:11:28 Create UIDX_USER_ROLE_USER_ID_ROLE index
+2018/10/09 11:11:28 Create IDX_USER_ROLE_USER_ID_USER_ID index
+2018/10/09 11:11:28 Create IDX_USER_ROLE_ROLE index
+2018/10/09 11:11:28 Drop user table
+2018/10/09 11:11:28 Create user table
+2018/10/09 11:11:28 Create IDX_USER_EMAIL index
+2018/10/09 11:11:28 Create IDX_USER_STATUS_ID_STATUS_ID index
+2018/10/09 11:11:28 Addig chiefAdmin user to database
+2018/10/09 11:11:28 Modify user roles 1
+2018/10/09 11:11:28 Modify user roles 2
+2018/10/09 11:11:28 Modify user roles 3
+2018/10/09 11:11:28 Drop config table
+2018/10/09 11:11:28 Create config table
+2018/10/09 11:11:28 Create IDX_CONFIG_PATH index
+2018/10/09 11:11:28 Drop block table
+2018/10/09 11:11:28 Create block table
+2018/10/09 11:11:28 Create IDX_BLOCK_IDENTIFIER_LC index
+2018/10/09 11:11:28 Drop operator table
+2018/10/09 11:11:28 Create operator table
+2018/10/09 11:11:28 Create IDX_OPERATOR_EVOLUTION_DATE index
+2018/10/09 11:11:28 Create IDX_OPERATOR_REGISTRATION_DATE index
+2018/10/09 11:11:28 Drop owner table
+2018/10/09 11:11:28 Create owner table
+2018/10/09 11:11:28 Create IDX_OWNER_HUNGARIAN index
+2018/10/09 11:11:28 Drop media_type table
+2018/10/09 11:11:28 Create media_type table
+2018/10/09 11:11:28 Drop media table
+2018/10/09 11:11:28 Create media table
+2018/10/09 11:11:28 ALTER TABLE media ADD CONSTRAINT FK_MEDIA_MEDIA_TYPE_ID_MEDIA_TYPE_ID FOREIGN KEY (media_type_id) REFERENCES media_type (id);
+2018/10/09 11:11:28 Create IDX_MEDIA_NEWS index
+2018/10/09 11:11:28 Drop media_owner table
+2018/10/09 11:11:28 Create media_owner table
+2018/10/09 11:11:28 Create UIDX_MEDIA_MEDIA_ID_OWNER_ID_YEAR index
+2018/10/09 11:11:28 Create foreign key FK_MEDIA_OWNER_MEDIA_ID 
+2018/10/09 11:11:28 ALTER TABLE media_owner ADD CONSTRAINT FK_MEDIA_OWNER_MEDIA_ID FOREIGN KEY (media_id) REFERENCES media (id);
+2018/10/09 11:11:28 Create foreign key FK_MEDIA_OWNER_OWNER_ID 
+2018/10/09 11:11:28 ALTER TABLE media_owner ADD CONSTRAINT FK_MEDIA_OWNER_OWNER_ID FOREIGN KEY (owner_id) REFERENCES owner (id);
+2018/10/09 11:11:28 Create IDX_MEDIA_OWNER_YEAR index
+2018/10/09 11:11:28 Drop media_operator table
+2018/10/09 11:11:28 Create media_operator table
+2018/10/09 11:11:28 Create foreign key FK_MEDIA_OPERATOR_MEDIA_ID 
+2018/10/09 11:11:28 ALTER TABLE media_operator ADD CONSTRAINT FK_MEDIA_OPERATOR_MEDIA_ID FOREIGN KEY (media_id) REFERENCES media (id);
+2018/10/09 11:11:28 Create foreign key FK_MEDIA_OPERATOR_OPERATOR_ID 
+2018/10/09 11:11:28 ALTER TABLE media_operator ADD CONSTRAINT FK_MEDIA_OPERATOR_OPERATOR_ID FOREIGN KEY (operator_id) REFERENCES operator (id);
+2018/10/09 11:11:28 Create IDX_MEDIA_MEDIA_ID_YEAR index
+2018/10/09 11:11:28 Drop interest table
+2018/10/09 11:11:28 Create interest table
+2018/10/09 11:11:28 Drop operator_yeardata table
+2018/10/09 11:11:28 Create operator_yeardata table
+2018/10/09 11:11:28 Create IDX_OPERATOR_YEARDATA_OPERATOR_ID_YEAR index
+2018/10/09 11:11:28 Drop operator_interest table
+2018/10/09 11:11:28 Create operator_interest table
+2018/10/09 11:11:28 Create IDX_OPERATOR_INTEREST_OPERATOR_ID_YEAR_INTEREST_ID index
+2018/10/09 11:11:28 STRUCTURE BUILDING DONE
+2018/10/09 11:11:28 Start importing operator data...
+2018/10/09 11:11:28 Parsing file Data/Uzemelteto_allando_attributumai_alapitasiev.csv
+
+2018/10/09 11:11:37 Parsing file Data/uzemelteto_allando_attributumai_alapitas_eve_1998_2009.csv
+
+2018/10/09 11:11:37 Parsing file Data/Uzemelteto_allando_attributumai_alapitasiev_2017is.csv
+
+2018/10/09 11:11:37 Done importing operator data...
+2018/10/09 11:11:37 Start importing owner data...
+2018/10/09 11:11:37 Parsing file Data/Tulajdonosok_allando_attributumai.csv
+
+2018/10/09 11:11:39 Parsing file Data/Vegtulajdonos_allando_attributumai_2017is.csv
+
+2018/10/09 11:11:40 Done importing owner data...
+2018/10/09 11:11:40 Start importing media data...
+2018/10/09 11:11:40 Parsing file Data/media_allando_attributumai_1998_2009.csv
+
+2018/10/09 11:11:40 Parsing file Data/Medium_allando_attributumai_hirmedium_2017.csv
+
+2018/10/09 11:11:42 Done importing media data...
+2018/10/09 11:11:42 Start importing media owner data...
+2018/10/09 11:11:42 Parsing file Data/Halozati_tablak_kesz_1998.csv
+
+2018/10/09 11:11:43 Parsing file Data/Halozati_tablak_kesz_1999.csv
+
+2018/10/09 11:11:44 Parsing file Data/Halozati_tablak_kesz_2000.csv
+
+2018/10/09 11:11:44 Parsing file Data/Halozati_tablak_kesz_2001.csv
+
+2018/10/09 11:11:45 Parsing file Data/Halozati_tablak_kesz_2002.csv
+
+2018/10/09 11:11:46 Parsing file Data/Halozati_tablak_kesz_2003.csv
+
+2018/10/09 11:11:47 Parsing file Data/Halozati_tablak_kesz_2004.csv
+
+2018/10/09 11:11:48 Parsing file Data/Halozati_tablak_kesz_2005.csv
+
+2018/10/09 11:11:48 Setting default language to user
+2018/10/09 11:11:48 Layout prepend running
+2018/10/09 11:11:48 Adding css /assets/css/main.css
+2018/10/09 11:11:48 SELECT * FROM media_type ORDER BY id
+2018/10/09 11:11:48 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/09 11:11:48 Anyone is allowed
+2018/10/09 11:11:48 Render layout frontend
+2018/10/09 11:12:54 Layout prepend running
+2018/10/09 11:12:54 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/09 11:12:54 Anyone is allowed
+2018/10/09 11:12:54 Layout prepend running
+2018/10/09 11:12:54 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/09 11:12:54 Anyone is allowed
+2018/10/09 11:12:54 Layout prepend running
+2018/10/09 11:12:54 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/09 11:12:54 Anyone is allowed
+2018/10/09 11:12:54 Layout prepend running
+2018/10/09 11:12:54 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/09 11:12:54 Anyone is allowed
+2018/10/09 11:12:54 Render layout frontend
+2018/10/09 11:12:54 Layout prepend running
+2018/10/09 11:12:54 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/09 11:12:54 Anyone is allowed
+2018/10/09 11:12:54 Render layout frontend
+2018/10/09 11:12:54 Render layout frontend
+2018/10/09 11:13:46 Setting default language to user
+2018/10/09 11:13:46 Layout prepend running
+2018/10/09 11:13:46 Adding css /assets/css/main.css
+2018/10/09 11:13:46 SELECT * FROM media_type ORDER BY id
+2018/10/09 11:13:46 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/09 11:13:46 Anyone is allowed
+2018/10/09 11:13:46 Render layout frontend
+2018/10/09 11:13:48 Layout prepend running
+2018/10/09 11:13:48 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/09 11:13:48 Anyone is allowed
+2018/10/09 11:13:48 Layout prepend running
+2018/10/09 11:13:48 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/09 11:13:48 Anyone is allowed
+2018/10/09 11:13:48 Layout prepend running
+2018/10/09 11:13:48 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/09 11:13:48 Anyone is allowed
+2018/10/09 11:13:48 Layout prepend running
+2018/10/09 11:13:48 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/09 11:13:48 Anyone is allowed
+2018/10/09 11:13:48 Render layout frontend
+2018/10/09 11:13:48 Layout prepend running
+2018/10/09 11:13:48 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/09 11:13:48 Anyone is allowed
+2018/10/09 11:13:48 Render layout frontend
+2018/10/09 11:13:58 Layout prepend running
+2018/10/09 11:13:58 Adding css /assets/css/main.css
+2018/10/09 11:13:58 SELECT * FROM media_type ORDER BY id
+2018/10/09 11:13:58 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/09 11:13:58 Anyone is allowed
+2018/10/09 11:13:58 Render layout frontend
+2018/10/09 11:13:59 Layout prepend running
+2018/10/09 11:13:59 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/09 11:13:59 Anyone is allowed
+2018/10/09 11:13:59 Layout prepend running
+2018/10/09 11:13:59 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/09 11:13:59 Anyone is allowed
+2018/10/09 11:13:59 Layout prepend running
+2018/10/09 11:13:59 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/09 11:13:59 Anyone is allowed
+2018/10/09 11:13:59 Layout prepend running
+2018/10/09 11:13:59 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/09 11:13:59 Anyone is allowed
+2018/10/09 11:13:59 Layout prepend running
+2018/10/09 11:13:59 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/09 11:13:59 Anyone is allowed
+2018/10/09 11:13:59 Render layout frontend
+2018/10/09 11:13:59 Render layout frontend
+2018/10/09 11:13:59 Render layout frontend
+2018/10/09 11:14:01 Layout prepend running
+2018/10/09 11:14:01 Adding css /assets/css/main.css
+2018/10/09 11:14:01 SELECT * FROM media_type ORDER BY id
+2018/10/09 11:14:01 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/09 11:14:01 Anyone is allowed
+2018/10/09 11:14:01 Render layout frontend
+2018/10/09 11:14:02 Layout prepend running
+2018/10/09 11:14:02 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/09 11:14:02 Anyone is allowed
+2018/10/09 11:14:02 Layout prepend running
+2018/10/09 11:14:02 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/09 11:14:02 Anyone is allowed
+2018/10/09 11:14:02 Layout prepend running
+2018/10/09 11:14:02 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/09 11:14:02 Anyone is allowed
+2018/10/09 11:14:02 Layout prepend running
+2018/10/09 11:14:02 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/09 11:14:02 Anyone is allowed
+2018/10/09 11:14:02 Render layout frontend
+2018/10/09 11:14:02 Layout prepend running
+2018/10/09 11:14:02 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/09 11:14:02 Anyone is allowed
+2018/10/09 11:14:02 Render layout frontend
+2018/10/09 11:14:02 Render layout frontend
+2018/10/09 11:14:11 Setting default language to user
+2018/10/09 11:14:11 Layout prepend running
+2018/10/09 11:14:11 Adding css /assets/css/main.css
+2018/10/09 11:14:11 SELECT * FROM media_type ORDER BY id
+2018/10/09 11:14:11 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/09 11:14:11 Anyone is allowed
+2018/10/09 11:14:11 Render layout frontend
+2018/10/09 11:14:12 Layout prepend running
+2018/10/09 11:14:12 REGEXP FOUND: "^/media$" in path "/media"
+
+2018/10/09 11:14:12 Anyone is allowed
+2018/10/09 11:14:12 Layout prepend running
+2018/10/09 11:14:12 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2018/10/09 11:14:12 Anyone is allowed
+2018/10/09 11:14:12 Layout prepend running
+2018/10/09 11:14:12 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2018/10/09 11:14:12 Anyone is allowed
+2018/10/09 11:14:12 Layout prepend running
+2018/10/09 11:14:12 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2018/10/09 11:14:12 Anyone is allowed
+2018/10/09 11:14:12 Render layout frontend
+2018/10/09 11:14:12 Render layout frontend
+2018/10/09 11:14:12 Layout prepend running
+2018/10/09 11:14:12 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2018/10/09 11:14:12 Anyone is allowed
+2018/10/09 11:14:12 Render layout frontend

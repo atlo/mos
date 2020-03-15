@@ -1,0 +1,41 @@
+2019/08/02 01:02:17 Setting default language to user
+2019/08/02 01:07:17 Setting default language to user
+2019/08/02 01:12:17 Setting default language to user
+2019/08/02 01:17:17 Setting default language to user
+2019/08/02 01:22:17 Setting default language to user
+2019/08/02 01:27:17 Setting default language to user
+2019/08/02 01:32:17 Setting default language to user
+2019/08/02 01:37:17 Setting default language to user
+2019/08/02 01:42:17 Setting default language to user
+2019/08/02 01:47:17 Setting default language to user
+2019/08/02 01:50:29 Setting default language to user
+2019/08/02 01:50:29 Layout prepend running
+2019/08/02 01:50:29 Adding css /assets/css/main.css
+2019/08/02 01:50:29 SELECT * FROM media_type ORDER BY id
+2019/08/02 01:50:29 REGEXP FOUND: "^/?" in path "/robots.txt"
+
+2019/08/02 01:50:29 Anyone is allowed
+2019/08/02 01:50:29 Render layout frontend
+2019/08/02 01:50:29 Setting default language to user
+2019/08/02 01:50:29 Layout prepend running
+2019/08/02 01:50:29 Adding css /assets/css/main.css
+2019/08/02 01:50:29 SELECT * FROM media_type ORDER BY id
+2019/08/02 01:50:29 REGEXP FOUND: "^/?" in path "/"
+
+2019/08/02 01:50:29 Anyone is allowed
+2019/08/02 01:50:29 Render layout frontend
+2019/08/02 01:50:33 Layout prepend running
+2019/08/02 01:50:33 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/08/02 01:50:33 Anyone is allowed
+2019/08/02 01:50:33 Render layout frontend
+2019/08/02 01:50:42 Setting default language to user
+2019/08/02 01:50:42 Layout prepend running
+2019/08/02 01:50:42 Adding css /assets/css/main.css
+2019/08/02 01:50:42 SELECT * FROM media_type ORDER BY id
+2019/08/02 01:50:42 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/08/02 01:50:42 Anyone is allowed
+2019/08/02 01:50:42 Render layout frontend
+2019/08/02 01:52:17 Setting default language to user
+2019/08/02 01:57:17 Setting default language to user

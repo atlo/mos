@@ -1,0 +1,8 @@
+2018/10/17 17:57:51 Changing language to en
+2018/10/17 17:57:51 Layout prepend running
+2018/10/17 17:57:51 Adding css /assets/css/main.css
+2018/10/17 17:57:51 SELECT * FROM media_type ORDER BY id
+2018/10/17 17:57:51 REGEXP FOUND: "^/?" in path "/"
+
+2018/10/17 17:57:51 Anyone is allowed
+2018/10/17 17:57:51 Render layout frontend

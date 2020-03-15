@@ -1,0 +1,57 @@
+<div class="overlay" data-overlay="graph">
+    <div class="overlay__content">
+        <div class="overlay__head">
+            <div class="overlay__titles">
+                <div class="overlay__title" data-overlay-title>{{.Title}}</div>
+                <div class="overlay__subtitle" data-overlay-subtitle>{{.GetSubtitle}}</div>
+            </div>
+            <div class="overlay__close" data-overlay-close="graph"></div>
+        </div>
+        {{if .Items}}
+        <div class="overlay__body">
+            <div class="overlay__graph-wrapper">
+                <div class="overlay__graph-bg">
+                    {{range .Items}}
+                    <div class="overlay__graph-item">{{index . "label"}}</div>
+                    {{end}}
+                </div>
+                <div class="overlay__graph" data-overlay-graph></div>
+            </div>
+            <div class="overlay__graph-navigation">
+                <div class="overlay__graph-navigation--up" data-overlay-scroll="up">
+                    <i class="icon icon-arrow-up" role="presentation" aria-hidden="true">
+                        <span class="icon__wrapper">
+                            <svg viewBox="0 0 256 256" role="img" focusable="false" aria-label="Icon">
+                                <title>Icon</title>
+                                <use href="#icon-arrow-up"></use>
+                            </svg>
+                        </span>
+                    </i>
+                </div>
+                <div class="overlay__graph-navigation--down" data-overlay-scroll="down">
+                    <i class="icon icon-arrow-down" role="presentation" aria-hidden="true">
+                        <span class="icon__wrapper">
+                            <svg viewBox="0 0 256 256" role="img" focusable="false" aria-label="Icon">
+                                <title>Icon</title>
+                                <use href="#icon-arrow-down"></use>
+                            </svg>
+                        </span>
+                    </i>
+                </div>
+            </div>
+        </div>
+        {{end}}
+        {{if .Years}}
+        <div class="overlay__footer">
+            <div class="dropdown dropdown--detailed" data-dropdown="detail">
+                <div class="dropdown__selected" data-dropdown-selected>2017</div>
+                <div class="dropdown__items">
+                    {{range .Years}}
+                    <div class="dropdown__item" data-dropdown-item="{{ . }}">{{ . }}</div>
+                    {{end}}
+                </div>
+            </div>
+        </div>
+        {{end}}
+    </div>
+</div>

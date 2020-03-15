@@ -1,0 +1,160 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  z-index: 1000;
+  pointer-events: none;
+  background: transparent;
+  transition: background-color .3s ease;
+
+  &--open {
+    pointer-events: all;
+    background: rgba(0, 0, 0, .4);
+
+    .overlay__content {
+      transform: translateX(0);
+    }
+  }
+
+  &__content {
+    width: 50%;
+    height: 100%;
+    padding: $base;
+    border-right: 1px solid rgba(153, 153, 153, .15);
+    background: $gray;
+    transform: translateX(-100%);
+    transition: transform .3s ease;
+    box-sizing: border-box;
+    
+    .overlay[data-overlay='graph'] & {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  &__title {
+    font-size: 18px;
+    color: $white;
+  }
+
+  &__subtitle {
+    padding-top: $base / 2;
+    color: $gray-2;
+  }
+
+  &__graph-wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-top: $base;
+    overflow: hidden;
+  }
+
+  &__graph {
+    position: absolute;
+    top: 60px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-right: -20px;
+    overflow: auto;
+    
+    svg {
+      display: block;
+    }
+
+    &--no-data {
+
+      &::after {
+        content: 'N/A';
+        display: block;
+        margin-top: $base * 4;
+        text-align: center;
+      }
+
+      svg {
+        display: none;
+      }
+    }
+  }
+
+  &__graph-bg {
+    display: flex;
+    height: 100%;
+    justify-content: space-between;
+  }
+
+  &__graph-item {
+    flex: 1;
+    font-size: 10px;
+    text-align: center;
+    text-transform: uppercase;
+
+    &:not(:last-of-type) {
+      border-right: 1px dashed $gray-2;
+    }
+  }
+
+  &__graph-navigation {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+    .icon {
+      cursor: pointer;
+    }
+
+    svg {
+      display: block;
+    }
+  }
+
+  &__close {
+    display: flex;
+    width: $base * 2;
+    height: $base * 2;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+
+    &::before,
+    &::after {
+      position: absolute;
+      content: '';
+      display: block;
+      width: $base * 2;
+      height: 2px;
+      background: $gray-2;
+    }
+
+    &::before {
+      transform: rotate(45deg);
+    }
+
+    &::after {
+      transform: rotate(-45deg);
+    }
+  }
+
+  &__head {
+    display: flex;
+    margin-bottom: $base;
+    justify-content: space-between;
+  }
+
+  &__body {
+    font-size: 16px;
+    line-height: 32px;
+    color: $gray-2;
+
+    .overlay[data-overlay='graph'] & {
+      position: relative;
+      flex: 1;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+extends ../overlay
+include ../../mixins/slider
+include ../../mixins/icon
+
+block vars
+    - overlayName = 'graph'
+
+block content
+    .overlay__head
+        .overlay__titles
+            .overlay__title(data-overlay-title) Cégnév
+            .overlay__subtitle Alapitasi év | Székhely | Anyaország
+        .overlay__close(data-overlay-close=overlayName)
+    .overlay__body
+        .overlay__graph-wrapper
+            .overlay__graph-bg
+                .overlay__graph-item Érdekeltség
+                .overlay__graph-item Végső tulajdonsos
+                .overlay__graph-item Tulajdonos
+                .overlay__graph-item Média
+            .overlay__graph(data-overlay-graph)
+        .overlay__graph-navigation
+            .overlay__graph-navigation--up(data-overlay-scroll="up")
+                +icon('arrow-up')
+            .overlay__graph-navigation--down(data-overlay-scroll="down")
+                +icon('arrow-down')
+    .overlay__footer
+        +slider('1998', '2017', 'detail')

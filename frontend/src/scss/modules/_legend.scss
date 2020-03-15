@@ -1,0 +1,100 @@
+.legend {
+  margin-bottom: $base;
+
+  &__row {
+    display: flex;
+
+    &.legend__table {
+      border: 1px solid $gray-2;
+      background: $gray-3;
+      box-sizing: border-box;
+
+      &:last-child {
+        border-top: none;
+      }
+
+      .legend__col {
+        padding: $base / 4 $base / 2;
+        box-sizing: border-box;
+
+        &:first-child {
+          border-right: 1px solid $gray-2;
+          box-sizing: border-box;
+        }
+      }
+    }
+  }
+
+  .text {
+    padding-bottom: $base / 4;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: $gray-2;
+  }
+
+  &__col {
+    flex: 0 0 50%;
+  }
+
+  &__item {
+    display: flex;
+    padding: $base / 4 0;
+    align-items: center;
+
+    span {
+      font-size: 12px;
+      color: $gray-2;
+    }
+    
+    &::before {
+      content: '';
+      display: inline-block;
+      width: $base / 2;
+      height: $base / 2;
+      margin-right: $base / 2;
+      border-radius: 50%;
+      background: currentColor;
+    }
+
+    &--income {
+      
+      &::before {
+        background: $gray-2;
+        box-shadow: 0 0 0 1px $gray-2, 0 0 0 2px $white;
+      }
+    }
+
+    &--interest {
+      position: relative;
+      padding-bottom: $base / 2 * 3;
+      
+      &::after {
+        position: absolute;
+        content: '';
+        width: 1px;
+        height: $base / 2 * 3;
+        top: $base / 2;
+        left: $base / 4;
+        background: repeating-linear-gradient(
+          $white 0, $white 2px, transparent 2px, transparent 4px
+        );
+      }
+    }
+  }
+
+  &__profit-wrapper {
+    display: flex;
+    width: 100%;
+    padding: $base / 4 $base / 2;
+  }
+
+  &__profit-title {
+    margin: $base / 4 0 $base;
+    font-size: 12px;
+    color: $gray-2;
+  }
+
+  &__scale {
+    margin-left: auto;
+  }
+}

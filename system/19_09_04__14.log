@@ -1,0 +1,46 @@
+2019/09/04 14:00:05 Setting default language to user
+2019/09/04 14:05:05 Setting default language to user
+2019/09/04 14:10:05 Setting default language to user
+2019/09/04 14:15:05 Setting default language to user
+2019/09/04 14:20:05 Setting default language to user
+2019/09/04 14:22:31 Changing language to hu
+2019/09/04 14:22:31 Layout prepend running
+2019/09/04 14:22:31 Adding css /assets/css/main.css
+2019/09/04 14:22:31 SELECT * FROM media_type ORDER BY id
+2019/09/04 14:22:31 REGEXP FOUND: "^/?" in path "/"
+
+2019/09/04 14:22:31 Anyone is allowed
+2019/09/04 14:22:32 Render layout frontend
+2019/09/04 14:22:33 Layout prepend running
+2019/09/04 14:22:33 Layout prepend running
+2019/09/04 14:22:33 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/09/04 14:22:33 Anyone is allowed
+2019/09/04 14:22:33 Render layout frontend
+2019/09/04 14:22:33 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/09/04 14:22:33 Anyone is allowed
+2019/09/04 14:22:33 Render layout frontend
+2019/09/04 14:22:33 Layout prepend running
+2019/09/04 14:22:33 Layout prepend running
+2019/09/04 14:22:33 Layout prepend running
+2019/09/04 14:22:33 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2019/09/04 14:22:33 Anyone is allowed
+2019/09/04 14:22:33 Render layout frontend
+2019/09/04 14:25:05 Setting default language to user
+2019/09/04 14:27:07 Setting default language to user
+2019/09/04 14:27:08 Setting default language to user
+2019/09/04 14:27:08 Layout prepend running
+2019/09/04 14:27:08 Adding css /assets/css/main.css
+2019/09/04 14:27:08 SELECT * FROM media_type ORDER BY id
+2019/09/04 14:27:08 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/09/04 14:27:08 Anyone is allowed
+2019/09/04 14:27:08 Render layout frontend
+2019/09/04 14:30:05 Setting default language to user
+2019/09/04 14:35:05 Setting default language to user
+2019/09/04 14:40:05 Setting default language to user
+2019/09/04 14:45:05 Setting default language to user
+2019/09/04 14:50:05 Setting default language to user
+2019/09/04 14:55:05 Setting default language to user

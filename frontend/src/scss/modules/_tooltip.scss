@@ -1,0 +1,67 @@
+.tooltip {
+  position: fixed;
+  max-width: $base * 12;
+  top: 0;
+  left: 0;
+  padding: $base / 2;
+  z-index: 1001;
+  font-size: 14px;
+  text-align: center;
+  color: $white;
+  pointer-events: none;
+  border: 2px solid $gray-2;
+  background: $gray;
+  transform: translate(-50%, -100%);
+  transition: opacity .3s ease;
+  
+  &::before,
+  &::after {
+    position: absolute;
+    content: '';
+    display: block;
+    top: 100%;
+    left: 50%;
+    border-bottom: $base / 2 solid transparent;
+    border-left: $base / 2 solid transparent;
+    border-right: $base / 2 solid transparent;
+    transform: translateX(-50%);
+  }
+  
+  &::before {
+    border-top: $base / 2 solid $gray-2;
+  }
+
+  &::after {
+    top: calc(100% - 3px);
+    border-top: $base / 2 solid $gray;
+  }
+
+  &--up {
+    
+    &::before,
+    &::after {
+      top: -$base - 2px;
+      border-top: $base / 2 solid transparent;
+    }
+
+    &::before {
+      border-bottom: $base / 2 solid $gray-2;
+    }
+
+    &::after {
+      top: -$base + 1px;
+      border-bottom: $base / 2 solid $gray;
+    }
+  }
+
+  &__inner {
+    text-align: left;
+  }
+
+  &__label {
+    margin: $base / 4 0;
+    font-size: $base / 2;
+    text-transform: uppercase;
+    color: $gray-2;
+  }
+}

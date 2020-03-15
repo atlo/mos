@@ -1,0 +1,125 @@
+2019/04/26 10:01:41 Config values are the following: {ViewDir:view ListenPort:9004 BrandUrl: ChiefAdmin:map[0:{Email:istvan.dombi@agl.group Password:mos180628 SuperAdmin:false} 1:{Email:lo@branditorial.hu Password:mos180628 SuperAdmin:false} 2:{Email:atom@agl.group Password:mos180628 SuperAdmin:false}] Og:{Url:http://mediaownershiptool.ceu.edu/ Type:website Title:Media Ownership Tool Description:Media Ownership Image:/assets/images/MOS_og.jpg} Environment:local Db:{Environment:map[local:{Host:localhost Username:mos Password:golangforever Name:mos}] MaxIdleCons:0 MaxOpenCons:0 MaxConnLifetimeSeconds:0} Server:{ReadTimeoutSeconds:20 WriteTimeoutSeconds:20 SessionKey:mediaownership MaxRPS:5 BanMinutes:10 BanActive:false} Mode:{Debug:true Rebuild_structure:false Rebuild_data:false} Cache:{Enabled:true Dir:view/cache} AdminRouter:admin ConfigValues:map[spotify: facebook: instagram: linkedin: youtube:] Language:{Allowed:[hu en]}}
+2019/04/26 10:01:41 Initializing translator
+2019/04/26 10:01:41 Translator initialization done
+2019/04/26 10:01:41 Ininialize connection
+2019/04/26 10:01:46 Layout prepend running
+2019/04/26 10:01:46 Adding css /assets/css/main.css
+2019/04/26 10:01:46 SELECT * FROM media_type ORDER BY id
+2019/04/26 10:01:46 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/26 10:01:46 Anyone is allowed
+2019/04/26 10:01:46 Render layout frontend
+2019/04/26 10:01:46 Layout prepend running
+2019/04/26 10:01:46 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/04/26 10:01:46 Anyone is allowed
+2019/04/26 10:01:46 Layout prepend running
+2019/04/26 10:01:46 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/04/26 10:01:46 Anyone is allowed
+2019/04/26 10:01:46 Render layout frontend
+2019/04/26 10:01:46 Layout prepend running
+2019/04/26 10:01:46 Layout prepend running
+2019/04/26 10:01:46 Layout prepend running
+2019/04/26 10:01:46 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2019/04/26 10:01:46 Anyone is allowed
+2019/04/26 10:01:46 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2019/04/26 10:01:46 Anyone is allowed
+2019/04/26 10:01:46 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/04/26 10:01:46 Anyone is allowed
+2019/04/26 10:01:46 Render layout frontend
+2019/04/26 10:04:47 Setting default language to user
+2019/04/26 10:08:24 Setting default language to user
+2019/04/26 10:08:54 Layout prepend running
+2019/04/26 10:08:54 Adding css /assets/css/main.css
+2019/04/26 10:08:54 SELECT * FROM media_type ORDER BY id
+2019/04/26 10:08:54 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/26 10:08:54 Anyone is allowed
+2019/04/26 10:08:54 Render layout frontend
+2019/04/26 10:08:54 Layout prepend running
+2019/04/26 10:08:54 Layout prepend running
+2019/04/26 10:08:54 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/04/26 10:08:54 Anyone is allowed
+2019/04/26 10:08:54 Layout prepend running
+2019/04/26 10:08:54 Layout prepend running
+2019/04/26 10:08:54 Render layout frontend
+2019/04/26 10:08:54 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/04/26 10:08:54 Anyone is allowed
+2019/04/26 10:08:54 Render layout frontend
+2019/04/26 10:08:54 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2019/04/26 10:08:54 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/04/26 10:08:54 Anyone is allowed
+2019/04/26 10:08:54 Render layout frontend
+2019/04/26 10:08:54 Layout prepend running
+2019/04/26 10:08:54 Anyone is allowed
+2019/04/26 10:08:54 Render layout frontend
+2019/04/26 10:08:54 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2019/04/26 10:08:54 Anyone is allowed
+2019/04/26 10:08:54 Render layout frontend
+2019/04/26 10:09:47 Setting default language to user
+2019/04/26 10:14:47 Setting default language to user
+2019/04/26 10:19:47 Setting default language to user
+2019/04/26 10:23:38 Layout prepend running
+2019/04/26 10:23:38 Adding css /assets/css/main.css
+2019/04/26 10:23:38 SELECT * FROM media_type ORDER BY id
+2019/04/26 10:23:38 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/26 10:23:38 Anyone is allowed
+2019/04/26 10:23:38 Render layout frontend
+2019/04/26 10:23:39 Layout prepend running
+2019/04/26 10:23:39 Layout prepend running
+2019/04/26 10:23:39 Layout prepend running
+2019/04/26 10:23:39 Layout prepend running
+2019/04/26 10:23:39 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/04/26 10:23:39 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/04/26 10:23:39 Anyone is allowed
+2019/04/26 10:23:39 Render layout frontend
+2019/04/26 10:24:47 Setting default language to user
+2019/04/26 10:25:12 Setting default language to user
+2019/04/26 10:25:28 Setting default language to user
+2019/04/26 10:25:28 Layout prepend running
+2019/04/26 10:25:28 Adding css /assets/css/main.css
+2019/04/26 10:25:28 SELECT * FROM media_type ORDER BY id
+2019/04/26 10:25:28 REGEXP FOUND: "^/?" in path "/"
+
+2019/04/26 10:25:28 Anyone is allowed
+2019/04/26 10:25:28 Render layout frontend
+2019/04/26 10:25:29 Layout prepend running
+2019/04/26 10:25:29 Layout prepend running
+2019/04/26 10:25:29 Layout prepend running
+2019/04/26 10:25:29 Layout prepend running
+2019/04/26 10:25:29 Layout prepend running
+2019/04/26 10:25:29 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/04/26 10:25:29 Anyone is allowed
+2019/04/26 10:25:29 Render layout frontend
+2019/04/26 10:25:29 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/04/26 10:25:29 Anyone is allowed
+2019/04/26 10:25:29 Render layout frontend
+2019/04/26 10:25:29 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/04/26 10:25:29 Anyone is allowed
+2019/04/26 10:25:29 Render layout frontend
+2019/04/26 10:25:29 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2019/04/26 10:25:29 Anyone is allowed
+2019/04/26 10:25:29 Render layout frontend
+2019/04/26 10:29:47 Setting default language to user
+2019/04/26 10:34:47 Setting default language to user
+2019/04/26 10:39:47 Setting default language to user
+2019/04/26 10:44:47 Setting default language to user
+2019/04/26 10:49:47 Setting default language to user
+2019/04/26 10:54:47 Setting default language to user
+2019/04/26 10:59:46 Setting default language to user

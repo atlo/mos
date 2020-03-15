@@ -1,0 +1,49 @@
+2019/05/07 11:00:58 Setting default language to user
+2019/05/07 11:05:58 Setting default language to user
+2019/05/07 11:10:58 Setting default language to user
+2019/05/07 11:15:58 Setting default language to user
+2019/05/07 11:20:58 Setting default language to user
+2019/05/07 11:23:37 Changing language to hu
+2019/05/07 11:23:37 Layout prepend running
+2019/05/07 11:23:37 Adding css /assets/css/main.css
+2019/05/07 11:23:37 SELECT * FROM media_type ORDER BY id
+2019/05/07 11:23:37 REGEXP FOUND: "^/?" in path "/"
+
+2019/05/07 11:23:37 Anyone is allowed
+2019/05/07 11:23:37 Render layout frontend
+2019/05/07 11:23:37 Setting default language to user
+2019/05/07 11:23:37 Layout prepend running
+2019/05/07 11:23:37 Setting default language to user
+2019/05/07 11:23:37 REGEXP FOUND: "^/connections$" in path "/connections"
+
+2019/05/07 11:23:37 Anyone is allowed
+2019/05/07 11:23:37 Render layout frontend
+2019/05/07 11:23:37 Layout prepend running
+2019/05/07 11:23:37 REGEXP FOUND: "^/media$" in path "/media"
+
+2019/05/07 11:23:37 Anyone is allowed
+2019/05/07 11:23:37 Render layout frontend
+2019/05/07 11:23:37 Setting default language to user
+2019/05/07 11:23:37 Setting default language to user
+2019/05/07 11:23:38 Layout prepend running
+2019/05/07 11:23:38 Setting default language to user
+2019/05/07 11:23:38 Layout prepend running
+2019/05/07 11:23:38 REGEXP FOUND: "^/operators$" in path "/operators"
+
+2019/05/07 11:23:38 Anyone is allowed
+2019/05/07 11:23:38 Render layout frontend
+2019/05/07 11:23:38 REGEXP FOUND: "^/owners$" in path "/owners"
+
+2019/05/07 11:23:38 Anyone is allowed
+2019/05/07 11:23:38 Render layout frontend
+2019/05/07 11:23:38 REGEXP FOUND: "^/interests$" in path "/interests"
+
+2019/05/07 11:23:38 Anyone is allowed
+2019/05/07 11:23:38 Render layout frontend
+2019/05/07 11:25:58 Setting default language to user
+2019/05/07 11:30:58 Setting default language to user
+2019/05/07 11:35:58 Setting default language to user
+2019/05/07 11:40:58 Setting default language to user
+2019/05/07 11:45:58 Setting default language to user
+2019/05/07 11:50:58 Setting default language to user
+2019/05/07 11:55:58 Setting default language to user

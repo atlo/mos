@@ -1,0 +1,178 @@
+menu:
+  - label: "User"
+    group: "user"
+    url: "user/index"
+    icon: "fa fa-user"
+    visibility: "*"
+    children:
+      0:
+        label: "Log In"
+        url: "user/login"
+        visibility: "!@"
+        icon: "fa fa-user"
+      1:
+        label: "List"
+        url: "user/index"
+        visibility: "user/list"
+        icon: "fa fa-list"
+      2:
+        label: "Add New"
+        url: "user/new"
+        visibility: "user/new"
+        icon: "fa fa-plus"
+  - label: "Block"
+    group: "block"
+    url: "block/index"
+    icon: "fa fa-comment"
+    visibility: "@"
+    children:
+      0:
+        label: "List"
+        url: "block/index"
+        visibility: "block/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "block/new"
+        visibility: "block/new"
+        icon: "fa fa-plus"
+  - label: "Config"
+    group: "config"
+    url: "config/index"
+    icon: "fa fa-edit"
+    visibility: "config/index"
+    children:
+      0:
+        label: "Edit"
+        url: "config/index"
+        visibility: "config/index"
+        icon: "fa fa-edit"
+  - label: "Media"
+    group: "media"
+    url: "media/index"
+    icon: "fa fa-film"
+    visibility: "media/list"
+    children:
+      0:
+        label: "List"
+        url: "media/index"
+        visibility: "media/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "media/new"
+        visibility: "media/new"
+        icon: "fa fa-plus"
+  - label: "Media Type"
+    group: "mediatype"
+    url: "mediatype/index"
+    icon: "fa fa-cog"
+    visibility: "mediatype/list"
+    children:
+      0:
+        label: "List"
+        url: "mediatype/index"
+        visibility: "mediatype/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "mediatype/new"
+        visibility: "mediatype/new"
+        icon: "fa fa-plus"
+  - label: "Media Owner"
+    group: "media"
+    url: "mediaowner/index"
+    icon: "fa fa-cog"
+    visibility: "media/list"
+    children:
+      0:
+        label: "List"
+        url: "mediaowner/index"
+        visibility: "media/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "mediaowner/new"
+        visibility: "media/new"
+        icon: "fa fa-plus"
+  - label: "Media Operator"
+    group: "media"
+    url: "mediaoperator/index"
+    icon: "fa fa-cog"
+    visibility: "media/list"
+    children:
+      0:
+        label: "List"
+        url: "mediaoperator/index"
+        visibility: "media/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "mediaoperator/new"
+        visibility: "media/new"
+        icon: "fa fa-plus"
+  - label: "Owner"
+    group: "owner"
+    url: "owner/index"
+    icon: "fa fa-user"
+    visibility: "owner/list"
+    children:
+      0:
+        label: "List"
+        url: "owner/index"
+        visibility: "owner/list"
+        icon: "fa fa-list"
+  - label: "Operator"
+    group: "operator"
+    url: "operator/index"
+    icon: "fa fa-lock"
+    visibility: "operator/list"
+    children:
+      0:
+        label: "List"
+        url: "operator/index"
+        visibility: "operator/list"
+        icon: "fa fa-list"
+  - label: "Operator Interests"
+    group: "operatorinterest"
+    url: "operatorinterest/index"
+    icon: "fa fa-lock"
+    visibility: "interest/list"
+    children:
+      0:
+        label: "List"
+        url: "operatorinterest/index"
+        visibility: "interest/list"
+        icon: "fa fa-list"
+  - label: "Operator Data"
+    group: "operator"
+    url: "operatordata/index"
+    icon: "fa fa-lock"
+    visibility: "operator/list"
+    children:
+      0:
+        label: "List"
+        url: "operatordata/index"
+        visibility: "operator/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "operatordata/new"
+        visibility: "operator/new"
+        icon: "fa fa-plus"
+  - label: "Interest"
+    group: "interest"
+    url: "interest/index"
+    icon: "fa fa-eye"
+    visibility: "interest/list"
+    children:
+      0:
+        label: "List"
+        url: "interest/index"
+        visibility: "interest/list"
+        icon: "fa fa-list"
+      1:
+        label: "Add New"
+        url: "interest/new"
+        visibility: "interest/new"
+        icon: "fa fa-plus"

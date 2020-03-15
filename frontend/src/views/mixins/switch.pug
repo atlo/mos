@@ -1,0 +1,4 @@
+mixin switch(text, id, checked, type, name)
+    .switch(data-switch=type)
+        input(type="radio" name=name id=id checked=checked value=id)
+        label(for=id) !{text}

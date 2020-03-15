@@ -1,0 +1,370 @@
+Medium_ID,Medium_nev,Médiatípus,Hír=1; nem hír=0
+19901,Alfa TV47,televízió,0
+10020,Animal Planet,televízió,0
+10022,Animax (A+),televízió,0
+10416,ATV,televízió,1
+10029,AXN,televízió,0
+19902,Budapest TV,televízió,1
+10107,Comedy Central,televízió,0
+19903,Cool TV (m+),televízió,0
+10123,D1 TV,televízió,0
+10142,Discovery Channel,televízió,0
+10151,DoQ,televízió,0
+10155,Duna,televízió,1
+10026,Duna World,televízió,1
+10170,Echo TV,televízió,1
+10235,Film Mánia,televízió,0
+10230,Film+,televízió,0
+10653,The Fishing and Hunting Channel,televízió,0
+10249,Fix,televízió,0
+10001,Főnix TV,televízió,1
+10273,Hálózat TV,televízió,0
+10297,Hír Tv,televízió,1
+10313,Info24,televízió,1
+19904,Írisz TV,televízió,0
+10403,Life Tv,televízió,0
+10412,M1,televízió,1
+10414,M2,televízió,0
+19905,M-Sat (A3),televízió,1
+10434,Minimax,televízió,0
+10450,MTV,televízió,0
+10500,Ozone TV,televízió,0
+10512,Pax TV,televízió,0
+10540,PV TV,televízió,0
+10547,Reflektor TV,televízió,0
+10556,RTL Klub,televízió,1
+19906,RTL + (TV Poén!),televízió,0
+19907,SATeLIT,televízió,0
+10478,Sláger TV,televízió,0
+10587,Sorozat+,televízió,0
+10588,Spektrum TV,televízió,0
+10130,Spektrum Home,televízió,0
+10593,Sport1,televízió,0
+10594,Sport2,televízió,0
+10590,Sport Klub,televízió,0
+10003,Story 4 (Story TV),televízió,0
+19909,Szív TV,televízió,0
+10687,TV Paprika,televízió,0
+10697,TV2,televízió,1
+19910,TV3,televízió,1
+10740,Viasat Explore,televízió,0
+10741,Viasat History,televízió,0
+10742,Viasat3,televízió,0
+10700,Viasat6 (TV6),televízió,0
+10747,Vitál TV,televízió,0
+10748,VIVA (Z+),televízió,0
+19911,Zenit TV,televízió,1
+29901,Sláger Rádió,rádió,1
+29902,Danubius Rádió,rádió,1
+20020,Class FM,rádió,1
+20102,Neo FM,rádió,1
+20096,Kossuth Rádió,rádió,1
+20097,Petőfi Rádió,rádió,1
+20098,Bartók Rádió,rádió,1
+29903,Calypso Rádió,rádió,1
+20066,Juventus Rádió,rádió,1
+20080,Klubrádió,rádió,1
+20048,Trend FM,rádió,1
+20062,Infó Rádió,rádió,1
+20121,Rádió 1 Budapest,rádió,1
+20179,Radiocafé 98.6,rádió,1
+29904,Radio Deejay,rádió,1
+20187,Roxy Rádió,rádió,1
+20053,Gong Rádió,rádió,1
+20196,Sztár FM,rádió,1
+29905,Rádió Bridge,rádió,1
+20090,Lánchíd Rádió,rádió,1
+29906,Est FM 98.6 - Pestiestrádió,rádió,1
+30004,Glossy girls (100xszép),sajtó,0
+30010,168 óra,sajtó,1
+30013,3. évezred,sajtó,0
+30107,Tanító,sajtó,0
+30112,A világ ...-b.n,sajtó,0
+30154,Adó ...,sajtó,0
+30199,Réka Alakreform,sajtó,0
+30222,Álompár,sajtó,0
+30226,Amelie,sajtó,0
+30277,Autó bazár,sajtó,0
+30278,Auto Bild Magyarország,sajtó,0
+30279,Autó és stílus,sajtó,0
+30280,Autó magazin,sajtó,0
+30287,Autó-motor,sajtó,0
+30311,Otthon,sajtó,0
+30323,Bács Irányár,sajtó,0
+30327,Bácskai napló,sajtó,1
+30374,A bátonyterenyei napló (Bátonyterenyei hírvivő),sajtó,1
+30389,Békés megyei hírlap,sajtó,1
+30409,Best magazin,sajtó,1
+30435,Blikk,sajtó,1
+30437,Blikk magazin csoport,sajtó,0
+30462,Bors,sajtó,1
+30464,Borsodi apró,sajtó,0
+30470,Bravo,sajtó,0
+30471,Bravo Girl!,sajtó,0
+30474,Buci Maci,sajtó,0
+30477,Budai polgár,sajtó,1
+30487,Budapest business journal,sajtó,0
+30497,Budapesti piac ,sajtó,0
+30499,Budapest szuperinfó (lapcsoport),sajtó,0
+30506,Business IT plusz ...,sajtó,0
+30535,Dunántúli napló cégtár ,sajtó,1
+30547,Chip,sajtó,0
+30563,CKM,sajtó,0
+30576,Cosmopolitan,sajtó,0
+30594,Családi lap,sajtó,0
+30617,Csók és könny,sajtó,0
+30647,Tiszaújváros szuperinfó,sajtó,0
+30650,Déli apró ,sajtó,0
+30654,Délmagyarország,sajtó,1
+30657,Délpesti kishekki ,sajtó,0
+30658,Délvilág,sajtó,1
+30680,Diéta & fitnesz,sajtó,0
+30681,Digitális fotó,sajtó,0
+30739,Dunaújvárosi hírlap,sajtó,1
+30764,Egészség plusz ...,sajtó,0
+30806,Élet és irodalom,sajtó,1
+30819,Elle Magyarország,sajtó,1
+30820,Elle man,sajtó,1
+30863,Érdi újság,sajtó,1
+30876,Erzsébetváros,sajtó,1
+30888,Észak-Magyarország,sajtó,1
+30909,Europark magazin,sajtó,0
+30914,Éva (lapcsoport),sajtó,0
+30932,Extra frizura,sajtó,0
+30956,Fanny (lapcsoport),sajtó,0
+30972,Fehérvár,sajtó,1
+30973,Fehérvári 7 nap,sajtó,1
+30975,Fehérvári tények,sajtó,1
+30977,Fejér megyei hírlap,sajtó,1
+30986,Kiskunfélegyháza város és körzete szuperinfó,sajtó,0
+31009,Figyelő (lapcsoport),sajtó,1
+31048,Forró drót,sajtó,0
+31052,Fotel ,sajtó,0
+31053,Fotel mini ,sajtó,0
+31074,Futár,sajtó,0
+31107,Geo,sajtó,0
+31117,Glamour,sajtó,0
+31136,Gördülő hírek ,sajtó,0
+31143,Kecskeméti grátisz,sajtó,0
+31195,Parkpress,sajtó,0
+31206,Hajdú apró,sajtó,0
+31209,Hajdú-bihari napló,sajtó,1
+31243,Harvard business review,sajtó,0
+31245,Haszon (lapcsoport),sajtó,1
+31247,Haszongép bazár,sajtó,0
+31254,Hatvani hírlap (Hatvani hírek) ,sajtó,1
+31260,Házak & kertek,sajtó,0
+31275,HelloBaby!,sajtó,0
+31329,Heti válasz,sajtó,1
+31331,Heves megyei hírlap,sajtó,1
+31333,Hevesi apró,sajtó,0
+31340,Hídlap,sajtó,0
+31426,Horizon,sajtó,0
+31435,Hot!,sajtó,0
+31440,Hölgyválasz ,sajtó,0
+31441,Hölgyvilág,sajtó,0
+31448,Human resources magazin,sajtó,0
+31468,HVG (lapcsoport),sajtó,1
+31485,IM,sajtó,0
+31502,Ingatlan plusz ...,sajtó,0
+31507,InStyle,sajtó,0
+31512,Interpress magazin,sajtó,0
+31516,Ínyenc,sajtó,0
+31517,Irányár,sajtó,0
+31537,IT plusz,sajtó,0
+31568,Ízek és érzések,sajtó,0
+31587,Jó tanács,sajtó,0
+31609,Joy,sajtó,0
+31612,József körút ,sajtó,1
+31641,Kapos extra ,sajtó,0
+31698,Keleti apró,sajtó,0
+31700,Kelet-Magyarország,sajtó,1
+31737,Kétheti Rtv műsor magazin,sajtó,0
+31751,Kisalföld (lapcsoport),sajtó,1
+31754,Kisalföldi gazdaság,sajtó,1
+31769,Kiskegyed (lapcsoport),sajtó,0
+31779,Kismama,sajtó,0
+31793,Kisváros grátisz,sajtó,0
+31808,Komárom-Esztergom megyei 24 óra,sajtó,1
+31906,Kritika,sajtó,1
+31933,Lakáskultúra,sajtó,0
+31941,Presztízs top 100,sajtó,1
+31947,Látkép,sajtó,0
+31948,Látkép extra,sajtó,0
+32011,Luxury Budapest,sajtó,0
+32012,Luxury ingatlan,sajtó,0
+32053,Magyar hírlap,sajtó,1
+32071,Magyar narancs,sajtó,1
+32073,Magyar nemzet,sajtó,1
+32093,Magyar tőkepiac (Értékpapír és tőzsde),sajtó,0
+32107,Mai belváros ,sajtó,1
+32113,Makói hirdető ,sajtó,0
+32117,Manager magazin,sajtó,0
+32123,Marie Claire,sajtó,0
+32141,Maxima,sajtó,0
+32164,Meglepetés (lapcsoport),sajtó,0
+32180,Mérnök újság,sajtó,0
+32192,Metropol (Metro),sajtó,1
+32211,Miskolci napló (MiNap),sajtó,1
+32214,Moha,sajtó,0
+32215,Mindmegette magazin,sajtó,0
+32226,Minimax magazin,sajtó,0
+32231,Miskolc info,sajtó,1
+32235,Miskolci erő ,sajtó,1
+32243,Miskolc szuperinfó,sajtó,0
+32247,MM műszaki magazin,sajtó,0
+32272,Motorrevü,sajtó,0
+32314,Műértő,sajtó,0
+32345,Színes ász (Napi ász),sajtó,1
+32346,Magyar idők (Napi gazdaság),sajtó,1
+32347,Napi ingatlan,sajtó,0
+32348,Napló,sajtó,1
+32353,National geographic Magyarország,sajtó,0
+32366,Nemzeti sport (lapcsoport),sajtó,0
+32375,Népszabadság (lapcsoport),sajtó,1
+32379,Népszava,sajtó,1
+32397,Nógrád megyei hírlap,sajtó,1
+32409,Nők lapja (lapcsoport),sajtó,0
+32439,Nyíregyházi napló,sajtó,1
+32452,Óbuda ,sajtó,1
+32460,Campus plusz,sajtó,0
+32503,Óvodai nevelés,sajtó,0
+32506,Öko plusz ...,sajtó,0
+32588,Pécsi hírek,sajtó,1
+32612,Pest megyei újság,sajtó,1
+32623,Petőfi népe,sajtó,1
+32627,Piac & Profit,sajtó,0
+32645,Playboy,sajtó,0
+32691,Popcorn,sajtó,0
+32707,Prémium (lapcsoport),sajtó,0
+32708,Prémium autó plusz,sajtó,0
+32785,Rejtvény terefere (lapcsoport),sajtó,0
+32817,Rtv tipp ,sajtó,0
+32827,Sárga rtv,sajtó,0
+32836,Saturn magazin ,sajtó,0
+32851,Shape,sajtó,0
+32895,Somogyi hírlap,sajtó,1
+32898,Soproni építész,sajtó,0
+32911,Sport & Style,sajtó,0
+32935,Story,sajtó,0
+32959,Szabad föld,sajtó,1
+32984,"Számvitel, adó, könyvvizsgálat",sajtó,0
+33013,Szegedi tükör,sajtó,1
+33037,Szentesi hirdető ,sajtó,0
+33071,Színes kéthetes,sajtó,0
+33072,Színes rtv,sajtó,0
+33074,Színes infó ,sajtó,0
+33160,Társadalombiztosítás ...,sajtó,0
+33192,Tempó,sajtó,0
+33196,Terefere party (Terefere),sajtó,0
+33228,Tina konyha,sajtó,0
+33253,Tolnai népújság,sajtó,1
+33297,TV kéthetes,sajtó,0
+33300,Tv revü,sajtó,0
+33301,TVR újság,sajtó,0
+33302,Tvr-hét,sajtó,0
+33314,Új Dunántúli napló,sajtó,1
+33340,Új Néplap,sajtó,1
+33344,Újbuda ,sajtó,1
+33349,Újpesti napló ,sajtó,1
+33358,Utazás plusz ...,sajtó,0
+33366,Ügyes (lapcsoport),sajtó,0
+33382,Üzleti 7,sajtó,1
+33405,Életképek (Városházi napló),sajtó,1
+33417,Vas népe,sajtó,1
+33424,Vasárnapi észak,sajtó,1
+33427,Vasárnapi hírek,sajtó,1
+33428,Vasárnapi kelet,sajtó,1
+33430,Vasárnapi napló,sajtó,1
+33477,Veszprémi 7 nap,sajtó,1
+33493,Vidék íze,sajtó,0
+33499,Világgazdaság,sajtó,0
+33513,Vital magazin,sajtó,0
+33515,Vitorlázás magazin,sajtó,0
+33536,Wellness,sajtó,0
+33543,XIII. kerületi hírnök ,sajtó,1
+33546,Yacht magazin,sajtó,0
+33560,Zalai hírlap,sajtó,1
+33570,Zemplén szuperinfó,sajtó,0
+33591,Zsaru,sajtó,0
+33616,Fitt mama,sajtó,0
+33620,Helyi téma (lapcsoport) ,sajtó,0
+33621,Itthon (lapcsoport) ,sajtó,0
+33626,A 100 leggazdagabb,sajtó,0
+33636,Szuperinfó (lapcsoport) ,sajtó,0
+33637,Value,sajtó,0
+33748,Befektetés plusz …,sajtó,0
+33835,Szeged infó (Délmagyarország programpont) ,sajtó,0
+33836,Délvilág programpont ,sajtó,0
+33852,Béres egészség,sajtó,0
+33867,Energia magazin,sajtó,0
+33894,Exclusive Playboy,sajtó,0
+33905,Pecavilág,sajtó,0
+33941,Gyöngyösi újság (Gyöngyösi mozaik),sajtó,1
+34178,Mátraalja,sajtó,1
+34188,Mercedes-Benz magazin,sajtó,0
+34353,Portfolio ingatlan magazin (Resource),sajtó,0
+34430,Szuflé,sajtó,0
+34489,Trend magazin csak férfiaknak ,sajtó,0
+34490,Trend magazin csak nőknek ,sajtó,0
+34589,Lifestyle plusz …,sajtó,0
+34592,Népszabadság Top-kiadványok,sajtó,0
+34597,Grátisz (lapcsoport) ,sajtó,0
+34601,Tipp (lapcsoport) ,sajtó,0
+34623,Bor & pálinka plusz,sajtó,0
+34673,"Top 50, 100 (lapcsoport)",sajtó,0
+34688,Délmagyarország Breki,sajtó,0
+34814,Budapesti újság city,sajtó,1
+34831,Eszes (lapcsoport),sajtó,0
+34956,Rouge,sajtó,0
+34974,Szegedi hirdető ,sajtó,0
+35182,E.ON világ ,sajtó,0
+35249,Korzó magazin ,sajtó,0
+35270,N+ kókusz,sajtó,0
+35319,Termosz ,sajtó,0
+35563,Magyar bazár (lapcsoport) ,sajtó,0
+35632,Hajdúszoboszló szuperinfó,sajtó,0
+35672,Maraton Lapcsoport (lapcsoport) ,sajtó,0
+35707,Aréna magazin,sajtó,0
+35708,Top 100 + (lapcsoport),sajtó,1
+35710,Gáz.áram ,sajtó,0
+35711,Fine restaurants,sajtó,0
+35714,Business who is who,sajtó,0
+35715,Contemporary art in Hungary,sajtó,0
+35968,Győr+ hetilap,sajtó,1
+35972,Gasztro magazin ,sajtó,0
+35973,Diploma …,sajtó,0
+36084,Vasárnap reggel (lapcsoport) ,sajtó,1
+36209,Debreceni szuperinfó ,sajtó,0
+36222,Hajdúsági szuperinfó ,sajtó,0
+36273,Szeged körzeti szuperinfó,sajtó,0
+36598,Asztrológiai előrejelzés,sajtó,0
+36648,Nyugat-balatoni szuperinfó ,sajtó,0
+36675,Siófoki szuperinfó,sajtó,0
+36810,Városunk Salgótarján grátisz,sajtó,1
+36987,Vác és vonzáskörzete szuperinfó,sajtó,0
+36989,Szabolcs-Szatmár-Bereg megyei szuperinfó ,sajtó,0
+37031,Pontyvilág,sajtó,0
+37036,Régiópress ,sajtó,0
+37177,Voice,sajtó,0
+37241,50 követendő példa a sikerre,sajtó,0
+37393,Kecskemét szuperinfó,sajtó,0
+37489,Ház magazin ,sajtó,0
+37611,Rába magazin ,sajtó,0
+38676,Grabo cégtükör ,sajtó,0
+39901,Békés Megyei Nap,sajtó,1
+39902,Budapesti Reggel,sajtó,1
+39903,Cash-Flow,sajtó,1
+39904,Déli Hírlap,sajtó,1
+39905,Friss újság,sajtó,1
+39906,Komárom-Esztergom megyei Hírlap,sajtó,1
+39907,Napi ász,sajtó,1
+39908,Napi Magyarország,sajtó,1
+39909,Reggel,sajtó,1
+32966,Szabadság,sajtó,1
+39910,Új estidőben,sajtó,1
+36691,Zalaegerszegi 7 nap,sajtó,1
+32035,Magyar Demokrata,sajtó,1
+39911,Ez a hét,sajtó,1
+32047,Magyar Fórum,sajtó,1
+39912,Új Demokrata,sajtó,1

@@ -1,0 +1,44 @@
+2019/05/12 23:02:18 Setting default language to user
+2019/05/12 23:07:18 Setting default language to user
+2019/05/12 23:09:22 Setting default language to user
+2019/05/12 23:09:22 Layout prepend running
+2019/05/12 23:09:22 Adding css /assets/css/main.css
+2019/05/12 23:09:22 SELECT * FROM media_type ORDER BY id
+2019/05/12 23:09:22 REGEXP FOUND: "^/?" in path "/robots.txt"
+
+2019/05/12 23:09:22 Anyone is allowed
+2019/05/12 23:09:22 Render layout frontend
+2019/05/12 23:09:22 Setting default language to user
+2019/05/12 23:09:22 Layout prepend running
+2019/05/12 23:09:22 Adding css /assets/css/main.css
+2019/05/12 23:09:22 SELECT * FROM media_type ORDER BY id
+2019/05/12 23:09:22 REGEXP FOUND: "^/?" in path "/"
+
+2019/05/12 23:09:22 Anyone is allowed
+2019/05/12 23:09:22 Render layout frontend
+2019/05/12 23:12:18 Setting default language to user
+2019/05/12 23:17:19 Setting default language to user
+2019/05/12 23:22:19 Setting default language to user
+2019/05/12 23:27:19 Setting default language to user
+2019/05/12 23:32:18 Setting default language to user
+2019/05/12 23:37:18 Setting default language to user
+2019/05/12 23:42:19 Setting default language to user
+2019/05/12 23:46:53 Setting default language to user
+2019/05/12 23:46:53 Layout prepend running
+2019/05/12 23:46:53 Adding css /assets/css/main.css
+2019/05/12 23:46:53 SELECT * FROM media_type ORDER BY id
+2019/05/12 23:46:53 REGEXP FOUND: "^/?" in path "/robots.txt"
+
+2019/05/12 23:46:53 Anyone is allowed
+2019/05/12 23:46:53 Render layout frontend
+2019/05/12 23:46:57 Setting default language to user
+2019/05/12 23:46:57 Layout prepend running
+2019/05/12 23:46:57 Adding css /assets/css/main.css
+2019/05/12 23:46:57 SELECT * FROM media_type ORDER BY id
+2019/05/12 23:46:57 REGEXP FOUND: "^/?" in path "/favicon.ico"
+
+2019/05/12 23:46:57 Anyone is allowed
+2019/05/12 23:46:57 Render layout frontend
+2019/05/12 23:47:19 Setting default language to user
+2019/05/12 23:52:19 Setting default language to user
+2019/05/12 23:57:19 Setting default language to user

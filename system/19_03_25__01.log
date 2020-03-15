@@ -1,0 +1,27 @@
+2019/03/25 01:02:04 Setting default language to user
+2019/03/25 01:07:04 Setting default language to user
+2019/03/25 01:12:04 Setting default language to user
+2019/03/25 01:17:04 Setting default language to user
+2019/03/25 01:22:04 Setting default language to user
+2019/03/25 01:27:04 Setting default language to user
+2019/03/25 01:32:03 Setting default language to user
+2019/03/25 01:35:02 Setting default language to user
+2019/03/25 01:35:02 Layout prepend running
+2019/03/25 01:35:02 Adding css /assets/css/main.css
+2019/03/25 01:35:02 SELECT * FROM media_type ORDER BY id
+2019/03/25 01:35:02 REGEXP FOUND: "^/?" in path "/wp-login.php"
+
+2019/03/25 01:35:02 Anyone is allowed
+2019/03/25 01:35:02 Render layout frontend
+2019/03/25 01:35:02 Layout prepend running
+2019/03/25 01:35:02 Adding css /assets/css/main.css
+2019/03/25 01:35:02 SELECT * FROM media_type ORDER BY id
+2019/03/25 01:35:02 REGEXP FOUND: "^/?" in path "/"
+
+2019/03/25 01:35:02 Anyone is allowed
+2019/03/25 01:35:02 Render layout frontend
+2019/03/25 01:37:03 Setting default language to user
+2019/03/25 01:42:03 Setting default language to user
+2019/03/25 01:47:03 Setting default language to user
+2019/03/25 01:52:03 Setting default language to user
+2019/03/25 01:57:03 Setting default language to user

@@ -1,0 +1,36 @@
+svg {
+  border: none;
+}
+
+circle {
+  
+  &.node {
+    cursor: pointer;
+    stroke: $white;
+    stroke-width: .5px;
+    
+    &.directory {
+      stroke: $gray-2;
+      stroke-width: 2px;
+    }
+
+    &.collapsed {
+      stroke: $gray;
+    }
+  }
+}
+
+.nodetext {
+  font-weight: 700;
+  text-shadow: 0 0 .2em $white;
+  fill: $gray;
+}
+  
+line {
+
+  &.link {
+    fill: none;
+    stroke: $gray-2;
+    stroke-width: 1.5px;
+  }
+}
