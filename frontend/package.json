@@ -45,7 +45,7 @@
     "webpack-svg-sprite-plugin": "^1.2.0"
   },
   "dependencies": {
-    "mongodb": "^3.0.10",
+    "mongodb": "^3.1.13",
     "svg-shape-blend": "^1.0.7"
   }
 }
